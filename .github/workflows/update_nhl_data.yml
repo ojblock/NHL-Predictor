@@ -1,0 +1,37 @@
+name: Update NHL Stats Daily
+
+on:
+  schedule:
+    # Runs at 09:00 UTC daily (adjust as needed - this is 2 AM PDT)
+    # Running later (e.g., 12:00 UTC / 5 AM PDT) ensures stats are finalized
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # Match your project's Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run data update script
+        run: python 1_data_collector.py # Script now defaults to yesterday
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add nhl_historical_stats.csv
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "Automated update: Add NHL stats for $(date -d 'yesterday' '+%Y-%m-%d')"
+          git push
