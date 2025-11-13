@@ -9,10 +9,10 @@ import pytz
 
 # --- Configuration ---
 MODEL_FILENAME = 'nhl_goal_predictor_model.joblib'
-HISTORICAL_DATA_FILENAME = 'nhl_featured_stats.csv' # Data with features
-RAW_DATA_FILENAME = 'nhl_historical_stats.csv'     # Raw daily data
+HISTORICAL_DATA_FILENAME = 'nhl_featured_stats.csv' 
+RAW_DATA_FILENAME = 'nhl_historical_stats.csv'     
 ROLL_WINDOW = 10
-YOUR_TIMEZONE = 'America/Vancouver' # Set to your local timezone
+YOUR_TIMEZONE = 'America/Vancouver' 
 
 # --- Helper Functions ---
 def get_full_team_name(team_data):
@@ -28,7 +28,7 @@ def get_full_team_name(team_data):
         pass
     return None
 
-@st.cache_resource(ttl=3600) # Cache the session for 1 hour
+@st.cache_resource(ttl=3600) 
 def get_requests_session():
     """Creates a robust requests session with retries."""
     session = requests.Session()
@@ -37,16 +37,20 @@ def get_requests_session():
     session.mount("https://", adapter)
     return session
 
-@st.cache_data(ttl=600) # Cache this data for 10 minutes
-def get_tonights_schedule_and_rosters(date_str, session):
+# --- 1. CHANGE HERE: Removed 'session' from the arguments ---
+@st.cache_data(ttl=600) 
+def get_tonights_schedule_and_rosters(date_str):
     """
     Fetches tonight's schedule AND all active player IDs from the gamecenter landing endpoints.
-    This is the key to solving the "stale roster" problem.
     """
+    
+    # --- 2. CHANGE HERE: Get the session *inside* the function ---
+    session = get_requests_session() 
+    
     st.write(f"Fetching schedule and active rosters for local date: {date_str}...")
     player_matchups = {}
     teams_playing_tonight = set()
-    active_roster_player_ids = set() # This will hold all players *actually* playing
+    active_roster_player_ids = set() 
 
     # 1. Fetch Schedule
     schedule_url = f"https://api-web.nhle.com/v1/schedule/{date_str}"
@@ -54,7 +58,7 @@ def get_tonights_schedule_and_rosters(date_str, session):
 
     if not schedule_data.get('gameWeek') or not schedule_data['gameWeek'][0]['games']:
         st.info(f"No games scheduled for {date_str}.")
-        return None, None, None # Return Nones if no games
+        return None, None, None 
 
     # 2. Loop through games to get matchups AND rosters
     game_pks = []
@@ -71,11 +75,9 @@ def get_tonights_schedule_and_rosters(date_str, session):
     # 3. Fetch Active Rosters for each game
     for game_pk in game_pks:
         try:
-            # The 'landing' endpoint contains the rosters
             landing_url = f"https://api-web.nhle.com/v1/gamecenter/{game_pk}/landing"
             game_data = session.get(landing_url).json()
             
-            # This list contains all players (scratched or not) for the game
             for player in game_data.get('rosterSpots', []):
                 active_roster_player_ids.add(player['playerId'])
         except Exception as e:
@@ -126,8 +128,7 @@ def load_raw_data(filename):
         return pd.DataFrame()
 
 # --- Initialize ---
-# Create a single session for all API calls in this run
-session = get_requests_session() 
+# NO LONGER NEED TO CREATE SESSION HERE
 model = load_model(MODEL_FILENAME)
 historical_df, unique_player_names = load_data(HISTORICAL_DATA_FILENAME)
 raw_historical_df = load_raw_data(RAW_DATA_FILENAME)
@@ -177,41 +178,35 @@ if st.button("Calculate Top 5 Predictions"):
     else:
         with st.spinner("Fetching schedule, checking active rosters, and predicting..."):
             
-            # 1. Get tonight's schedule, matchups, AND active roster IDs
             local_tz = pytz.timezone(YOUR_TIMEZONE)
             now_local = datetime.now(local_tz)
             tonight_str = now_local.strftime('%Y-%m-%d')
-            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str, session)
+            
+            # --- 3. CHANGE HERE: Removed 'session' from the call ---
+            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str)
 
             if schedule_fetched_successfully := (player_matchups is not None):
                 
-                # 2. Get latest stats for ALL players, then filter by ACTIVE ROSTER
                 latest_indices = historical_df.loc[historical_df.groupby('Player_ID')['Date'].idxmax()].index
                 latest_player_stats = historical_df.loc[latest_indices]
 
-                # --- THIS IS THE ROSTER FIX ---
-                # Filter by players who are *actually* on an active roster tonight
                 players_playing_tonight_df = latest_player_stats[latest_player_stats['Player_ID'].isin(active_roster_ids)].copy()
-                # --- END OF FIX ---
 
                 if players_playing_tonight_df.empty:
                     st.warning("Could not find recent stats for any players on tonight's active rosters.")
                 else:
-                    # 3. Engineer Features for active players
                     players_playing_tonight_df['Opponent'] = players_playing_tonight_df['Team'].map(player_matchups)
-                    players_playing_tonight_df.dropna(subset=['Opponent'], inplace=True) # Drop players if team isn't in matchups
+                    players_playing_tonight_df.dropna(subset=['Opponent'], inplace=True) 
 
                     if not players_playing_tonight_df.empty:
                         latest_team_def_stats = latest_player_stats.drop_duplicates(subset=['Team'], keep='last').set_index('Team')[f'Opp_GA_Avg_Last_{ROLL_WINDOW}']
                         players_playing_tonight_df[f'Opp_GA_Avg_Last_{ROLL_WINDOW}'] = players_playing_tonight_df['Opponent'].map(latest_team_def_stats).fillna(0)
 
-                        # 4. Make Predictions
                         try:
                             X_tonight_all = players_playing_tonight_df[feature_order]
                             probabilities_all = model.predict_proba(X_tonight_all)[:, 1]
                             players_playing_tonight_df['Goal_Probability'] = probabilities_all
 
-                            # 5. Get Top 5
                             top_5_results = players_playing_tonight_df[['Player_Name', 'Team', 'Opponent', 'Goal_Probability']].sort_values(
                                 by='Goal_Probability', ascending=False
                             ).head(5)
@@ -248,17 +243,17 @@ if st.button("Predict for Selected Players"):
     else:
         with st.spinner("Fetching schedule, checking active rosters, and predicting..."):
             
-            # 1. Get tonight's schedule, matchups, AND active roster IDs
             local_tz = pytz.timezone(YOUR_TIMEZONE)
             now_local = datetime.now(local_tz)
             tonight_str = now_local.strftime('%Y-%m-%d')
-            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str, session)
+            
+            # --- 3. CHANGE HERE (Again): Removed 'session' from the call ---
+            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str)
 
             if schedule_fetched_successfully := (player_matchups is not None):
                 tonight_players_data = []
                 skipped_players = []
 
-                # Get latest team defensive stats map (needed for opponent GA)
                 latest_indices = historical_df.loc[historical_df.groupby('Player_ID')['Date'].idxmax()].index
                 latest_player_stats_all = historical_df.loc[latest_indices]
                 latest_team_def_stats = latest_player_stats_all.drop_duplicates(subset=['Team'], keep='last').set_index('Team')[f'Opp_GA_Avg_Last_{ROLL_WINDOW}']
@@ -271,18 +266,16 @@ if st.button("Predict for Selected Players"):
                     player_recent_stats = player_all_stats.sort_values(by='Date').iloc[-1]
                     player_team = player_recent_stats['Team']
                     
-                    # --- ROSTER CHECK ---
                     player_id = player_recent_stats.get('Player_ID')
                     if not player_id or player_id not in active_roster_ids:
                         skipped_players.append(f"{player_name} (Not on tonight's active roster)")
                         continue
-                    # --- END ROSTER CHECK ---
 
                     opponent_team = player_matchups.get(player_team)
                     if not opponent_team:
                         skipped_players.append(f"{player_name} (Team '{player_team}' not playing tonight)"); continue
 
-                    opponent_ga_avg = latest_team_def_stats.get(opponent_team, 0) # Default to 0
+                    opponent_ga_avg = latest_team_def_stats.get(opponent_team, 0) 
 
                     features_dict = {
                         'Shots': player_recent_stats['Shots'], 'Hits': player_recent_stats['Hits'],
@@ -301,7 +294,6 @@ if st.button("Predict for Selected Players"):
                     features_dict['Opponent'] = opponent_team
                     tonight_players_data.append(features_dict)
 
-                # 3. Display Results
                 if tonight_players_data:
                     tonight_df = pd.DataFrame(tonight_players_data)
                     try:
