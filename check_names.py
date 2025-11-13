@@ -1,29 +1,43 @@
-import requests
-import json
-from datetime import datetime
+import pandas as pd
+import sys
 
-print("--- Fetching today's schedule to check API structure ---")
+print("--- Analyzing Player_ID column in nhl_featured_stats.csv ---")
+
 try:
-    # Let's find a date we know has games
-    today_str = "2024-10-10" # Use a date from last year's season start
-    schedule_url = f"https://api-web.nhle.com/v1/schedule/{today_str}"
+    df = pd.read_csv('nhl_featured_stats.csv')
     
-    print(f"Fetching data for {today_str}...")
-    schedule_data = requests.get(schedule_url).json()
+    if 'Player_ID' not in df.columns:
+        print("ERROR: 'Player_ID' column not found in the file!")
+        sys.exit()
 
-    if not schedule_data.get('gameWeek'):
-        print("No games found for this date to check.")
-    else:
-        # Get the very first game from that day
-        first_game = schedule_data['gameWeek'][0]['games'][0]
-        
-        print("\n--- Raw Game Data Structure ---")
-        # Pretty-print the JSON structure for just that one game
-        print(json.dumps(first_game, indent=2))
-        
-        print("\n--- Analysis Complete ---")
-        print("Please paste this entire output (especially the 'Raw Game Data Structure' block) back to me.")
-        print("This will show me the exact location of the team names.")
+    # 1. Check for missing values
+    missing_ids = df['Player_ID'].isna().sum()
+    print(f"Total rows: {len(df)}")
+    print(f"Rows with missing Player_ID: {missing_ids}")
 
+    # 2. Print the data type (dtype)
+    print(f"\nData type of 'Player_ID' column: {df['Player_ID'].dtype}")
+    
+    # 3. Print the first 5 non-missing Player_IDs
+    print("\nFirst 5 Player_IDs in the file (as they are loaded):")
+    print(df[df['Player_ID'].notna()]['Player_ID'].head())
+
+    # 4. Try the integer conversion
+    try:
+        # Get all unique, non-missing Player_IDs
+        unique_ids = df['Player_ID'].dropna().unique()
+        
+        # Try converting them
+        converted_ids = [int(pid) for pid in unique_ids]
+        print(f"\nSuccessfully converted {len(converted_ids)} unique Player_IDs to integer.")
+        print(f"Sample of converted IDs: {converted_ids[:5]}")
+        
+    except Exception as e:
+        print(f"\n---!!! FAILED to convert Player_IDs to integer !!!---")
+        print(f"ERROR: {e}")
+        print("This is the reason for the mismatch. The Player_ID column may contain non-numeric text or bad data.")
+
+except FileNotFoundError:
+    print("ERROR: nhl_featured_stats.csv not found.")
 except Exception as e:
-    print(f"An error occurred: {e}")
+    print(f"An unexpected error occurred: {e}")
