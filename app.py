@@ -52,7 +52,7 @@ def get_tonights_schedule_and_rosters(date_str):
     schedule_url = f"https://api-web.nhle.com/v1/schedule/{date_str}"
     schedule_data = session.get(schedule_url).json()
 
-    if not schedule_data.get('gameWeek') or not schedule_data['gameWeek'][0]['games']:
+    if not schedule_data.get('gameWeek') or not schedule_data.get('gameWeek')[0]['games']:
         st.info(f"No games scheduled for {date_str}.")
         return None, None, None 
 
@@ -73,9 +73,12 @@ def get_tonights_schedule_and_rosters(date_str):
             game_data = session.get(landing_url).json()
             
             for player in game_data.get('rosterSpots', []):
-                active_roster_player_ids.add(player['playerId'])
+                # --- THIS IS THE FIX ---
+                # Force the Player ID from the API to be an integer
+                active_roster_player_ids.add(int(player['playerId']))
+                # --- END OF FIX ---
         except Exception as e:
-            st.warning(f"Could not fetch roster for game {game_pk}: {e}")
+            st.warning(f"Could not fetch or process roster for game {game_pk}: {e}")
             
     st.success("Matchups and active rosters fetched successfully.")
     return player_matchups, teams_playing_tonight, active_roster_player_ids
@@ -99,10 +102,8 @@ def load_data(filename):
     try:
         df = pd.read_csv(filename)
         df['Date'] = pd.to_datetime(df['Date'])
-        # --- THIS IS THE FIX ---
-        df = df.dropna(subset=['Player_ID']) # Drop rows where Player_ID is missing
-        df['Player_ID'] = df['Player_ID'].astype(int) # Force it to integer
-        # ---
+        df = df.dropna(subset=['Player_ID']) 
+        df['Player_ID'] = df['Player_ID'].astype(int) 
         player_names = sorted(df['Player_Name'].unique())
         return df, player_names
     except FileNotFoundError:
@@ -117,10 +118,8 @@ def load_raw_data(filename):
     try:
         df = pd.read_csv(filename)
         df['Date'] = pd.to_datetime(df['Date'])
-        # --- THIS IS THE FIX ---
-        df = df.dropna(subset=['Player_ID']) # Drop rows where Player_ID is missing
-        df['Player_ID'] = df['Player_ID'].astype(int) # Force it to integer
-        # ---
+        df = df.dropna(subset=['Player_ID']) 
+        df['Player_ID'] = df['Player_ID'].astype(int) 
         return df
     except FileNotFoundError:
         st.error(f"❌ Error: Raw data file '{filename}' not found. Please ensure '1_data_collector.py' has run and the file is in the repository.")
@@ -265,7 +264,6 @@ if st.button("Predict for Selected Players"):
                     player_recent_stats = player_all_stats.sort_values(by='Date').iloc[-1]
                     player_team = player_recent_stats['Team']
                     
-                    # We can use Player_ID from the historical data for the check
                     player_id = player_recent_stats.get('Player_ID')
                     if not player_id or player_id not in active_roster_ids:
                         skipped_players.append(f"{player_name} (Not on tonight's active roster)")
