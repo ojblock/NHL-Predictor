@@ -37,14 +37,11 @@ def get_requests_session():
     session.mount("https://", adapter)
     return session
 
-# --- 1. CHANGE HERE: Removed 'session' from the arguments ---
 @st.cache_data(ttl=600) 
 def get_tonights_schedule_and_rosters(date_str):
     """
     Fetches tonight's schedule AND all active player IDs from the gamecenter landing endpoints.
     """
-    
-    # --- 2. CHANGE HERE: Get the session *inside* the function ---
     session = get_requests_session() 
     
     st.write(f"Fetching schedule and active rosters for local date: {date_str}...")
@@ -52,7 +49,6 @@ def get_tonights_schedule_and_rosters(date_str):
     teams_playing_tonight = set()
     active_roster_player_ids = set() 
 
-    # 1. Fetch Schedule
     schedule_url = f"https://api-web.nhle.com/v1/schedule/{date_str}"
     schedule_data = session.get(schedule_url).json()
 
@@ -60,7 +56,6 @@ def get_tonights_schedule_and_rosters(date_str):
         st.info(f"No games scheduled for {date_str}.")
         return None, None, None 
 
-    # 2. Loop through games to get matchups AND rosters
     game_pks = []
     for game in schedule_data['gameWeek'][0]['games']:
         game_pks.append(game['id'])
@@ -72,7 +67,6 @@ def get_tonights_schedule_and_rosters(date_str):
             teams_playing_tonight.add(home_team_name)
             teams_playing_tonight.add(away_team_name)
 
-    # 3. Fetch Active Rosters for each game
     for game_pk in game_pks:
         try:
             landing_url = f"https://api-web.nhle.com/v1/gamecenter/{game_pk}/landing"
@@ -105,6 +99,10 @@ def load_data(filename):
     try:
         df = pd.read_csv(filename)
         df['Date'] = pd.to_datetime(df['Date'])
+        # --- THIS IS THE FIX ---
+        df = df.dropna(subset=['Player_ID']) # Drop rows where Player_ID is missing
+        df['Player_ID'] = df['Player_ID'].astype(int) # Force it to integer
+        # ---
         player_names = sorted(df['Player_Name'].unique())
         return df, player_names
     except FileNotFoundError:
@@ -119,6 +117,10 @@ def load_raw_data(filename):
     try:
         df = pd.read_csv(filename)
         df['Date'] = pd.to_datetime(df['Date'])
+        # --- THIS IS THE FIX ---
+        df = df.dropna(subset=['Player_ID']) # Drop rows where Player_ID is missing
+        df['Player_ID'] = df['Player_ID'].astype(int) # Force it to integer
+        # ---
         return df
     except FileNotFoundError:
         st.error(f"❌ Error: Raw data file '{filename}' not found. Please ensure '1_data_collector.py' has run and the file is in the repository.")
@@ -128,7 +130,6 @@ def load_raw_data(filename):
         return pd.DataFrame()
 
 # --- Initialize ---
-# NO LONGER NEED TO CREATE SESSION HERE
 model = load_model(MODEL_FILENAME)
 historical_df, unique_player_names = load_data(HISTORICAL_DATA_FILENAME)
 raw_historical_df = load_raw_data(RAW_DATA_FILENAME)
@@ -182,7 +183,6 @@ if st.button("Calculate Top 5 Predictions"):
             now_local = datetime.now(local_tz)
             tonight_str = now_local.strftime('%Y-%m-%d')
             
-            # --- 3. CHANGE HERE: Removed 'session' from the call ---
             player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str)
 
             if schedule_fetched_successfully := (player_matchups is not None):
@@ -247,7 +247,6 @@ if st.button("Predict for Selected Players"):
             now_local = datetime.now(local_tz)
             tonight_str = now_local.strftime('%Y-%m-%d')
             
-            # --- 3. CHANGE HERE (Again): Removed 'session' from the call ---
             player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str)
 
             if schedule_fetched_successfully := (player_matchups is not None):
@@ -266,6 +265,7 @@ if st.button("Predict for Selected Players"):
                     player_recent_stats = player_all_stats.sort_values(by='Date').iloc[-1]
                     player_team = player_recent_stats['Team']
                     
+                    # We can use Player_ID from the historical data for the check
                     player_id = player_recent_stats.get('Player_ID')
                     if not player_id or player_id not in active_roster_ids:
                         skipped_players.append(f"{player_name} (Not on tonight's active roster)")
