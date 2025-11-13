@@ -37,50 +37,65 @@ def get_requests_session():
     session.mount("https://", adapter)
     return session
 
-@st.cache_data(ttl=600) 
-def get_tonights_schedule_and_rosters(date_str):
+@st.cache_data(ttl=600) # Cache schedule/roster data for 10 minutes
+def get_tonights_data(date_str):
     """
-    Fetches tonight's schedule AND all active player IDs from the gamecenter landing endpoints.
+    Fetches schedule, matchups, AND all active player IDs from the team's CURRENT roster endpoint.
     """
     session = get_requests_session() 
-    
     st.write(f"Fetching schedule and active rosters for local date: {date_str}...")
+    
     player_matchups = {}
     teams_playing_tonight = set()
-    active_roster_player_ids = set() 
+    team_name_to_abbrev = {} # e.g., "Edmonton Oilers": "EDM"
+    active_roster_player_ids = set() # All players on the *season roster* of teams playing
 
+    # 1. Fetch Schedule and Team Abbreviations
     schedule_url = f"https://api-web.nhle.com/v1/schedule/{date_str}"
     schedule_data = session.get(schedule_url).json()
 
-    if not schedule_data.get('gameWeek') or not schedule_data.get('gameWeek')[0]['games']:
+    if not schedule_data.get('gameWeek') or not schedule_data['gameWeek'][0]['games']:
         st.info(f"No games scheduled for {date_str}.")
         return None, None, None 
 
-    game_pks = []
     for game in schedule_data['gameWeek'][0]['games']:
-        game_pks.append(game['id'])
-        home_team_name = get_full_team_name(game.get('homeTeam'))
-        away_team_name = get_full_team_name(game.get('awayTeam'))
-        if home_team_name and away_team_name:
-            player_matchups[home_team_name] = away_team_name
-            player_matchups[away_team_name] = home_team_name
-            teams_playing_tonight.add(home_team_name)
-            teams_playing_tonight.add(away_team_name)
-
-    for game_pk in game_pks:
         try:
-            landing_url = f"https://api-web.nhle.com/v1/gamecenter/{game_pk}/landing"
-            game_data = session.get(landing_url).json()
+            home_team_name = get_full_team_name(game.get('homeTeam'))
+            away_team_name = get_full_team_name(game.get('awayTeam'))
+            home_abbrev = game['homeTeam']['abbrev']
+            away_abbrev = game['awayTeam']['abbrev']
             
-            for player in game_data.get('rosterSpots', []):
-                # --- THIS IS THE FIX ---
-                # Force the Player ID from the API to be an integer
-                active_roster_player_ids.add(int(player['playerId']))
-                # --- END OF FIX ---
+            if home_team_name and away_team_name and home_abbrev and away_abbrev:
+                player_matchups[home_team_name] = away_team_name
+                player_matchups[away_team_name] = home_team_name
+                teams_playing_tonight.add(home_team_name)
+                teams_playing_tonight.add(away_team_name)
+                team_name_to_abbrev[home_team_name] = home_abbrev
+                team_name_to_abbrev[away_team_name] = away_abbrev
         except Exception as e:
-            st.warning(f"Could not fetch or process roster for game {game_pk}: {e}")
+            st.warning(f"Could not parse game data: {e}")
+
+    # 2. Fetch *Current Season Rosters* for all teams playing
+    teams_to_fetch = teams_playing_tonight.copy() # Avoid modifying set while iterating
+    for team_name in teams_to_fetch:
+        team_abbrev = team_name_to_abbrev.get(team_name)
+        if not team_abbrev:
+            continue
             
-    st.success("Matchups and active rosters fetched successfully.")
+        try:
+            roster_url = f"https://api-web.nhle.com/v1/roster/{team_abbrev}/current"
+            roster_data = session.get(roster_url).json()
+            
+            # Combine forwards, defensemen, and goalies
+            all_players = roster_data.get('forwards', []) + roster_data.get('defensemen', []) + roster_data.get('goalies', [])
+            
+            for player in all_players:
+                active_roster_player_ids.add(player['id']) # Note: API uses 'id' here
+                
+        except Exception as e:
+            st.warning(f"Could not fetch roster for {team_name}: {e}")
+            
+    st.success(f"Matchups and {len(active_roster_player_ids)} active NHL players fetched successfully.")
     return player_matchups, teams_playing_tonight, active_roster_player_ids
 
 # --- Load Model and Data ---
@@ -176,20 +191,25 @@ if st.button("Calculate Top 5 Predictions"):
     if model is None or historical_df.empty or not feature_order:
         st.error("Model or data not loaded correctly. Cannot make predictions.")
     else:
-        with st.spinner("Fetching schedule, checking active rosters, and predicting..."):
+        with st.spinner("Fetching schedule, checking active NHL rosters, and predicting..."):
             
             local_tz = pytz.timezone(YOUR_TIMEZONE)
             now_local = datetime.now(local_tz)
             tonight_str = now_local.strftime('%Y-%m-%d')
             
-            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str)
+            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_data(tonight_str)
 
             if schedule_fetched_successfully := (player_matchups is not None):
                 
                 latest_indices = historical_df.loc[historical_df.groupby('Player_ID')['Date'].idxmax()].index
                 latest_player_stats = historical_df.loc[latest_indices]
 
-                players_playing_tonight_df = latest_player_stats[latest_player_stats['Player_ID'].isin(active_roster_ids)].copy()
+                # --- THIS IS THE ROSTER FIX ---
+                # 1. Filter by players on a team that is playing tonight
+                players_on_playing_teams_df = latest_player_stats[latest_player_stats['Team'].isin(teams_playing_tonight)].copy()
+                # 2. Filter *that* list by players who are *also* on the current season roster
+                players_playing_tonight_df = players_on_playing_teams_df[players_on_playing_teams_df['Player_ID'].isin(active_roster_ids)].copy()
+                # --- END OF FIX ---
 
                 if players_playing_tonight_df.empty:
                     st.warning("Could not find recent stats for any players on tonight's active rosters.")
@@ -240,13 +260,13 @@ if st.button("Predict for Selected Players"):
     elif model is None or historical_df.empty or not feature_order:
         st.error("Model or data not loaded correctly. Cannot make predictions.")
     else:
-        with st.spinner("Fetching schedule, checking active rosters, and predicting..."):
+        with st.spinner("Fetching schedule, checking active NHL rosters, and predicting..."):
             
             local_tz = pytz.timezone(YOUR_TIMEZONE)
             now_local = datetime.now(local_tz)
             tonight_str = now_local.strftime('%Y-%m-%d')
             
-            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_schedule_and_rosters(tonight_str)
+            player_matchups, teams_playing_tonight, active_roster_ids = get_tonights_data(tonight_str)
 
             if schedule_fetched_successfully := (player_matchups is not None):
                 tonight_players_data = []
@@ -264,10 +284,12 @@ if st.button("Predict for Selected Players"):
                     player_recent_stats = player_all_stats.sort_values(by='Date').iloc[-1]
                     player_team = player_recent_stats['Team']
                     
+                    # --- ROSTER CHECK ---
                     player_id = player_recent_stats.get('Player_ID')
                     if not player_id or player_id not in active_roster_ids:
-                        skipped_players.append(f"{player_name} (Not on tonight's active roster)")
+                        skipped_players.append(f"{player_name} (Not on current season roster)")
                         continue
+                    # --- END ROSTER CHECK ---
 
                     opponent_team = player_matchups.get(player_team)
                     if not opponent_team:
