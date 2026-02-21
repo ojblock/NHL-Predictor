@@ -2623,6 +2623,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025020893,2026-02-04,8473419,B. Marchand,Florida Panthers,0,0,0,0,0,0,655,0,0,0,0.5,0.0,1056.5,0.0,0.9,Boston Bruins,3.0
 2025090004,2026-02-12,8473419,B. Marchand,Canada,0,1,0,0,0,0,569,0,0,0,0.4,0.0,990.5,0.0,0.7,Czechia Czechia,0.0
 2025090025,2026-02-18,8473419,B. Marchand,Canada,0,0,0,0,0,0,433,0,0,0,0.3,0.0,918.6,0.0,0.5,Czechia Czechia,3.5
+2025090027,2026-02-20,8473419,B. Marchand,Canada,0,0,0,0,0,0,669,0,0,0,0.2,0.0,847.0,0.0,0.2,Finland,1.75
 2023020002,2023-10-10,8473422,N. Foligno,Chicago Blackhawks,1,1,0,1,2,0,892,0,0,1,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8473422,N. Foligno,Chicago Blackhawks,0,0,0,2,1,0,984,0,0,0,1.0,0.0,892.0,0.0,1.0,Boston Bruins,0.0
 2023020024,2023-10-14,8473422,N. Foligno,Chicago Blackhawks,0,0,0,4,0,0,1133,0,0,0,0.5,0.0,938.0,0.0,1.5,Montréal Canadiens,5.0
@@ -6540,6 +6541,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8474563,D. Doughty,Canada,0,0,0,0,0,0,830,0,0,0,0.0,0.0,1395.5,0.0,0.6,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8474563,D. Doughty,Canada,0,1,0,0,0,0,959,0,0,0,0.0,0.0,1332.7,0.0,0.5,France,5.0
 2025090025,2026-02-18,8474563,D. Doughty,Canada,0,0,0,0,0,0,858,0,0,0,0.0,0.0,1291.8,0.0,0.2,Czechia Czechia,3.5
+2025090027,2026-02-20,8474563,D. Doughty,Canada,0,0,0,0,0,0,473,0,0,0,0.0,0.0,1218.2,0.0,0.2,Finland,1.75
 2023020001,2023-10-10,8474564,S. Stamkos,Tampa Bay Lightning,0,1,0,2,0,2,1223,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8474564,S. Stamkos,Tampa Bay Lightning,2,1,0,0,0,0,1091,0,0,1,0.0,0.0,1223.0,0.0,2.0,Detroit Red Wings,4.0
 2023020055,2023-10-19,8474564,S. Stamkos,Tampa Bay Lightning,0,1,0,2,1,0,1135,0,0,0,1.0,0.0,1157.0,0.0,1.0,Vancouver Canucks,2.0
@@ -12781,6 +12783,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8475193,T. Tatar,Slovakia Slovakia,0,0,0,0,0,0,1039,0,0,0,0.1,0.0,785.5,0.0,0.5,Italy,5.0
 2025090011,2026-02-14,8475193,T. Tatar,Slovakia Slovakia,0,0,0,0,0,2,1175,0,0,0,0.1,0.0,815.3,0.0,0.5,Sweden,3.0
 2025090023,2026-02-18,8475193,T. Tatar,Slovakia Slovakia,1,0,0,0,0,0,962,0,0,1,0.1,0.0,849.1,0.0,0.3,Germany,2.75
+2025090028,2026-02-20,8475193,T. Tatar,Slovakia Slovakia,0,0,0,0,0,0,1014,0,0,0,0.1,0.0,871.8,0.0,0.2,USA,1.5
 2023020001,2023-10-10,8475197,T. Barrie,Nashville Predators,0,0,0,0,0,0,1278,0,0,0,0.0,0.0,0.0,0.0,0.0,Tampa Bay Lightning,0.0
 2023020015,2023-10-12,8475197,T. Barrie,Nashville Predators,0,0,0,1,0,0,1185,0,0,0,0.0,0.0,1278.0,0.0,0.0,Seattle Kraken,4.0
 2023020021,2023-10-14,8475197,T. Barrie,Nashville Predators,0,1,0,1,1,0,1400,0,0,0,0.0,0.0,1231.5,0.0,0.5,Boston Bruins,1.0
@@ -14689,6 +14692,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8475287,E. Haula,Finland,0,1,0,0,0,4,531,0,0,0,0.1,0.0,949.0,0.0,1.3,Sweden,2.0
 2025090013,2026-02-14,8475287,E. Haula,Finland,0,2,0,0,0,0,711,0,0,0,0.1,0.0,921.3,0.0,1.0,Italy,4.0
 2025090024,2026-02-18,8475287,E. Haula,Finland,0,0,0,0,0,0,672,0,0,0,0.1,0.0,891.4,0.0,0.9,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8475287,E. Haula,Finland,1,0,0,0,0,0,556,0,0,1,0.1,0.0,871.0,0.0,0.6,Canada,1.5
 2023020027,2023-10-14,8475314,A. Lee,New York Islanders,0,0,0,3,0,0,857,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,5.0
 2023020043,2023-10-17,8475314,A. Lee,New York Islanders,0,0,0,2,0,0,911,0,0,0,0.0,0.0,857.0,0.0,3.0,Arizona Coyotes,2.5
 2023020064,2023-10-20,8475314,A. Lee,New York Islanders,0,1,0,2,1,0,895,0,0,0,0.0,0.0,884.0,0.0,2.5,New Jersey Devils,3.3333333333333335
@@ -16238,6 +16242,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8475716,M. Marincin,Slovakia Slovakia,0,0,0,0,0,6,656,0,0,0,0.0,0.0,981.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8475716,M. Marincin,Slovakia Slovakia,0,0,0,0,0,2,555,0,0,0,0.0,0.0,818.5,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8475716,M. Marincin,Slovakia Slovakia,0,0,0,0,0,0,196,0,0,0,0.0,0.0,730.6666666666666,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8475716,M. Marincin,Slovakia Slovakia,0,0,0,0,0,0,534,0,0,0,0.0,0.0,597.0,0.0,0.0,USA,1.5
 2023020012,2023-10-12,8475718,J. Holl,Detroit Red Wings,0,0,0,0,1,0,867,0,0,0,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,0.0
 2023020023,2023-10-14,8475718,J. Holl,Detroit Red Wings,0,0,0,2,0,0,892,0,0,0,0.0,0.0,867.0,0.0,0.0,Tampa Bay Lightning,3.0
 2023020035,2023-10-16,8475718,J. Holl,Detroit Red Wings,0,0,0,0,0,2,1178,0,0,0,0.0,0.0,879.5,0.0,1.0,Columbus Blue Jackets,3.5
@@ -17649,6 +17654,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8475754,B. Nelson,USA,0,1,0,0,0,0,827,0,0,0,0.7,0.0,1201.1,0.0,0.5,Denmark Denmark,3.0
 2025090018,2026-02-15,8475754,B. Nelson,USA,0,0,0,0,0,0,679,0,0,0,0.7,0.0,1158.8,0.0,0.4,Germany,2.5
 2025090026,2026-02-18,8475754,B. Nelson,USA,0,0,0,0,0,0,752,0,0,0,0.7,0.0,1095.6,0.0,0.4,Sweden,2.5
+2025090028,2026-02-20,8475754,B. Nelson,USA,0,0,0,0,0,0,807,0,0,0,0.7,0.0,1035.0,0.0,0.4,Slovakia Slovakia,2.5
 2023020867,2024-02-19,8475755,A. Petrovic,Dallas Stars,0,0,0,2,0,0,772,0,0,0,0.0,0.0,0.0,0.0,0.0,Boston Bruins,2.6
 2024020373,2024-11-29,8475755,A. Petrovic,Dallas Stars,0,0,0,1,1,2,511,0,0,0,0.0,0.0,772.0,0.0,2.0,Colorado Avalanche,3.0
 2024020391,2024-12-01,8475755,A. Petrovic,Dallas Stars,0,0,0,3,2,0,756,0,0,0,0.0,0.0,641.5,0.0,1.5,Winnipeg Jets,3.0
@@ -19910,6 +19916,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8475798,M. Granlund,Finland,0,1,0,0,0,0,992,0,0,0,0.4,0.0,1236.1,0.0,0.5,Sweden,2.0
 2025090013,2026-02-14,8475798,M. Granlund,Finland,2,0,0,0,0,0,1035,0,0,1,0.3,0.0,1188.1,0.0,0.3,Italy,4.0
 2025090024,2026-02-18,8475798,M. Granlund,Finland,0,0,0,0,0,0,1212,0,0,0,0.5,0.0,1166.5,0.0,0.3,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8475798,M. Granlund,Finland,0,0,0,0,0,0,1064,0,0,0,0.5,0.0,1169.5,0.0,0.3,Canada,1.5
 2023020007,2023-10-11,8475799,N. Niederreiter,Winnipeg Jets,0,0,0,3,2,0,916,0,0,0,0.0,0.0,0.0,0.0,0.0,Calgary Flames,0.0
 2023020020,2023-10-14,8475799,N. Niederreiter,Winnipeg Jets,0,1,0,0,1,2,657,0,0,0,0.0,0.0,916.0,0.0,3.0,Florida Panthers,2.0
 2023020045,2023-10-17,8475799,N. Niederreiter,Winnipeg Jets,0,0,0,2,0,2,800,0,0,0,0.0,0.0,786.5,0.0,1.5,Los Angeles Kings,5.0
@@ -21127,6 +21134,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8475913,M. Stone,Canada,0,0,0,0,0,0,1018,0,0,0,0.4,0.0,1155.0,0.0,0.1,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8475913,M. Stone,Canada,1,2,0,0,0,0,800,0,0,1,0.4,0.0,1131.8,0.0,0.1,France,5.0
 2025090025,2026-02-18,8475913,M. Stone,Canada,0,0,0,0,0,0,929,0,0,0,0.3,0.0,1101.9,0.0,0.1,Czechia Czechia,3.5
+2025090027,2026-02-20,8475913,M. Stone,Canada,0,0,0,0,0,0,852,0,0,0,0.3,0.0,1089.3,0.0,0.1,Finland,1.75
 2023020789,2024-02-06,8475958,M. Sgarbossa,Washington Capitals,0,0,0,0,0,0,589,0,0,0,0.0,0.0,0.0,0.0,0.0,Montréal Canadiens,3.7
 2023020795,2024-02-08,8475958,M. Sgarbossa,Washington Capitals,0,1,0,1,0,0,559,0,0,0,0.0,0.0,589.0,0.0,0.0,Florida Panthers,2.9
 2023020808,2024-02-10,8475958,M. Sgarbossa,Washington Capitals,0,0,0,2,0,0,671,0,0,0,0.0,0.0,574.0,0.0,0.5,Boston Bruins,2.1
@@ -21717,6 +21725,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8476324,P. Ceresnak,Slovakia Slovakia,0,0,0,0,0,0,846,0,0,0,0.0,0.0,1002.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8476324,P. Ceresnak,Slovakia Slovakia,0,2,0,0,0,0,1149,0,0,0,0.0,0.0,924.0,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8476324,P. Ceresnak,Slovakia Slovakia,0,0,0,0,0,0,1046,0,0,0,0.0,0.0,999.0,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8476324,P. Ceresnak,Slovakia Slovakia,0,0,0,0,0,0,1106,0,0,0,0.0,0.0,1010.75,0.0,0.0,USA,1.5
 2023020037,2023-10-16,8476329,T. Boyd,Arizona Coyotes,0,0,0,1,1,0,546,0,0,0,0.0,0.0,0.0,0.0,0.0,New York Rangers,3.0
 2023020097,2023-10-24,8476329,T. Boyd,Arizona Coyotes,0,1,0,1,0,0,476,0,0,0,0.0,0.0,546.0,0.0,1.0,Los Angeles Kings,3.6
 2023020115,2023-10-27,8476329,T. Boyd,Arizona Coyotes,0,0,0,2,0,0,683,0,0,0,0.0,0.0,511.0,0.0,1.0,Los Angeles Kings,3.5
@@ -22047,6 +22056,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8476364,M. Gernat,Slovakia Slovakia,0,1,0,0,0,0,925,0,0,0,0.0,0.0,967.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8476364,M. Gernat,Slovakia Slovakia,1,1,0,0,0,0,892,0,0,1,0.0,0.0,946.0,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8476364,M. Gernat,Slovakia Slovakia,0,0,0,0,0,2,1038,0,0,0,0.3333333333333333,0.0,928.0,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8476364,M. Gernat,Slovakia Slovakia,0,0,0,0,0,0,928,0,0,0,0.25,0.0,955.5,0.0,0.0,USA,1.5
 2023020011,2023-10-12,8476372,N. Seeler,Philadelphia Flyers,0,0,0,1,0,0,883,0,0,0,0.0,0.0,0.0,0.0,0.0,Columbus Blue Jackets,0.0
 2023020019,2023-10-14,8476372,N. Seeler,Philadelphia Flyers,0,0,0,2,0,7,731,0,0,0,0.0,0.0,883.0,0.0,1.0,Ottawa Senators,5.0
 2023020042,2023-10-17,8476372,N. Seeler,Philadelphia Flyers,0,0,0,1,2,0,904,0,0,0,0.0,0.0,807.0,0.0,1.5,Vancouver Canucks,2.0
@@ -22671,6 +22681,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8476389,V. Trocheck,USA,0,1,0,0,0,0,569,0,0,0,0.1,0.0,1176.3,0.0,1.6,Denmark Denmark,3.0
 2025090018,2026-02-15,8476389,V. Trocheck,USA,0,0,0,0,0,0,552,0,0,0,0.1,0.0,1108.7,0.0,1.5,Germany,2.5
 2025090026,2026-02-18,8476389,V. Trocheck,USA,0,0,0,0,0,2,513,0,0,0,0.1,0.0,1044.9,0.0,1.2,Sweden,2.5
+2025090028,2026-02-20,8476389,V. Trocheck,USA,0,1,0,0,0,0,919,0,0,0,0.1,0.0,967.0,0.0,1.2,Slovakia Slovakia,2.5
 2024020157,2024-10-30,8476391,T. Tynan,Colorado Avalanche,0,0,0,1,0,0,516,0,0,0,0.0,0.0,0.0,0.0,0.0,Tampa Bay Lightning,2.8
 2024020182,2024-11-02,8476391,T. Tynan,Colorado Avalanche,0,0,0,0,2,0,495,0,0,0,0.0,0.0,516.0,0.0,1.0,Nashville Predators,3.6
 2024020202,2024-11-05,8476391,T. Tynan,Colorado Avalanche,0,0,0,1,0,0,452,0,0,0,0.0,0.0,505.5,0.0,0.5,Seattle Kraken,3.0
@@ -26910,6 +26921,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8476468,J. Miller,USA,0,0,0,0,0,0,788,0,0,0,0.3,0.0,1212.9,0.0,1.8,Denmark Denmark,3.0
 2025090018,2026-02-15,8476468,J. Miller,USA,0,0,0,0,0,0,757,0,0,0,0.3,0.0,1177.8,0.0,1.5,Germany,2.5
 2025090026,2026-02-18,8476468,J. Miller,USA,0,0,0,0,0,0,777,0,0,0,0.3,0.0,1117.4,0.0,1.5,Sweden,2.5
+2025090028,2026-02-20,8476468,J. Miller,USA,0,0,0,0,0,0,881,0,0,0,0.1,0.0,1065.6,0.0,1.2,Slovakia Slovakia,2.5
 2023020121,2023-10-28,8476469,J. Armia,Montréal Canadiens,1,0,0,0,0,0,896,0,0,1,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,3.4285714285714284
 2023020138,2023-10-30,8476469,J. Armia,Montréal Canadiens,0,0,0,1,0,0,718,0,0,0,1.0,0.0,896.0,0.0,0.0,Vegas Golden Knights,2.2222222222222223
 2023020153,2023-11-02,8476469,J. Armia,Montréal Canadiens,0,0,0,0,1,2,760,0,0,0,0.5,0.0,807.0,0.0,0.5,Arizona Coyotes,2.7777777777777777
@@ -27114,6 +27126,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8476469,J. Armia,Finland,1,0,0,0,0,0,835,0,0,1,0.0,0.0,930.7,0.0,1.4,Sweden,2.0
 2025090013,2026-02-14,8476469,J. Armia,Finland,1,1,0,0,0,0,701,0,0,1,0.1,0.0,903.3,0.0,1.2,Italy,4.0
 2025090024,2026-02-18,8476469,J. Armia,Finland,0,0,0,0,0,0,845,0,0,0,0.2,0.0,865.6,0.0,1.1,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8476469,J. Armia,Finland,0,1,0,0,0,0,702,0,0,0,0.2,0.0,850.5,0.0,1.0,Canada,1.5
 2023020002,2023-10-10,8476473,C. Murphy,Chicago Blackhawks,0,0,0,1,0,0,1078,0,0,0,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8476473,C. Murphy,Chicago Blackhawks,0,0,0,5,2,0,1134,0,0,0,0.0,0.0,1078.0,0.0,1.0,Boston Bruins,0.0
 2023020024,2023-10-14,8476473,C. Murphy,Chicago Blackhawks,0,0,0,2,2,2,936,0,0,0,0.0,0.0,1106.0,0.0,3.0,Montréal Canadiens,5.0
@@ -30664,6 +30677,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8476874,O. Määttä,Finland,0,1,0,0,0,0,697,0,0,0,0.0,0.0,740.6,0.0,0.1,Sweden,2.0
 2025090013,2026-02-14,8476874,O. Määttä,Finland,0,0,0,0,0,0,1091,0,0,0,0.0,0.0,731.9,0.0,0.1,Italy,4.0
 2025090024,2026-02-18,8476874,O. Määttä,Finland,0,0,0,0,0,0,731,0,0,0,0.0,0.0,761.6,0.0,0.1,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8476874,O. Määttä,Finland,0,0,0,0,0,0,808,0,0,0,0.0,0.0,750.6,0.0,0.1,Canada,1.5
 2023020005,2023-10-11,8476875,M. Matheson,Montréal Canadiens,0,1,0,3,5,0,1599,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,0.0
 2023020024,2023-10-14,8476875,M. Matheson,Montréal Canadiens,0,0,0,0,4,2,1474,0,0,0,0.0,0.0,1599.0,0.0,3.0,Chicago Blackhawks,2.5
 2023020041,2023-10-17,8476875,M. Matheson,Montréal Canadiens,0,0,0,0,2,2,1538,0,0,0,0.0,0.0,1536.5,0.0,1.5,Minnesota Wild,3.5
@@ -31510,6 +31524,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8476880,T. Wilson,Canada,0,1,0,0,0,0,583,0,0,0,0.1,0.0,1142.6,0.0,2.2,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8476880,T. Wilson,Canada,1,1,0,0,0,12,691,0,0,1,0.1,0.0,1078.9,0.0,2.1,France,5.0
 2025090025,2026-02-18,8476880,T. Wilson,Canada,0,0,0,0,0,2,513,0,0,0,0.2,0.0,1049.0,0.0,1.6,Czechia Czechia,3.5
+2025090027,2026-02-20,8476880,T. Wilson,Canada,0,1,0,0,0,0,767,0,0,0,0.2,0.0,983.2,0.0,1.6,Finland,1.75
 2023020016,2023-10-12,8476881,T. Hertl,San Jose Sharks,0,1,0,3,2,0,1085,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,1.0
 2023020030,2023-10-14,8476881,T. Hertl,San Jose Sharks,0,0,0,0,0,0,1420,0,0,0,0.0,0.0,1085.0,0.0,3.0,Colorado Avalanche,2.0
 2023020047,2023-10-17,8476881,T. Hertl,San Jose Sharks,0,2,0,1,1,2,1175,0,0,0,0.0,0.0,1252.5,0.0,1.5,Carolina Hurricanes,4.666666666666667
@@ -31917,6 +31932,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8476882,T. Teravainen,Finland,0,0,0,0,0,0,833,0,0,0,0.1,0.0,966.9,0.0,0.1,Sweden,2.0
 2025090013,2026-02-14,8476882,T. Teravainen,Finland,0,1,0,0,0,0,955,0,0,0,0.1,0.0,957.5,0.0,0.0,Italy,4.0
 2025090024,2026-02-18,8476882,T. Teravainen,Finland,0,0,0,0,0,0,718,0,0,0,0.1,0.0,934.0,0.0,0.0,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8476882,T. Teravainen,Finland,0,0,0,0,0,0,1126,0,0,0,0.1,0.0,908.9,0.0,0.0,Canada,1.5
 2023020867,2024-02-19,8476884,D. Pouliot,Dallas Stars,0,0,0,0,1,0,797,0,0,0,0.0,0.0,0.0,0.0,0.0,Boston Bruins,2.6
 2023020877,2024-02-20,8476884,D. Pouliot,Dallas Stars,0,0,0,1,2,0,633,0,0,0,0.0,0.0,797.0,0.0,0.0,New York Rangers,2.6
 2023020892,2024-02-22,8476884,D. Pouliot,Dallas Stars,0,0,0,1,1,0,955,0,0,0,0.0,0.0,715.0,0.0,0.5,Ottawa Senators,3.4
@@ -32973,6 +32989,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8476892,C. Parayko,Canada,0,0,0,0,0,0,1018,0,0,0,0.1,0.0,1258.1,0.0,1.4,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8476892,C. Parayko,Canada,0,0,0,0,0,0,908,0,0,0,0.1,0.0,1240.7,0.0,1.3,France,5.0
 2025090025,2026-02-18,8476892,C. Parayko,Canada,0,0,0,0,0,0,617,0,0,0,0.1,0.0,1196.8,0.0,1.2,Czechia Czechia,3.5
+2025090027,2026-02-20,8476892,C. Parayko,Canada,0,0,0,0,0,0,912,0,0,0,0.1,0.0,1127.2,0.0,1.0,Finland,1.75
 2023020013,2023-10-12,8476897,O. Sundqvist,St. Louis Blues,0,0,0,2,2,0,907,0,0,0,0.0,0.0,0.0,0.0,0.0,Dallas Stars,0.0
 2023020028,2023-10-14,8476897,O. Sundqvist,St. Louis Blues,0,0,0,0,0,0,748,0,0,0,0.0,0.0,907.0,0.0,2.0,Seattle Kraken,3.5
 2023020057,2023-10-19,8476897,O. Sundqvist,St. Louis Blues,0,0,0,0,0,0,910,0,0,0,0.0,0.0,827.5,0.0,1.0,Arizona Coyotes,2.0
@@ -33380,6 +33397,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8476902,E. Lindell,Finland,0,1,0,0,0,0,1718,0,0,0,0.1,0.0,1392.4,0.0,0.4,Sweden,2.0
 2025090013,2026-02-14,8476902,E. Lindell,Finland,0,0,0,0,0,0,1184,0,0,0,0.1,0.0,1424.5,0.0,0.4,Italy,4.0
 2025090024,2026-02-18,8476902,E. Lindell,Finland,0,2,0,0,0,0,79,0,0,0,0.0,0.0,1411.7,0.0,0.4,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8476902,E. Lindell,Finland,0,0,0,0,0,0,1521,0,0,0,0.0,0.0,1300.9,0.0,0.4,Canada,1.5
 2023020003,2023-10-10,8476905,C. Stephenson,Vegas Golden Knights,1,1,0,0,1,0,1113,0,0,1,0.0,0.0,0.0,0.0,0.0,Seattle Kraken,0.0
 2023020016,2023-10-12,8476905,C. Stephenson,Vegas Golden Knights,0,0,0,1,0,0,998,0,0,0,1.0,0.0,1113.0,0.0,0.0,San Jose Sharks,0.0
 2023020031,2023-10-14,8476905,C. Stephenson,Vegas Golden Knights,1,2,0,1,0,0,1088,0,0,1,0.5,0.0,1055.5,0.0,0.5,Anaheim Ducks,0.0
@@ -35450,6 +35468,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8476958,J. Slavin,USA,0,1,0,0,0,0,830,0,0,0,0.0,0.0,1273.2,0.0,0.1,Denmark Denmark,3.0
 2025090018,2026-02-15,8476958,J. Slavin,USA,0,0,0,0,0,0,929,0,0,0,0.0,0.0,1240.0,0.0,0.1,Germany,2.5
 2025090026,2026-02-18,8476958,J. Slavin,USA,0,0,0,0,0,0,1090,0,0,0,0.0,0.0,1195.6,0.0,0.1,Sweden,2.5
+2025090028,2026-02-20,8476958,J. Slavin,USA,0,0,0,0,0,0,979,0,0,0,0.0,0.0,1163.4,0.0,0.1,Slovakia Slovakia,2.5
 2023020002,2023-10-10,8476960,A. Athanasiou,Chicago Blackhawks,0,1,0,0,0,0,610,0,0,0,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8476960,A. Athanasiou,Chicago Blackhawks,0,0,0,3,0,0,1051,0,0,0,0.0,0.0,610.0,0.0,0.0,Boston Bruins,0.0
 2023020024,2023-10-14,8476960,A. Athanasiou,Chicago Blackhawks,0,0,0,0,0,0,949,0,0,0,0.0,0.0,830.5,0.0,1.5,Montréal Canadiens,5.0
@@ -38843,6 +38862,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8477404,J. Guentzel,USA,1,0,0,0,0,0,960,0,0,1,0.6,0.0,1158.3,0.0,0.3,Denmark Denmark,3.0
 2025090018,2026-02-15,8477404,J. Guentzel,USA,0,0,0,0,0,0,1027,0,0,0,0.6,0.0,1146.7,0.0,0.3,Germany,2.5
 2025090026,2026-02-18,8477404,J. Guentzel,USA,0,0,0,0,0,0,1030,0,0,0,0.5,0.0,1153.9,0.0,0.3,Sweden,2.5
+2025090028,2026-02-20,8477404,J. Guentzel,USA,0,0,0,0,0,0,885,0,0,0,0.5,0.0,1122.7,0.0,0.3,Slovakia Slovakia,2.5
 2023020009,2023-10-11,8477406,M. Janmark,Edmonton Oilers,0,0,0,0,0,0,627,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8477406,M. Janmark,Edmonton Oilers,0,0,0,0,0,0,471,0,0,0,0.0,0.0,627.0,0.0,0.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8477406,M. Janmark,Edmonton Oilers,0,0,0,0,0,0,891,0,0,0,0.0,0.0,549.0,0.0,0.0,Nashville Predators,2.6666666666666665
@@ -40888,6 +40908,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8477447,S. Theodore,Canada,0,0,0,0,0,2,1020,0,0,0,0.0,0.0,1363.2,0.0,0.0,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8477447,S. Theodore,Canada,0,1,0,0,0,0,893,0,0,0,0.0,0.0,1310.4,0.0,0.0,France,5.0
 2025090025,2026-02-18,8477447,S. Theodore,Canada,0,0,0,0,0,0,733,0,0,0,0.0,0.0,1266.8,0.0,0.0,Czechia Czechia,3.5
+2025090027,2026-02-20,8477447,S. Theodore,Canada,1,0,0,0,0,0,677,0,0,1,0.0,0.0,1208.1,0.0,0.0,Finland,1.75
 2023020002,2023-10-10,8477450,J. Dickinson,Chicago Blackhawks,1,1,0,2,3,0,774,0,0,1,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8477450,J. Dickinson,Chicago Blackhawks,0,0,0,2,1,17,638,0,0,0,1.0,0.0,774.0,0.0,2.0,Boston Bruins,0.0
 2023020024,2023-10-14,8477450,J. Dickinson,Chicago Blackhawks,0,0,0,3,1,2,892,0,0,0,0.5,0.0,706.0,0.0,2.0,Montréal Canadiens,5.0
@@ -41791,6 +41812,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8477476,A. Lehkonen,Finland,0,0,0,0,0,0,847,0,0,0,0.4,0.0,1071.1,0.0,0.8,Sweden,2.0
 2025090013,2026-02-14,8477476,A. Lehkonen,Finland,1,2,0,0,0,0,947,0,0,1,0.3,0.0,1033.2,0.0,0.7,Italy,4.0
 2025090024,2026-02-18,8477476,A. Lehkonen,Finland,1,0,0,0,0,2,1094,0,0,1,0.3,0.0,1026.9,0.0,0.7,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8477476,A. Lehkonen,Finland,0,0,0,0,0,0,975,0,0,0,0.4,0.0,1044.6,0.0,0.6,Canada,1.5
 2023020003,2023-10-10,8477478,W. Carrier,Vegas Golden Knights,0,0,0,2,0,2,309,0,0,0,0.0,0.0,0.0,0.0,0.0,Seattle Kraken,0.0
 2023020048,2023-10-17,8477478,W. Carrier,Vegas Golden Knights,0,0,0,5,0,0,700,0,0,0,0.0,0.0,309.0,0.0,2.0,Dallas Stars,1.0
 2023020058,2023-10-19,8477478,W. Carrier,Vegas Golden Knights,0,0,0,3,0,0,724,0,0,0,0.0,0.0,504.5,0.0,3.5,Winnipeg Jets,4.666666666666667
@@ -42567,6 +42589,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8477492,N. MacKinnon,Canada,1,2,0,0,0,0,988,0,0,1,0.5,0.0,1389.1,0.0,0.6,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8477492,N. MacKinnon,Canada,0,1,0,0,0,2,1016,0,0,0,0.4,0.0,1353.2,0.0,0.6,France,5.0
 2025090025,2026-02-18,8477492,N. MacKinnon,Canada,1,0,0,0,0,0,1363,0,0,1,0.4,0.0,1279.0,0.0,0.3,Czechia Czechia,3.5
+2025090027,2026-02-20,8477492,N. MacKinnon,Canada,1,0,0,0,0,0,1311,0,0,1,0.5,0.0,1257.8,0.0,0.2,Finland,1.75
 2023020014,2023-10-12,8477493,A. Barkov,Florida Panthers,0,0,0,1,0,0,1380,0,0,0,0.0,0.0,0.0,0.0,0.0,Minnesota Wild,0.0
 2023020020,2023-10-14,8477493,A. Barkov,Florida Panthers,0,2,0,3,0,0,1362,0,0,0,0.0,0.0,1380.0,0.0,1.0,Winnipeg Jets,5.0
 2023020036,2023-10-16,8477493,A. Barkov,Florida Panthers,0,1,0,3,0,0,1154,0,0,0,0.0,0.0,1371.0,0.0,2.0,New Jersey Devils,3.0
@@ -43787,6 +43810,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8477499,R. Ristolainen,Finland,0,0,0,0,0,2,1198,0,0,0,0.1,0.0,1148.5,0.0,0.7,Sweden,2.0
 2025090013,2026-02-14,8477499,R. Ristolainen,Finland,0,2,0,0,0,0,1102,0,0,0,0.1,0.0,1127.2,0.0,0.6,Italy,4.0
 2025090024,2026-02-18,8477499,R. Ristolainen,Finland,0,0,0,0,0,0,1203,0,0,0,0.1,0.0,1113.8,0.0,0.5,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8477499,R. Ristolainen,Finland,0,0,0,0,0,0,1237,0,0,0,0.1,0.0,1102.5,0.0,0.4,Canada,1.5
 2023020027,2023-10-14,8477500,B. Horvat,New York Islanders,0,0,0,2,0,2,1258,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,5.0
 2023020043,2023-10-17,8477500,B. Horvat,New York Islanders,0,0,0,2,0,0,1115,0,0,0,0.0,0.0,1258.0,0.0,2.0,Arizona Coyotes,2.5
 2023020064,2023-10-20,8477500,B. Horvat,New York Islanders,2,0,0,1,2,0,1247,0,0,1,0.0,0.0,1186.5,0.0,2.0,New Jersey Devils,3.3333333333333335
@@ -43998,6 +44022,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8477500,B. Horvat,Canada,0,0,0,0,0,2,566,0,0,0,0.4,0.0,1127.9,0.0,1.1,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8477500,B. Horvat,Canada,1,0,0,0,0,0,893,0,0,1,0.4,0.0,1084.2,0.0,1.0,France,5.0
 2025090025,2026-02-18,8477500,B. Horvat,Canada,0,0,0,0,0,0,771,0,0,0,0.5,0.0,1057.5,0.0,0.8,Czechia Czechia,3.5
+2025090027,2026-02-20,8477500,B. Horvat,Canada,0,0,0,0,0,0,600,0,0,0,0.5,0.0,1018.9,0.0,0.6,Finland,1.75
 2023020008,2023-10-11,8477501,V. Nichushkin,Colorado Avalanche,0,0,0,1,0,2,1027,0,0,0,0.0,0.0,0.0,0.0,0.0,Los Angeles Kings,0.0
 2023020030,2023-10-14,8477501,V. Nichushkin,Colorado Avalanche,0,1,0,2,0,2,997,0,0,0,0.0,0.0,1027.0,0.0,1.0,San Jose Sharks,4.0
 2023020046,2023-10-17,8477501,V. Nichushkin,Colorado Avalanche,1,0,0,0,1,0,1297,0,0,1,0.0,0.0,1012.0,0.0,1.5,Seattle Kraken,2.6666666666666665
@@ -47386,6 +47411,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8477933,S. Reinhart,Canada,0,0,0,0,0,0,801,0,0,0,0.3,0.0,1244.2,0.0,0.9,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8477933,S. Reinhart,Canada,0,1,0,0,0,0,868,0,0,0,0.3,0.0,1196.4,0.0,0.7,France,5.0
 2025090025,2026-02-18,8477933,S. Reinhart,Canada,0,0,0,0,0,0,577,0,0,0,0.2,0.0,1125.0,0.0,0.7,Czechia Czechia,3.5
+2025090027,2026-02-20,8477933,S. Reinhart,Canada,1,0,0,0,0,0,384,0,0,1,0.1,0.0,1087.6,0.0,0.7,Finland,1.75
 2023020009,2023-10-11,8477934,L. Draisaitl,Edmonton Oilers,1,0,0,1,0,4,1256,0,0,1,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8477934,L. Draisaitl,Edmonton Oilers,1,1,0,1,0,2,1526,0,0,1,1.0,0.0,1256.0,0.0,1.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8477934,L. Draisaitl,Edmonton Oilers,2,2,0,1,0,0,1260,0,0,1,1.0,0.0,1391.0,0.0,1.0,Nashville Predators,2.6666666666666665
@@ -47809,6 +47835,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090004,2026-02-12,8477935,S. Bennett,Canada,0,0,0,0,0,0,439,0,0,0,0.2,0.0,1159.9,0.0,1.1,Czechia Czechia,0.0
 2025090010,2026-02-13,8477935,S. Bennett,Canada,0,0,0,0,0,0,633,0,0,0,0.2,0.0,1075.6,0.0,1.0,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8477935,S. Bennett,Canada,0,1,0,0,0,0,559,0,0,0,0.1,0.0,1008.7,0.0,0.8,France,5.0
+2025090027,2026-02-20,8477935,S. Bennett,Canada,0,0,0,0,0,2,631,0,0,0,0.0,0.0,913.5,0.0,0.6,Finland,1.75
 2023020023,2023-10-14,8477938,H. Fleury,Tampa Bay Lightning,0,0,0,2,0,0,608,0,0,0,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,4.0
 2023020133,2023-10-30,8477938,H. Fleury,Tampa Bay Lightning,0,1,0,1,0,0,739,0,0,0,0.0,0.0,608.0,0.0,2.0,Seattle Kraken,3.3333333333333335
 2023020334,2023-11-28,8477938,H. Fleury,Tampa Bay Lightning,0,0,0,0,2,0,803,0,0,0,0.0,0.0,673.5,0.0,1.5,Arizona Coyotes,3.6
@@ -48817,6 +48844,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8477946,D. Larkin,USA,0,0,0,0,0,2,751,0,0,0,0.2,0.0,1210.9,0.0,1.0,Denmark Denmark,3.0
 2025090018,2026-02-15,8477946,D. Larkin,USA,0,1,0,0,0,0,957,0,0,0,0.2,0.0,1169.6,0.0,0.8,Germany,2.5
 2025090026,2026-02-18,8477946,D. Larkin,USA,1,0,0,0,0,0,898,0,0,1,0.1,0.0,1149.6,0.0,0.7,Sweden,2.5
+2025090028,2026-02-20,8477946,D. Larkin,USA,1,0,0,0,0,0,921,0,0,1,0.2,0.0,1098.2,0.0,0.6,Slovakia Slovakia,2.5
 2023020018,2023-10-13,8477947,S. Milano,Washington Capitals,0,0,0,0,0,0,751,0,0,0,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,4.0
 2023020039,2023-10-16,8477947,S. Milano,Washington Capitals,0,1,0,0,0,0,838,0,0,0,0.0,0.0,751.0,0.0,0.0,Calgary Flames,4.0
 2023020049,2023-10-18,8477947,S. Milano,Washington Capitals,0,0,0,0,0,0,702,0,0,0,0.0,0.0,794.5,0.0,0.0,Ottawa Senators,3.0
@@ -49125,6 +49153,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8477948,T. Sanheim,Canada,0,0,0,0,0,0,617,0,0,0,0.1,0.0,1404.5,0.0,0.5,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8477948,T. Sanheim,Canada,0,0,0,0,0,2,1133,0,0,0,0.0,0.0,1322.2,0.0,0.4,France,5.0
 2025090025,2026-02-18,8477948,T. Sanheim,Canada,0,0,0,0,0,0,532,0,0,0,0.0,0.0,1291.3,0.0,0.4,Czechia Czechia,3.5
+2025090027,2026-02-20,8477948,T. Sanheim,Canada,0,1,0,0,0,0,758,0,0,0,0.0,0.0,1202.8,0.0,0.2,Finland,1.75
 2023020010,2023-10-12,8477949,A. Tuch,Buffalo Sabres,0,0,0,2,0,0,1054,0,0,0,0.0,0.0,0.0,0.0,0.0,New York Rangers,0.0
 2023020027,2023-10-14,8477949,A. Tuch,Buffalo Sabres,0,0,0,1,2,0,974,0,0,0,0.0,0.0,1054.0,0.0,2.0,New York Islanders,0.0
 2023020040,2023-10-17,8477949,A. Tuch,Buffalo Sabres,0,1,0,0,1,2,1188,0,0,0,0.0,0.0,1014.0,0.0,1.5,Tampa Bay Lightning,4.666666666666667
@@ -53034,6 +53063,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8478038,D. Toews,Canada,0,0,0,0,0,0,1076,0,0,0,0.0,0.0,1287.4,0.0,0.4,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8478038,D. Toews,Canada,1,0,0,0,0,0,962,0,0,1,0.0,0.0,1264.8,0.0,0.4,France,5.0
 2025090025,2026-02-18,8478038,D. Toews,Canada,0,1,0,0,0,0,1343,0,0,0,0.1,0.0,1226.7,0.0,0.4,Czechia Czechia,3.5
+2025090027,2026-02-20,8478038,D. Toews,Canada,0,0,0,0,0,0,1334,0,0,0,0.1,0.0,1228.6,0.0,0.4,Finland,1.75
 2023020839,2024-02-15,8478042,V. Arvidsson,Los Angeles Kings,0,0,0,0,1,4,943,0,0,0,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,3.3
 2023020853,2024-02-17,8478042,V. Arvidsson,Los Angeles Kings,0,1,0,1,1,0,1132,0,0,0,0.0,0.0,943.0,0.0,0.0,Boston Bruins,2.5
 2023020865,2024-02-18,8478042,V. Arvidsson,Los Angeles Kings,0,1,0,0,2,0,964,0,0,0,0.0,0.0,1037.5,0.0,0.5,Pittsburgh Penguins,2.3
@@ -55988,6 +56018,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8478396,N. Hanifin,USA,1,0,0,0,0,0,597,0,0,1,0.0,0.0,1288.3,0.0,0.5,Denmark Denmark,3.0
 2025090018,2026-02-15,8478396,N. Hanifin,USA,0,1,0,0,0,0,748,0,0,0,0.1,0.0,1208.6,0.0,0.4,Germany,2.5
 2025090026,2026-02-18,8478396,N. Hanifin,USA,0,0,0,0,0,0,346,0,0,0,0.1,0.0,1148.7,0.0,0.4,Sweden,2.5
+2025090028,2026-02-20,8478396,N. Hanifin,USA,0,1,0,0,0,0,653,0,0,0,0.1,0.0,1055.6,0.0,0.4,Slovakia Slovakia,2.5
 2023020007,2023-10-11,8478397,R. Andersson,Calgary Flames,1,0,0,0,2,0,1262,0,0,1,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,0.0
 2023020025,2023-10-14,8478397,R. Andersson,Calgary Flames,0,1,0,0,0,0,1449,0,0,0,1.0,0.0,1262.0,0.0,0.0,Pittsburgh Penguins,2.0
 2023020039,2023-10-16,8478397,R. Andersson,Calgary Flames,0,0,0,1,4,0,1447,0,0,0,0.5,0.0,1355.5,0.0,0.0,Washington Capitals,4.0
@@ -57049,6 +57080,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8478402,C. McDavid,Canada,1,2,0,0,0,0,862,0,0,1,0.4,0.0,1417.5,0.0,0.4,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8478402,C. McDavid,Canada,1,2,0,0,0,0,1070,0,0,1,0.5,0.0,1367.5,0.0,0.4,France,5.0
 2025090025,2026-02-18,8478402,C. McDavid,Canada,0,2,0,0,0,0,1308,0,0,0,0.6,0.0,1322.8,0.0,0.4,Czechia Czechia,3.5
+2025090027,2026-02-20,8478402,C. McDavid,Canada,0,2,0,0,0,0,1520,0,0,0,0.6,0.0,1328.0,0.0,0.3,Finland,1.75
 2023020003,2023-10-10,8478403,J. Eichel,Vegas Golden Knights,1,0,0,0,3,0,1193,0,0,1,0.0,0.0,0.0,0.0,0.0,Seattle Kraken,0.0
 2023020016,2023-10-12,8478403,J. Eichel,Vegas Golden Knights,0,1,0,0,0,0,1171,0,0,0,1.0,0.0,1193.0,0.0,0.0,San Jose Sharks,0.0
 2023020031,2023-10-14,8478403,J. Eichel,Vegas Golden Knights,1,1,0,0,2,0,1276,0,0,1,0.5,0.0,1182.0,0.0,0.0,Anaheim Ducks,0.0
@@ -57248,6 +57280,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8478403,J. Eichel,USA,1,1,0,0,0,0,1019,0,0,1,0.4,0.0,1247.7,0.0,0.7,Denmark Denmark,3.0
 2025090018,2026-02-15,8478403,J. Eichel,USA,0,0,0,0,0,2,978,0,0,0,0.4,0.0,1213.8,0.0,0.6,Germany,2.5
 2025090026,2026-02-18,8478403,J. Eichel,USA,0,0,0,0,0,0,1284,0,0,0,0.3,0.0,1196.0,0.0,0.6,Sweden,2.5
+2025090028,2026-02-20,8478403,J. Eichel,USA,1,1,0,0,0,0,991,0,0,1,0.3,0.0,1206.6,0.0,0.6,Slovakia Slovakia,2.5
 2023020003,2023-10-10,8478407,V. Dunn,Seattle Kraken,0,0,0,0,1,0,1338,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,0.0
 2023020015,2023-10-12,8478407,V. Dunn,Seattle Kraken,0,0,0,1,0,2,1354,0,0,0,0.0,0.0,1338.0,0.0,0.0,Nashville Predators,5.0
 2023020028,2023-10-14,8478407,V. Dunn,Seattle Kraken,0,1,0,1,0,4,1450,0,0,0,0.0,0.0,1346.0,0.0,0.5,St. Louis Blues,1.0
@@ -58042,6 +58075,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8478416,E. Cernak,Slovakia Slovakia,0,0,0,0,0,2,1467,0,0,0,0.1,0.0,1001.6,0.0,1.9,Italy,5.0
 2025090011,2026-02-14,8478416,E. Cernak,Slovakia Slovakia,0,0,0,0,0,2,1083,0,0,0,0.1,0.0,1046.6,0.0,1.8,Sweden,3.0
 2025090023,2026-02-18,8478416,E. Cernak,Slovakia Slovakia,0,1,0,0,0,0,1315,0,0,0,0.1,0.0,1054.4,0.0,1.6,Germany,2.75
+2025090028,2026-02-20,8478416,E. Cernak,Slovakia Slovakia,0,0,0,0,0,10,1021,0,0,0,0.1,0.0,1068.6,0.0,1.2,USA,1.5
 2023020008,2023-10-11,8478420,M. Rantanen,Colorado Avalanche,2,2,0,2,0,0,1354,0,0,1,0.0,0.0,0.0,0.0,0.0,Los Angeles Kings,0.0
 2023020030,2023-10-14,8478420,M. Rantanen,Colorado Avalanche,0,0,0,1,0,0,1465,0,0,0,2.0,0.0,1354.0,0.0,2.0,San Jose Sharks,4.0
 2023020046,2023-10-17,8478420,M. Rantanen,Colorado Avalanche,1,0,0,2,2,0,1044,0,0,1,1.0,0.0,1409.5,0.0,1.5,Seattle Kraken,2.6666666666666665
@@ -58266,6 +58300,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8478420,M. Rantanen,Finland,1,0,0,0,0,2,1051,0,0,1,0.2,0.0,1222.0,0.0,0.5,Sweden,2.0
 2025090013,2026-02-14,8478420,M. Rantanen,Finland,0,3,0,0,0,0,1158,0,0,0,0.3,0.0,1186.7,0.0,0.4,Italy,4.0
 2025090024,2026-02-18,8478420,M. Rantanen,Finland,0,1,0,0,0,0,1370,0,0,0,0.2,0.0,1169.4,0.0,0.1,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8478420,M. Rantanen,Finland,1,0,0,0,0,0,969,0,0,1,0.2,0.0,1193.8,0.0,0.1,Canada,1.5
 2023020007,2023-10-11,8478421,A. Greer,Calgary Flames,0,0,0,3,1,0,412,0,0,0,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,0.0
 2023020025,2023-10-14,8478421,A. Greer,Calgary Flames,0,0,0,0,0,0,715,0,0,0,0.0,0.0,412.0,0.0,3.0,Pittsburgh Penguins,2.0
 2023020039,2023-10-16,8478421,A. Greer,Calgary Flames,0,0,0,0,0,0,613,0,0,0,0.0,0.0,563.5,0.0,1.5,Washington Capitals,4.0
@@ -58824,6 +58859,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8478427,S. Aho,Finland,0,0,0,0,0,0,1073,0,0,0,0.3,0.0,1183.7,0.0,1.0,Sweden,2.0
 2025090013,2026-02-14,8478427,S. Aho,Finland,2,0,0,0,0,0,1201,0,0,1,0.3,0.0,1175.3,0.0,0.8,Italy,4.0
 2025090024,2026-02-18,8478427,S. Aho,Finland,1,0,0,0,0,0,1413,0,0,1,0.5,0.0,1177.6,0.0,0.7,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8478427,S. Aho,Finland,0,1,0,0,0,2,1011,0,0,0,0.6,0.0,1177.3,0.0,0.6,Canada,1.5
 2023020753,2024-01-25,8478430,O. Kylington,Calgary Flames,0,0,0,0,2,0,796,0,0,0,0.0,0.0,0.0,0.0,0.0,Columbus Blue Jackets,4.1
 2023020771,2024-01-27,8478430,O. Kylington,Calgary Flames,0,0,0,2,0,0,820,0,0,0,0.0,0.0,796.0,0.0,0.0,Chicago Blackhawks,2.8
 2023020783,2024-02-06,8478430,O. Kylington,Calgary Flames,0,0,0,0,1,0,873,0,0,0,0.0,0.0,808.0,0.0,1.0,Boston Bruins,2.3
@@ -60628,6 +60664,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8478449,R. Hintz,Finland,0,1,0,0,0,2,945,0,0,0,0.1,0.0,1031.0,0.0,1.2,Sweden,2.0
 2025090013,2026-02-14,8478449,R. Hintz,Finland,0,0,0,0,0,0,1165,0,0,0,0.1,0.0,1017.8,0.0,1.0,Italy,4.0
 2025090024,2026-02-18,8478449,R. Hintz,Finland,0,1,0,0,0,0,1115,0,0,0,0.1,0.0,1037.7,0.0,1.0,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8478449,R. Hintz,Finland,0,0,0,0,0,0,1075,0,0,0,0.1,0.0,1030.2,0.0,0.9,Canada,1.5
 2023020145,2023-11-02,8478450,P. Wotherspoon,Boston Bruins,0,0,0,4,3,0,826,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.111111111111111
 2023020161,2023-11-04,8478450,P. Wotherspoon,Boston Bruins,0,1,0,0,1,2,679,0,0,0,0.0,0.0,826.0,0.0,4.0,Detroit Red Wings,2.9
 2023020178,2023-11-06,8478450,P. Wotherspoon,Boston Bruins,0,0,0,0,2,0,988,0,0,0,0.0,0.0,752.5,0.0,2.0,Dallas Stars,2.5
@@ -61371,6 +61408,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8478460,Z. Werenski,USA,0,0,0,0,0,0,1092,0,0,0,0.2,0.0,1467.5,0.0,0.2,Denmark Denmark,3.0
 2025090018,2026-02-15,8478460,Z. Werenski,USA,1,0,0,0,0,2,1170,0,0,1,0.2,0.0,1400.9,0.0,0.2,Germany,2.5
 2025090026,2026-02-18,8478460,Z. Werenski,USA,0,0,0,0,0,0,1065,0,0,0,0.3,0.0,1366.7,0.0,0.2,Sweden,2.5
+2025090028,2026-02-20,8478460,Z. Werenski,USA,0,3,0,0,0,2,807,0,0,0,0.2,0.0,1306.7,0.0,0.1,Slovakia Slovakia,2.5
 2023020003,2023-10-10,8478462,N. Roy,Vegas Golden Knights,0,0,0,1,1,0,1046,0,0,0,0.0,0.0,0.0,0.0,0.0,Seattle Kraken,0.0
 2023020016,2023-10-12,8478462,N. Roy,Vegas Golden Knights,1,0,0,2,1,0,757,0,0,1,0.0,0.0,1046.0,0.0,1.0,San Jose Sharks,0.0
 2023020031,2023-10-14,8478462,N. Roy,Vegas Golden Knights,0,1,0,0,0,0,1084,0,0,0,0.5,0.0,901.5,0.0,1.5,Anaheim Ducks,0.0
@@ -62894,6 +62932,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8478483,M. Marner,Canada,0,1,0,0,0,0,1003,0,0,0,0.4,0.0,1147.7,0.0,0.3,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8478483,M. Marner,Canada,0,2,0,0,0,0,834,0,0,0,0.4,0.0,1116.9,0.0,0.3,France,5.0
 2025090025,2026-02-18,8478483,M. Marner,Canada,1,0,0,0,0,0,1000,0,0,1,0.4,0.0,1095.8,0.0,0.3,Czechia Czechia,3.5
+2025090027,2026-02-20,8478483,M. Marner,Canada,0,0,0,0,0,0,831,0,0,0,0.5,0.0,1087.9,0.0,0.2,Finland,1.75
 2025090009,2026-02-13,8478488,F. Chlapik,Czechia Czechia,1,0,0,0,0,0,297,0,0,1,0.0,0.0,0.0,0.0,0.0,France,4.0
 2025090015,2026-02-15,8478488,F. Chlapik,Czechia Czechia,1,1,0,0,0,0,697,0,0,1,1.0,0.0,297.0,0.0,0.0,Switzerland Switzerland,2.5
 2025090021,2026-02-17,8478488,F. Chlapik,Czechia Czechia,0,0,0,0,0,0,651,0,0,0,1.0,0.0,497.0,0.0,0.0,Denmark Denmark,3.6666666666666665
@@ -66186,6 +66225,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8478859,N. Mikkola,Finland,0,1,0,0,0,2,1037,0,0,0,0.0,0.0,1266.3,0.0,1.8,Sweden,2.0
 2025090013,2026-02-14,8478859,N. Mikkola,Finland,0,2,0,0,0,0,1236,0,0,0,0.0,0.0,1236.6,0.0,1.7,Italy,4.0
 2025090024,2026-02-18,8478859,N. Mikkola,Finland,0,0,0,0,0,0,1220,0,0,0,0.0,0.0,1234.2,0.0,1.6,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8478859,N. Mikkola,Finland,0,0,0,0,0,2,1118,0,0,0,0.0,0.0,1213.8,0.0,1.4,Canada,1.5
 2025090002,2026-02-11,8478862,M. Bradley,Italy,1,0,0,0,0,0,986,0,0,1,0.0,0.0,0.0,0.0,0.0,Sweden,0.0
 2025090008,2026-02-13,8478862,M. Bradley,Italy,1,0,0,0,0,0,1185,0,0,1,1.0,0.0,986.0,0.0,0.0,Slovakia Slovakia,1.0
 2025090013,2026-02-14,8478862,M. Bradley,Italy,0,0,0,0,0,0,1017,0,0,0,1.0,0.0,1085.5,0.0,0.0,Finland,2.5
@@ -68695,6 +68735,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8479314,M. Tkachuk,USA,0,1,0,0,0,0,976,0,0,0,0.3,0.0,1102.8,0.0,1.1,Denmark Denmark,3.0
 2025090018,2026-02-15,8479314,M. Tkachuk,USA,0,2,0,0,0,2,897,0,0,0,0.3,0.0,1089.3,0.0,1.0,Germany,2.5
 2025090026,2026-02-18,8479314,M. Tkachuk,USA,0,0,0,0,0,0,1045,0,0,0,0.3,0.0,1058.4,0.0,0.9,Sweden,2.5
+2025090028,2026-02-20,8479314,M. Tkachuk,USA,0,1,0,0,0,10,941,0,0,0,0.3,0.0,1068.0,0.0,0.8,Slovakia Slovakia,2.5
 2023020295,2023-11-24,8479315,J. Anderson,Chicago Blackhawks,0,1,0,2,0,0,821,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.7
 2023020317,2023-11-26,8479315,J. Anderson,Chicago Blackhawks,0,0,0,0,1,0,807,0,0,0,0.0,0.0,821.0,0.0,2.0,St. Louis Blues,3.5
 2023020333,2023-11-28,8479315,J. Anderson,Chicago Blackhawks,0,2,0,0,0,0,826,0,0,0,0.0,0.0,814.0,0.0,1.0,Seattle Kraken,3.5
@@ -69175,6 +69216,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8479318,A. Matthews,USA,0,1,0,0,0,2,1073,0,0,0,0.3,0.0,1212.5,0.0,0.4,Denmark Denmark,3.0
 2025090018,2026-02-15,8479318,A. Matthews,USA,2,1,0,0,0,0,917,0,0,1,0.2,0.0,1202.0,0.0,0.3,Germany,2.5
 2025090026,2026-02-18,8479318,A. Matthews,USA,0,1,0,0,0,0,1079,0,0,0,0.4,0.0,1157.8,0.0,0.3,Sweden,2.5
+2025090028,2026-02-20,8479318,A. Matthews,USA,0,0,0,0,0,2,1148,0,0,0,0.4,0.0,1124.7,0.0,0.1,Slovakia Slovakia,2.5
 2023020165,2023-11-04,8479320,M. Lajoie,Toronto Maple Leafs,0,0,0,1,0,0,294,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,2.9
 2023020395,2023-12-07,8479320,M. Lajoie,Toronto Maple Leafs,0,0,0,0,4,0,628,0,0,0,0.0,0.0,294.0,0.0,1.0,Ottawa Senators,3.0
 2023020413,2023-12-09,8479320,M. Lajoie,Toronto Maple Leafs,0,0,0,2,0,0,897,0,0,0,0.0,0.0,461.0,0.0,0.5,Nashville Predators,2.7
@@ -69748,6 +69790,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8479325,C. McAvoy,USA,0,0,0,0,0,0,1295,0,0,0,0.2,0.0,1448.5,0.0,0.9,Denmark Denmark,3.0
 2025090018,2026-02-15,8479325,C. McAvoy,USA,0,0,0,0,0,0,1089,0,0,0,0.1,0.0,1448.8,0.0,0.8,Germany,2.5
 2025090026,2026-02-18,8479325,C. McAvoy,USA,0,0,0,0,0,0,1162,0,0,0,0.1,0.0,1423.7,0.0,0.7,Sweden,2.5
+2025090028,2026-02-20,8479325,C. McAvoy,USA,0,0,0,0,0,4,1018,0,0,0,0.0,0.0,1377.8,0.0,0.5,Slovakia Slovakia,2.5
 2023020067,2023-10-21,8479328,J. Gauthier,New York Islanders,0,0,0,4,1,0,778,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,3.5
 2023020227,2023-11-13,8479328,J. Gauthier,New York Islanders,0,0,0,1,0,0,531,0,0,0,0.0,0.0,778.0,0.0,4.0,Edmonton Oilers,3.8
 2023020312,2023-11-25,8479328,J. Gauthier,New York Islanders,0,0,0,5,0,0,525,0,0,0,0.0,0.0,654.5,0.0,2.5,Philadelphia Flyers,2.5
@@ -70452,6 +70495,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025020898,2026-02-04,8479343,C. Keller,Utah Mammoth,1,1,0,0,1,0,983,0,0,1,0.3,0.0,1065.1,0.0,0.0,Detroit Red Wings,2.5
 2025090018,2026-02-15,8479343,C. Keller,USA,0,0,0,0,0,0,591,0,0,0,0.4,0.0,1065.0,0.0,0.0,Germany,2.5
 2025090026,2026-02-18,8479343,C. Keller,USA,0,0,0,0,0,0,284,0,0,0,0.4,0.0,1021.8,0.0,0.0,Sweden,2.5
+2025090028,2026-02-20,8479343,C. Keller,USA,0,0,0,0,0,0,232,0,0,0,0.4,0.0,941.4,0.0,0.0,Slovakia Slovakia,2.5
 2023020788,2024-02-06,8479344,J. Puljujarvi,Pittsburgh Penguins,0,0,0,2,0,0,581,0,0,0,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,1.8
 2023020801,2024-02-09,8479344,J. Puljujarvi,Pittsburgh Penguins,0,0,0,1,0,0,665,0,0,0,0.0,0.0,581.0,0.0,2.0,Minnesota Wild,3.3
 2023020814,2024-02-10,8479344,J. Puljujarvi,Pittsburgh Penguins,0,0,0,2,0,0,849,0,0,0,0.0,0.0,623.0,0.0,1.5,Winnipeg Jets,2.2
@@ -74528,6 +74572,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8479420,T. Thompson,USA,0,0,0,0,0,0,552,0,0,0,0.6,0.0,1107.0,0.0,0.6,Denmark Denmark,3.0
 2025090018,2026-02-15,8479420,T. Thompson,USA,1,0,0,0,0,0,563,0,0,1,0.5,0.0,1080.9,0.0,0.6,Germany,2.5
 2025090026,2026-02-18,8479420,T. Thompson,USA,0,0,0,0,0,0,814,0,0,0,0.6,0.0,1033.8,0.0,0.6,Sweden,2.5
+2025090028,2026-02-20,8479420,T. Thompson,USA,1,1,0,0,0,0,605,0,0,1,0.5,0.0,1012.6,0.0,0.4,Slovakia Slovakia,2.5
 2023020446,2023-12-13,8479421,J. Moverare,Los Angeles Kings,0,0,0,1,1,0,842,0,0,0,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,1.8
 2023020473,2023-12-16,8479421,J. Moverare,Los Angeles Kings,0,0,0,2,1,0,899,0,0,0,0.0,0.0,842.0,0.0,1.0,Seattle Kraken,2.8
 2023020494,2023-12-19,8479421,J. Moverare,Los Angeles Kings,0,0,0,0,2,0,1020,0,0,0,0.0,0.0,870.5,0.0,1.5,San Jose Sharks,3.4
@@ -75827,6 +75872,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8479542,B. Hagel,Canada,0,0,0,0,0,0,984,0,0,0,0.5,0.0,1251.4,0.0,0.9,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8479542,B. Hagel,Canada,1,0,0,0,0,0,934,0,0,1,0.4,0.0,1241.5,0.0,0.9,France,5.0
 2025090025,2026-02-18,8479542,B. Hagel,Canada,0,0,0,0,0,0,951,0,0,0,0.3,0.0,1221.9,0.0,0.7,Czechia Czechia,3.5
+2025090027,2026-02-20,8479542,B. Hagel,Canada,0,0,0,0,0,0,448,0,0,0,0.3,0.0,1174.5,0.0,0.6,Finland,1.75
 2023020041,2023-10-17,8479543,M. Pezzetta,Montréal Canadiens,0,0,0,7,0,10,346,0,0,0,0.0,0.0,0.0,0.0,0.0,Minnesota Wild,3.5
 2023020069,2023-10-21,8479543,M. Pezzetta,Montréal Canadiens,0,0,0,0,0,0,450,0,0,0,0.0,0.0,346.0,0.0,7.0,Washington Capitals,4.0
 2023020082,2023-10-23,8479543,M. Pezzetta,Montréal Canadiens,0,0,0,5,0,0,536,0,0,0,0.0,0.0,398.0,0.0,3.5,Buffalo Sabres,3.0
@@ -80260,6 +80306,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8480008,A. Ruzicka,Slovakia Slovakia,1,0,0,0,0,0,1000,0,0,1,0.1,0.0,602.4,0.0,0.3,Italy,5.0
 2025090011,2026-02-14,8480008,A. Ruzicka,Slovakia Slovakia,0,1,0,0,0,0,941,0,0,0,0.2,0.0,646.3,0.0,0.3,Sweden,3.0
 2025090023,2026-02-18,8480008,A. Ruzicka,Slovakia Slovakia,0,1,0,0,0,0,1108,0,0,0,0.2,0.0,677.6,0.0,0.3,Germany,2.75
+2025090028,2026-02-20,8480008,A. Ruzicka,Slovakia Slovakia,0,1,0,0,0,0,843,0,0,0,0.2,0.0,735.8,0.0,0.1,USA,1.5
 2023020003,2023-10-10,8480009,E. Tolvanen,Seattle Kraken,0,0,0,2,0,0,1009,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,0.0
 2023020015,2023-10-12,8480009,E. Tolvanen,Seattle Kraken,0,0,0,3,2,0,816,0,0,0,0.0,0.0,1009.0,0.0,2.0,Nashville Predators,5.0
 2023020028,2023-10-14,8480009,E. Tolvanen,Seattle Kraken,0,0,0,4,1,0,793,0,0,0,0.0,0.0,912.5,0.0,2.5,St. Louis Blues,1.0
@@ -80481,6 +80528,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8480009,E. Tolvanen,Finland,0,0,0,0,0,0,477,0,0,0,0.3,0.0,952.4,0.0,2.0,Sweden,2.0
 2025090013,2026-02-14,8480009,E. Tolvanen,Finland,0,0,0,0,0,0,980,0,0,0,0.2,0.0,905.0,0.0,1.8,Italy,4.0
 2025090024,2026-02-18,8480009,E. Tolvanen,Finland,0,0,0,0,0,0,532,0,0,0,0.2,0.0,913.1,0.0,1.7,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8480009,E. Tolvanen,Finland,0,0,0,0,0,0,0,0,0,0,0.2,0.0,872.9,0.0,1.2,Canada,1.5
 2023020012,2023-10-12,8480011,K. Kostin,Detroit Red Wings,0,0,0,4,0,0,445,0,0,0,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,0.0
 2023020023,2023-10-14,8480011,K. Kostin,Detroit Red Wings,0,0,0,1,0,0,341,0,0,0,0.0,0.0,445.0,0.0,4.0,Tampa Bay Lightning,3.0
 2023020035,2023-10-16,8480011,K. Kostin,Detroit Red Wings,0,0,0,2,0,5,510,0,0,0,0.0,0.0,393.0,0.0,2.5,Columbus Blue Jackets,3.5
@@ -81388,6 +81436,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8480018,N. Suzuki,Canada,0,0,0,0,0,0,815,0,0,0,0.4,0.0,1140.8,0.0,1.0,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8480018,N. Suzuki,Canada,0,0,0,0,0,0,830,0,0,0,0.4,0.0,1093.8,0.0,0.8,France,5.0
 2025090025,2026-02-18,8480018,N. Suzuki,Canada,1,0,0,0,0,0,856,0,0,1,0.4,0.0,1055.8,0.0,0.7,Czechia Czechia,3.5
+2025090027,2026-02-20,8480018,N. Suzuki,Canada,0,0,0,0,0,0,876,0,0,0,0.4,0.0,1020.0,0.0,0.5,Finland,1.75
 2023020029,2023-10-14,8480021,J. Studnicka,Vancouver Canucks,1,0,0,1,0,0,439,0,0,1,0.0,0.0,0.0,0.0,0.0,Edmonton Oilers,8.0
 2023020042,2023-10-17,8480021,J. Studnicka,Vancouver Canucks,0,0,0,3,0,0,521,0,0,0,1.0,0.0,439.0,0.0,1.0,Philadelphia Flyers,3.5
 2023020055,2023-10-19,8480021,J. Studnicka,Vancouver Canucks,0,0,0,0,0,0,550,0,0,0,0.5,0.0,480.0,0.0,2.0,Tampa Bay Lightning,4.25
@@ -82307,6 +82356,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8480035,H. Jokiharju,Finland,0,0,0,0,0,0,132,0,0,0,0.0,0.0,1118.6,0.0,0.6,Sweden,2.0
 2025090013,2026-02-14,8480035,H. Jokiharju,Finland,0,1,0,0,0,0,534,0,0,0,0.0,0.0,1006.7,0.0,0.6,Italy,4.0
 2025090024,2026-02-18,8480035,H. Jokiharju,Finland,0,0,0,0,0,0,409,0,0,0,0.0,0.0,963.4,0.0,0.6,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8480035,H. Jokiharju,Finland,0,0,0,0,0,0,619,0,0,0,0.0,0.0,889.6,0.0,0.6,Canada,1.5
 2023020013,2023-10-12,8480036,M. Heiskanen,Dallas Stars,0,0,0,1,3,0,1673,0,0,0,0.0,0.0,0.0,0.0,0.0,St. Louis Blues,0.0
 2023020048,2023-10-17,8480036,M. Heiskanen,Dallas Stars,0,0,0,1,2,0,1484,0,0,0,0.0,0.0,1673.0,0.0,1.0,Vegas Golden Knights,1.0
 2023020059,2023-10-19,8480036,M. Heiskanen,Dallas Stars,1,2,0,1,0,0,1407,0,0,1,0.0,0.0,1578.5,0.0,1.0,Anaheim Ducks,3.5
@@ -82487,6 +82537,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8480036,M. Heiskanen,Finland,0,0,0,0,0,2,1670,0,0,0,0.0,0.0,1396.7,0.0,0.6,Sweden,2.0
 2025090013,2026-02-14,8480036,M. Heiskanen,Finland,1,1,0,0,0,0,1264,0,0,1,0.0,0.0,1420.9,0.0,0.5,Italy,4.0
 2025090024,2026-02-18,8480036,M. Heiskanen,Finland,1,0,0,0,0,0,1759,0,0,1,0.1,0.0,1416.1,0.0,0.5,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8480036,M. Heiskanen,Finland,0,0,0,0,0,0,213,0,0,0,0.2,0.0,1437.7,0.0,0.5,Canada,1.5
 2023020004,2023-10-11,8480039,M. Necas,Carolina Hurricanes,0,1,0,1,1,2,1040,0,0,0,0.0,0.0,0.0,0.0,0.0,Ottawa Senators,0.0
 2023020032,2023-10-14,8480039,M. Necas,Carolina Hurricanes,0,0,0,0,0,0,972,0,0,0,0.0,0.0,1040.0,0.0,1.0,Los Angeles Kings,5.0
 2023020034,2023-10-15,8480039,M. Necas,Carolina Hurricanes,1,0,0,0,0,0,1179,0,0,1,0.0,0.0,1006.0,0.0,0.5,Anaheim Ducks,4.0
@@ -83708,6 +83759,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8480069,C. Makar,Canada,0,2,0,0,0,0,1315,0,0,0,0.1,0.0,1509.7,0.0,0.6,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8480069,C. Makar,Canada,1,0,0,0,0,2,1069,0,0,1,0.1,0.0,1488.1,0.0,0.5,France,5.0
 2025090025,2026-02-18,8480069,C. Makar,Canada,0,0,0,0,0,0,1601,0,0,0,0.2,0.0,1415.9,0.0,0.3,Czechia Czechia,3.5
+2025090027,2026-02-20,8480069,C. Makar,Canada,0,1,0,0,0,0,1514,0,0,0,0.1,0.0,1417.9,0.0,0.3,Finland,1.75
 2023020079,2023-10-21,8480070,I. Mitchell,Boston Bruins,0,0,0,0,0,0,683,0,0,0,0.0,0.0,0.0,0.0,0.0,Los Angeles Kings,3.5
 2023020081,2023-10-22,8480070,I. Mitchell,Boston Bruins,0,1,0,0,0,4,599,0,0,0,0.0,0.0,683.0,0.0,0.0,Anaheim Ducks,3.0
 2023020145,2023-11-02,8480070,I. Mitchell,Boston Bruins,0,0,0,0,1,0,817,0,0,0,0.0,0.0,641.0,0.0,0.0,Toronto Maple Leafs,3.111111111111111
@@ -85151,6 +85203,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8480185,E. Luostarinen,Finland,0,1,0,0,0,0,1191,0,0,0,0.2,0.0,957.9,0.0,1.6,Sweden,2.0
 2025090013,2026-02-14,8480185,E. Luostarinen,Finland,0,2,0,0,0,0,803,0,0,0,0.2,0.0,979.7,0.0,1.3,Italy,4.0
 2025090024,2026-02-18,8480185,E. Luostarinen,Finland,0,1,0,0,0,2,790,0,0,0,0.2,0.0,971.8,0.0,1.2,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8480185,E. Luostarinen,Finland,0,0,0,0,0,0,1021,0,0,0,0.2,0.0,953.9,0.0,1.1,Canada,1.5
 2023020016,2023-10-12,8480188,F. Zetterlund,San Jose Sharks,0,0,0,2,1,0,721,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,1.0
 2023020030,2023-10-14,8480188,F. Zetterlund,San Jose Sharks,0,0,0,5,0,0,789,0,0,0,0.0,0.0,721.0,0.0,2.0,Colorado Avalanche,2.0
 2023020047,2023-10-17,8480188,F. Zetterlund,San Jose Sharks,1,1,0,0,1,0,778,0,0,1,0.0,0.0,755.0,0.0,3.5,Carolina Hurricanes,4.666666666666667
@@ -88877,6 +88930,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8480796,M. Fehérváry,Slovakia Slovakia,0,0,0,0,0,0,1431,0,0,0,0.1,0.0,1178.3,0.0,1.7,Italy,5.0
 2025090011,2026-02-14,8480796,M. Fehérváry,Slovakia Slovakia,0,0,0,0,0,0,1233,0,0,0,0.1,0.0,1198.5,0.0,1.6,Sweden,3.0
 2025090023,2026-02-18,8480796,M. Fehérváry,Slovakia Slovakia,0,1,0,0,0,2,1321,0,0,0,0.1,0.0,1244.2,0.0,1.3,Germany,2.75
+2025090028,2026-02-20,8480796,M. Fehérváry,Slovakia Slovakia,0,2,0,0,0,4,1196,0,0,0,0.1,0.0,1262.4,0.0,1.2,USA,1.5
 2023020011,2023-10-12,8480797,J. Farabee,Philadelphia Flyers,1,0,0,0,0,0,845,0,0,1,0.0,0.0,0.0,0.0,0.0,Columbus Blue Jackets,0.0
 2023020019,2023-10-14,8480797,J. Farabee,Philadelphia Flyers,0,0,0,0,0,0,914,0,0,0,1.0,0.0,845.0,0.0,0.0,Ottawa Senators,5.0
 2023020042,2023-10-17,8480797,J. Farabee,Philadelphia Flyers,0,0,0,0,0,2,895,0,0,0,0.5,0.0,879.5,0.0,0.0,Vancouver Canucks,2.0
@@ -89471,6 +89525,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8480800,Q. Hughes,USA,0,1,0,0,0,0,1386,0,0,0,0.1,0.0,1695.3,0.0,0.0,Denmark Denmark,3.0
 2025090018,2026-02-15,8480800,Q. Hughes,USA,0,1,0,0,0,0,1319,0,0,0,0.1,0.0,1674.6,0.0,0.0,Germany,2.5
 2025090026,2026-02-18,8480800,Q. Hughes,USA,1,1,0,0,0,0,1651,0,0,1,0.1,0.0,1626.2,0.0,0.0,Sweden,2.5
+2025090028,2026-02-20,8480800,Q. Hughes,USA,0,1,0,0,0,0,1283,0,0,0,0.2,0.0,1611.8,0.0,0.0,Slovakia Slovakia,2.5
 2023020004,2023-10-11,8480801,B. Tkachuk,Ottawa Senators,0,0,0,4,1,4,1147,0,0,0,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,0.0
 2023020019,2023-10-14,8480801,B. Tkachuk,Ottawa Senators,2,0,0,1,0,2,1097,0,0,1,0.0,0.0,1147.0,0.0,4.0,Philadelphia Flyers,2.0
 2023020033,2023-10-15,8480801,B. Tkachuk,Ottawa Senators,2,1,0,1,1,0,1116,0,0,1,1.0,0.0,1122.0,0.0,2.5,Tampa Bay Lightning,4.5
@@ -89670,6 +89725,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8480801,B. Tkachuk,USA,1,0,0,0,0,0,928,0,0,1,0.5,0.0,961.5,0.0,1.9,Denmark Denmark,3.0
 2025090018,2026-02-15,8480801,B. Tkachuk,USA,0,1,0,0,0,0,852,0,0,0,0.5,0.0,969.5,0.0,1.6,Germany,2.5
 2025090026,2026-02-18,8480801,B. Tkachuk,USA,0,0,0,0,0,0,936,0,0,0,0.4,0.0,951.0,0.0,1.6,Sweden,2.5
+2025090028,2026-02-20,8480801,B. Tkachuk,USA,1,1,0,0,0,12,636,0,0,1,0.4,0.0,930.8,0.0,1.3,Slovakia Slovakia,2.5
 2023020009,2023-10-11,8480802,R. McLeod,Edmonton Oilers,0,0,0,1,0,0,870,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8480802,R. McLeod,Edmonton Oilers,0,0,0,0,1,0,803,0,0,0,0.0,0.0,870.0,0.0,1.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8480802,R. McLeod,Edmonton Oilers,0,0,0,0,0,0,813,0,0,0,0.0,0.0,836.5,0.0,0.5,Nashville Predators,2.6666666666666665
@@ -95967,6 +96023,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090001,2026-02-11,8481028,M. Pospisil,Slovakia Slovakia,0,0,0,0,0,0,892,0,0,0,0.0,0.0,668.0,0.0,3.4,Finland,0.0
 2025090008,2026-02-13,8481028,M. Pospisil,Slovakia Slovakia,0,0,0,0,0,0,841,0,0,0,0.0,0.0,685.9,0.0,2.9,Italy,5.0
 2025090023,2026-02-18,8481028,M. Pospisil,Slovakia Slovakia,0,1,0,0,0,0,689,0,0,0,0.0,0.0,697.2,0.0,2.7,Germany,2.75
+2025090028,2026-02-20,8481028,M. Pospisil,Slovakia Slovakia,0,0,0,0,0,0,818,0,0,0,0.0,0.0,693.3,0.0,2.6,USA,1.5
 2023021110,2024-03-22,8481030,J. St. Ivany,Pittsburgh Penguins,0,0,0,1,1,0,748,0,0,0,0.0,0.0,0.0,0.0,0.0,Dallas Stars,3.0
 2023021125,2024-03-24,8481030,J. St. Ivany,Pittsburgh Penguins,0,0,0,3,2,0,773,0,0,0,0.0,0.0,748.0,0.0,1.0,Colorado Avalanche,1.9
 2023021138,2024-03-26,8481030,J. St. Ivany,Pittsburgh Penguins,0,0,0,2,0,0,906,0,0,0,0.0,0.0,760.5,0.0,2.0,Carolina Hurricanes,2.1
@@ -101185,6 +101242,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8481554,K. Kakko,Finland,0,1,0,0,0,2,630,0,0,0,0.2,0.0,824.2,0.0,0.4,Sweden,2.0
 2025090013,2026-02-14,8481554,K. Kakko,Finland,2,1,0,0,0,0,790,0,0,1,0.2,0.0,805.9,0.0,0.4,Italy,4.0
 2025090024,2026-02-18,8481554,K. Kakko,Finland,0,0,0,0,0,0,712,0,0,0,0.3,0.0,806.5,0.0,0.4,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8481554,K. Kakko,Finland,0,0,0,0,0,0,792,0,0,0,0.3,0.0,786.6,0.0,0.4,Canada,1.5
 2023020006,2023-10-11,8481556,J. Beecher,Boston Bruins,0,0,0,1,0,7,641,0,0,0,0.0,0.0,0.0,0.0,0.0,Chicago Blackhawks,2.0
 2023020021,2023-10-14,8481556,J. Beecher,Boston Bruins,0,0,0,1,0,0,742,0,0,0,0.0,0.0,641.0,0.0,1.0,Nashville Predators,2.5
 2023020062,2023-10-19,8481556,J. Beecher,Boston Bruins,0,1,0,0,1,0,682,0,0,0,0.0,0.0,691.5,0.0,1.0,San Jose Sharks,3.6666666666666665
@@ -101560,6 +101618,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8481557,M. Boldy,USA,1,0,0,0,0,2,903,0,0,1,0.6,0.0,1162.7,0.0,0.9,Denmark Denmark,3.0
 2025090018,2026-02-15,8481557,M. Boldy,USA,0,0,0,0,0,0,1036,0,0,0,0.6,0.0,1134.6,0.0,0.9,Germany,2.5
 2025090026,2026-02-18,8481557,M. Boldy,USA,0,1,0,0,0,0,1116,0,0,0,0.6,0.0,1120.7,0.0,0.8,Sweden,2.5
+2025090028,2026-02-20,8481557,M. Boldy,USA,0,1,0,0,0,0,949,0,0,0,0.6,0.0,1116.7,0.0,0.8,Slovakia Slovakia,2.5
 2024021291,2025-04-15,8481558,J. Farinacci,Boston Bruins,1,0,0,3,0,0,658,0,0,1,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,2.9
 2023020012,2023-10-12,8481559,J. Hughes,New Jersey Devils,2,0,0,0,0,4,1134,0,0,1,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,0.0
 2023020017,2023-10-13,8481559,J. Hughes,New Jersey Devils,0,3,0,0,0,0,1439,0,0,0,2.0,0.0,1134.0,0.0,0.0,Arizona Coyotes,0.0
@@ -101729,6 +101788,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8481559,J. Hughes,USA,1,0,0,0,0,0,808,0,0,1,0.1,0.0,1130.5,0.0,0.1,Denmark Denmark,3.0
 2025090018,2026-02-15,8481559,J. Hughes,USA,0,0,0,0,0,0,679,0,0,0,0.2,0.0,1096.9,0.0,0.1,Germany,2.5
 2025090026,2026-02-18,8481559,J. Hughes,USA,0,1,0,0,0,0,794,0,0,0,0.2,0.0,1004.3,0.0,0.1,Sweden,2.5
+2025090028,2026-02-20,8481559,J. Hughes,USA,2,0,0,0,0,0,667,0,0,1,0.2,0.0,959.1,0.0,0.0,Slovakia Slovakia,2.5
 2023020045,2023-10-17,8481560,A. Kaliyev,Los Angeles Kings,1,1,0,1,0,0,719,0,0,1,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,4.5
 2023020056,2023-10-19,8481560,A. Kaliyev,Los Angeles Kings,0,1,0,2,0,2,840,0,0,0,1.0,0.0,719.0,0.0,1.0,Minnesota Wild,3.0
 2023020079,2023-10-21,8481560,A. Kaliyev,Los Angeles Kings,0,0,0,1,0,4,810,0,0,0,0.5,0.0,779.5,0.0,1.5,Boston Bruins,1.3333333333333333
@@ -102853,6 +102913,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8481581,T. Harley,Canada,1,0,0,0,0,0,1093,0,0,1,0.3,0.0,1392.1,0.0,0.8,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8481581,T. Harley,Canada,0,0,0,0,0,0,1034,0,0,0,0.4,0.0,1360.9,0.0,0.8,France,5.0
 2025090025,2026-02-18,8481581,T. Harley,Canada,0,1,0,0,0,0,1255,0,0,0,0.4,0.0,1325.5,0.0,0.6,Czechia Czechia,3.5
+2025090027,2026-02-20,8481581,T. Harley,Canada,0,0,0,0,0,0,1244,0,0,0,0.4,0.0,1308.4,0.0,0.6,Finland,1.75
 2023020177,2023-11-06,8481582,N. Robertson,Toronto Maple Leafs,0,1,0,2,0,0,694,0,0,0,0.0,0.0,0.0,0.0,0.0,Tampa Bay Lightning,3.3
 2023020190,2023-11-08,8481582,N. Robertson,Toronto Maple Leafs,1,0,0,0,0,0,706,0,0,1,0.0,0.0,694.0,0.0,2.0,Ottawa Senators,3.5
 2023020207,2023-11-10,8481582,N. Robertson,Toronto Maple Leafs,0,1,0,0,0,0,754,0,0,0,0.5,0.0,700.0,0.0,1.0,Calgary Flames,3.4
@@ -105269,6 +105330,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090001,2026-02-11,8481641,J. Kiviranta,Finland,0,0,0,0,0,0,0,0,0,0,0.1,0.0,634.0,0.0,1.9,Slovakia Slovakia,0.0
 2025090013,2026-02-14,8481641,J. Kiviranta,Finland,2,0,0,0,0,0,654,0,0,1,0.1,0.0,578.8,0.0,1.5,Italy,4.0
 2025090024,2026-02-18,8481641,J. Kiviranta,Finland,0,0,0,0,0,0,0,0,0,0,0.3,0.0,610.8,0.0,1.4,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8481641,J. Kiviranta,Finland,0,0,0,0,0,0,383,0,0,0,0.3,0.0,558.7,0.0,1.4,Canada,1.5
 2023020735,2024-01-23,8481655,C. Schwindt,Calgary Flames,0,0,0,0,0,2,405,0,0,0,0.0,0.0,0.0,0.0,0.0,St. Louis Blues,2.8
 2023020753,2024-01-25,8481655,C. Schwindt,Calgary Flames,0,0,0,1,1,0,480,0,0,0,0.0,0.0,405.0,0.0,0.0,Columbus Blue Jackets,4.1
 2023020771,2024-01-27,8481655,C. Schwindt,Calgary Flames,0,0,0,2,0,0,285,0,0,0,0.0,0.0,442.5,0.0,0.5,Chicago Blackhawks,2.8
@@ -109292,6 +109354,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8482093,S. Jarvis,Canada,0,0,0,0,0,0,559,0,0,0,0.4,0.0,1156.0,0.0,1.4,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8482093,S. Jarvis,Canada,0,0,0,0,0,0,635,0,0,0,0.4,0.0,1109.2,0.0,1.4,France,5.0
 2025090025,2026-02-18,8482093,S. Jarvis,Canada,0,1,0,0,0,0,680,0,0,0,0.4,0.0,1068.3,0.0,1.3,Czechia Czechia,3.5
+2025090027,2026-02-20,8482093,S. Jarvis,Canada,0,0,0,0,0,0,528,0,0,0,0.3,0.0,1006.0,0.0,0.8,Finland,1.75
 2023020114,2023-10-27,8482094,D. Hunt,Minnesota Wild,0,0,0,1,0,0,252,0,0,0,0.0,0.0,0.0,0.0,0.0,Washington Capitals,3.8333333333333335
 2023020127,2023-10-29,8482094,D. Hunt,Minnesota Wild,0,0,0,0,1,0,333,0,0,0,0.0,0.0,252.0,0.0,1.0,New Jersey Devils,3.7142857142857144
 2023020169,2023-11-04,8482094,D. Hunt,Minnesota Wild,0,0,0,0,1,0,498,0,0,0,0.0,0.0,292.5,0.0,0.5,New York Rangers,1.9
@@ -109973,6 +110036,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8482105,J. Sanderson,USA,0,0,0,0,0,0,850,0,0,0,0.1,0.0,1408.5,0.0,0.8,Denmark Denmark,3.0
 2025090018,2026-02-15,8482105,J. Sanderson,USA,0,2,0,0,0,0,640,0,0,0,0.1,0.0,1347.1,0.0,0.7,Germany,2.5
 2025090026,2026-02-18,8482105,J. Sanderson,USA,0,0,0,0,0,0,664,0,0,0,0.1,0.0,1257.2,0.0,0.7,Sweden,2.5
+2025090028,2026-02-20,8482105,J. Sanderson,USA,0,0,0,0,0,0,950,0,0,0,0.1,0.0,1180.1,0.0,0.7,Slovakia Slovakia,2.5
 2023020010,2023-10-12,8482109,A. Lafrenière,New York Rangers,1,0,0,2,0,0,929,0,0,1,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,0.0
 2023020022,2023-10-14,8482109,A. Lafrenière,New York Rangers,0,0,0,1,0,0,1068,0,0,0,1.0,0.0,929.0,0.0,2.0,Columbus Blue Jackets,4.0
 2023020037,2023-10-16,8482109,A. Lafrenière,New York Rangers,0,0,0,0,1,2,877,0,0,0,0.5,0.0,998.5,0.0,1.5,Arizona Coyotes,3.0
@@ -110777,6 +110841,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090001,2026-02-11,8482113,A. Lundell,Finland,0,0,0,0,0,0,981,0,0,0,0.3,0.0,1165.7,0.0,1.4,Slovakia Slovakia,0.0
 2025090007,2026-02-13,8482113,A. Lundell,Finland,1,0,0,0,0,2,1122,0,0,1,0.2,0.0,1150.5,0.0,1.3,Sweden,2.0
 2025090024,2026-02-18,8482113,A. Lundell,Finland,0,1,0,0,0,0,867,0,0,0,0.3,0.0,1145.1,0.0,1.1,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8482113,A. Lundell,Finland,0,0,0,0,0,2,967,0,0,0,0.2,0.0,1103.9,0.0,0.9,Canada,1.5
 2023020004,2023-10-11,8482116,T. Stützle,Ottawa Senators,1,0,0,2,0,4,1304,0,0,1,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,0.0
 2023020019,2023-10-14,8482116,T. Stützle,Ottawa Senators,0,1,0,1,1,2,1237,0,0,0,1.0,0.0,1304.0,0.0,2.0,Philadelphia Flyers,2.0
 2023020033,2023-10-15,8482116,T. Stützle,Ottawa Senators,1,0,0,1,1,2,1322,0,0,1,0.5,0.0,1270.5,0.0,1.5,Tampa Bay Lightning,4.5
@@ -111428,6 +111493,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090014,2026-02-14,8482122,B. Faber,USA,0,1,0,0,0,0,891,0,0,0,0.3,0.0,1538.7,0.0,0.3,Denmark Denmark,3.0
 2025090018,2026-02-15,8482122,B. Faber,USA,1,0,0,0,0,0,1160,0,0,1,0.3,0.0,1481.3,0.0,0.3,Germany,2.5
 2025090026,2026-02-18,8482122,B. Faber,USA,0,0,0,0,0,0,1160,0,0,0,0.3,0.0,1430.6,0.0,0.2,Sweden,2.5
+2025090028,2026-02-20,8482122,B. Faber,USA,0,0,0,0,0,0,1141,0,0,0,0.3,0.0,1394.2,0.0,0.2,Slovakia Slovakia,2.5
 2023020008,2023-10-11,8482124,Q. Byfield,Los Angeles Kings,1,0,0,0,1,0,975,0,0,1,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,0.0
 2023020032,2023-10-14,8482124,Q. Byfield,Los Angeles Kings,0,0,0,3,1,0,1121,0,0,0,1.0,0.0,975.0,0.0,0.0,Carolina Hurricanes,3.0
 2023020045,2023-10-17,8482124,Q. Byfield,Los Angeles Kings,0,0,0,0,0,0,783,0,0,0,0.5,0.0,1048.0,0.0,1.5,Winnipeg Jets,4.5
@@ -123328,6 +123394,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8483495,S. Nemec,Slovakia Slovakia,0,0,0,0,0,0,1203,0,0,0,0.1,0.0,1003.5,0.0,0.3,Italy,5.0
 2025090011,2026-02-14,8483495,S. Nemec,Slovakia Slovakia,0,1,0,0,0,2,1263,0,0,0,0.0,0.0,984.4,0.0,0.3,Sweden,3.0
 2025090023,2026-02-18,8483495,S. Nemec,Slovakia Slovakia,0,0,0,0,0,0,1311,0,0,0,0.0,0.0,1012.7,0.0,0.3,Germany,2.75
+2025090028,2026-02-20,8483495,S. Nemec,Slovakia Slovakia,0,0,0,0,0,0,1348,0,0,0,0.0,0.0,1064.8,0.0,0.3,USA,1.5
 2024021039,2025-03-12,8483497,J. Nyman,Seattle Kraken,1,0,0,3,0,0,836,0,0,1,0.0,0.0,0.0,0.0,0.0,Montréal Canadiens,2.5
 2024021054,2025-03-14,8483497,J. Nyman,Seattle Kraken,0,0,0,2,0,0,819,0,0,0,1.0,0.0,836.0,0.0,3.0,Utah Utah Hockey Club,2.6
 2024021072,2025-03-16,8483497,J. Nyman,Seattle Kraken,1,0,0,0,0,0,559,0,0,1,0.5,0.0,827.5,0.0,2.5,Winnipeg Jets,1.6
@@ -123953,6 +124020,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8483515,J. Slafkovský,Slovakia Slovakia,0,1,0,0,0,2,1105,0,0,0,0.6,0.0,1102.7,0.0,1.2,Italy,5.0
 2025090011,2026-02-14,8483515,J. Slafkovský,Slovakia Slovakia,1,1,0,0,0,0,1273,0,0,1,0.4,0.0,1093.2,0.0,0.8,Sweden,3.0
 2025090023,2026-02-18,8483515,J. Slafkovský,Slovakia Slovakia,0,1,0,0,0,0,1180,0,0,0,0.5,0.0,1117.7,0.0,0.7,Germany,2.75
+2025090028,2026-02-20,8483515,J. Slafkovský,Slovakia Slovakia,1,0,0,0,0,0,1021,0,0,1,0.5,0.0,1122.7,0.0,0.6,USA,1.5
 2024021187,2025-04-01,8483516,J. Snuggerud,St. Louis Blues,0,0,0,0,0,0,643,0,0,0,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,3.0
 2024021200,2025-04-03,8483516,J. Snuggerud,St. Louis Blues,0,1,0,0,0,0,982,0,0,0,0.0,0.0,643.0,0.0,0.0,Pittsburgh Penguins,3.2
 2024021218,2025-04-05,8483516,J. Snuggerud,St. Louis Blues,0,1,0,0,1,0,998,0,0,0,0.0,0.0,812.5,0.0,0.0,Colorado Avalanche,2.1
@@ -124580,6 +124648,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8483597,M. Kelemen,Slovakia Slovakia,0,0,0,0,0,0,809,0,0,0,0.0,0.0,496.6,0.0,1.9,Italy,5.0
 2025090011,2026-02-14,8483597,M. Kelemen,Slovakia Slovakia,0,0,0,0,0,2,684,0,0,0,0.0,0.0,538.2,0.0,1.6,Sweden,3.0
 2025090023,2026-02-18,8483597,M. Kelemen,Slovakia Slovakia,1,0,0,0,0,0,874,0,0,1,0.0,0.0,573.0,0.0,1.5,Germany,2.75
+2025090028,2026-02-20,8483597,M. Kelemen,Slovakia Slovakia,0,1,0,0,0,2,664,0,0,0,0.1,0.0,618.2,0.0,1.2,USA,1.5
 2023020714,2024-01-20,8483609,A. Klapka,Calgary Flames,0,0,0,7,0,0,366,0,0,0,0.0,0.0,0.0,0.0,0.0,Edmonton Oilers,1.5
 2023020735,2024-01-23,8483609,A. Klapka,Calgary Flames,0,0,0,2,0,0,415,0,0,0,0.0,0.0,366.0,0.0,7.0,St. Louis Blues,2.8
 2023020753,2024-01-25,8483609,A. Klapka,Calgary Flames,0,0,0,3,1,0,561,0,0,0,0.0,0.0,390.5,0.0,4.5,Columbus Blue Jackets,4.1
@@ -124703,6 +124772,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8483630,P. Regenda,Slovakia Slovakia,0,1,0,0,0,2,1070,0,0,0,0.2,0.0,864.5,0.0,1.8,Italy,5.0
 2025090011,2026-02-14,8483630,P. Regenda,Slovakia Slovakia,0,0,0,0,0,2,765,0,0,0,0.2,0.0,896.2,0.0,1.6,Sweden,3.0
 2025090023,2026-02-18,8483630,P. Regenda,Slovakia Slovakia,2,1,0,0,0,0,867,0,0,1,0.1,0.0,890.1,0.0,1.4,Germany,2.75
+2025090028,2026-02-20,8483630,P. Regenda,Slovakia Slovakia,1,0,0,0,0,0,904,0,0,1,0.3,0.0,868.7,0.0,1.3,USA,1.5
 2025090006,2026-02-12,8483634,K. Wissmann,Germany,0,0,0,0,0,0,1295,0,0,0,0.0,0.0,0.0,0.0,0.0,Denmark Denmark,0.0
 2025090012,2026-02-14,8483634,K. Wissmann,Germany,0,0,0,0,0,0,1309,0,0,0,0.0,0.0,1295.0,0.0,0.0,Latvia Latvia,5.0
 2025090018,2026-02-15,8483634,K. Wissmann,Germany,0,0,0,0,0,2,1296,0,0,0,0.0,0.0,1302.0,0.0,0.0,USA,2.0
@@ -126221,6 +126291,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8484164,D. Dvorsky,Slovakia Slovakia,0,1,0,0,0,0,904,0,0,0,0.3,0.0,919.7,0.0,0.8,Italy,5.0
 2025090011,2026-02-14,8484164,D. Dvorsky,Slovakia Slovakia,1,0,0,0,0,0,1162,0,0,1,0.3,0.0,918.9,0.0,0.8,Sweden,3.0
 2025090023,2026-02-18,8484164,D. Dvorsky,Slovakia Slovakia,1,1,0,0,0,0,843,0,0,1,0.4,0.0,941.8,0.0,0.7,Germany,2.75
+2025090028,2026-02-20,8484164,D. Dvorsky,Slovakia Slovakia,0,0,0,0,0,0,989,0,0,0,0.4,0.0,946.0,0.0,0.6,USA,1.5
 2023020011,2023-10-12,8484166,A. Fantilli,Columbus Blue Jackets,0,1,0,1,2,0,820,0,0,0,0.0,0.0,0.0,0.0,0.0,Philadelphia Flyers,0.0
 2023020022,2023-10-14,8484166,A. Fantilli,Columbus Blue Jackets,0,0,0,2,0,0,962,0,0,0,0.0,0.0,820.0,0.0,1.0,New York Rangers,1.0
 2023020035,2023-10-16,8484166,A. Fantilli,Columbus Blue Jackets,0,0,0,1,0,0,945,0,0,0,0.0,0.0,891.0,0.0,1.5,Detroit Red Wings,4.0
@@ -127437,6 +127508,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090007,2026-02-13,8484321,N. Matinpalo,Finland,1,0,0,0,0,0,357,0,0,1,0.0,0.0,945.6,0.0,0.8,Sweden,2.0
 2025090013,2026-02-14,8484321,N. Matinpalo,Finland,0,0,0,0,0,0,489,0,0,0,0.1,0.0,887.3,0.0,0.8,Italy,4.0
 2025090024,2026-02-18,8484321,N. Matinpalo,Finland,0,0,0,0,0,0,264,0,0,0,0.1,0.0,853.4,0.0,0.7,Switzerland Switzerland,2.0
+2025090027,2026-02-20,8484321,N. Matinpalo,Finland,0,0,0,0,0,0,99,0,0,0,0.1,0.0,798.8,0.0,0.6,Canada,1.5
 2023020001,2023-10-10,8484325,W. Merela,Tampa Bay Lightning,0,0,0,1,1,0,621,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8484325,W. Merela,Tampa Bay Lightning,0,0,0,2,0,0,721,0,0,0,0.0,0.0,621.0,0.0,1.0,Detroit Red Wings,4.0
 2023020033,2023-10-15,8484325,W. Merela,Tampa Bay Lightning,0,0,0,0,0,0,679,0,0,0,0.0,0.0,671.0,0.0,1.5,Ottawa Senators,3.5
@@ -127460,6 +127532,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8484326,P. Koch,Slovakia Slovakia,0,0,0,0,0,0,500,0,0,0,0.0,0.0,560.0,0.0,4.0,Italy,5.0
 2025090011,2026-02-14,8484326,P. Koch,Slovakia Slovakia,0,0,0,0,0,2,573,0,0,0,0.0,0.0,530.0,0.0,2.0,Sweden,3.0
 2025090023,2026-02-18,8484326,P. Koch,Slovakia Slovakia,0,2,0,0,0,0,914,0,0,0,0.0,0.0,544.3333333333334,0.0,1.3333333333333333,Germany,2.75
+2025090028,2026-02-20,8484326,P. Koch,Slovakia Slovakia,0,0,0,0,0,2,826,0,0,0,0.0,0.0,636.75,0.0,1.0,USA,1.5
 2025020018,2025-10-09,8484386,D. Simashev,Utah Mammoth,0,0,0,1,1,0,865,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,2.8
 2025020032,2025-10-11,8484386,D. Simashev,Utah Mammoth,0,0,0,0,2,2,511,0,0,0,0.0,0.0,865.0,0.0,1.0,Nashville Predators,4.0
 2025020048,2025-10-13,8484386,D. Simashev,Utah Mammoth,0,0,0,0,0,2,1048,0,0,0,0.0,0.0,688.0,0.0,0.5,Chicago Blackhawks,3.3
@@ -128139,6 +128212,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090010,2026-02-13,8484801,M. Celebrini,Canada,1,1,0,0,0,2,920,0,0,1,0.5,0.0,1256.9,0.0,0.3,Switzerland Switzerland,0.0
 2025090016,2026-02-15,8484801,M. Celebrini,Canada,2,1,0,0,0,0,944,0,0,1,0.6,0.0,1221.5,0.0,0.3,France,5.0
 2025090025,2026-02-18,8484801,M. Celebrini,Canada,1,2,0,0,0,2,1356,0,0,1,0.8,0.0,1196.2,0.0,0.3,Czechia Czechia,3.5
+2025090027,2026-02-20,8484801,M. Celebrini,Canada,0,1,0,0,0,0,1553,0,0,0,0.9,0.0,1217.8,0.0,0.3,Finland,1.75
 2025020036,2025-10-11,8484806,S. Dickinson,San Jose Sharks,0,0,0,0,0,0,719,0,0,0,0.0,0.0,0.0,0.0,0.0,Anaheim Ducks,3.6
 2025020055,2025-10-14,8484806,S. Dickinson,San Jose Sharks,0,0,0,0,1,4,712,0,0,0,0.0,0.0,719.0,0.0,0.0,Carolina Hurricanes,4.1
 2025020075,2025-10-17,8484806,S. Dickinson,San Jose Sharks,0,0,0,0,0,0,914,0,0,0,0.0,0.0,715.5,0.0,0.0,Utah Mammoth,2.0
@@ -128395,6 +128469,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8484935,O. Okuliar,Slovakia Slovakia,0,0,0,0,0,0,661,0,0,0,0.0,0.0,780.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8484935,O. Okuliar,Slovakia Slovakia,0,0,0,0,0,0,857,0,0,0,0.0,0.0,720.5,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8484935,O. Okuliar,Slovakia Slovakia,1,1,0,0,0,0,948,0,0,1,0.0,0.0,766.0,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8484935,O. Okuliar,Slovakia Slovakia,0,0,0,0,0,2,886,0,0,0,0.25,0.0,811.5,0.0,0.0,USA,1.5
 2024020608,2025-01-02,8484938,A. Hyry,Dallas Stars,0,0,0,1,0,0,534,0,0,0,0.0,0.0,0.0,0.0,0.0,Ottawa Senators,2.1
 2024020628,2025-01-04,8484938,A. Hyry,Dallas Stars,0,1,0,1,0,0,451,0,0,0,0.0,0.0,534.0,0.0,1.0,Utah Utah Hockey Club,3.0
 2024020643,2025-01-07,8484938,A. Hyry,Dallas Stars,0,0,0,2,0,0,522,0,0,0,0.0,0.0,492.5,0.0,1.0,New York Rangers,3.5
@@ -129003,18 +129078,22 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8485959,L. Hudacek,Slovakia Slovakia,1,0,0,0,0,0,1019,0,0,1,0.0,0.0,642.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8485959,L. Hudacek,Slovakia Slovakia,0,0,0,0,0,0,1170,0,0,0,0.5,0.0,830.5,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8485959,L. Hudacek,Slovakia Slovakia,0,1,0,0,0,0,838,0,0,0,0.3333333333333333,0.0,943.6666666666666,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8485959,L. Hudacek,Slovakia Slovakia,0,0,0,0,0,0,1036,0,0,0,0.25,0.0,917.25,0.0,0.0,USA,1.5
 2025090001,2026-02-11,8485960,A. Liska,Slovakia Slovakia,0,1,0,0,0,0,839,0,0,0,0.0,0.0,0.0,0.0,0.0,Finland,0.0
 2025090008,2026-02-13,8485960,A. Liska,Slovakia Slovakia,0,1,0,0,0,0,608,0,0,0,0.0,0.0,839.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8485960,A. Liska,Slovakia Slovakia,0,0,0,0,0,0,697,0,0,0,0.0,0.0,723.5,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8485960,A. Liska,Slovakia Slovakia,0,0,0,0,0,0,620,0,0,0,0.0,0.0,714.6666666666666,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8485960,A. Liska,Slovakia Slovakia,0,0,0,0,0,0,683,0,0,0,0.0,0.0,691.0,0.0,0.0,USA,1.5
 2025090001,2026-02-11,8485962,M. Sukel,Slovakia Slovakia,0,0,0,0,0,2,759,0,0,0,0.0,0.0,0.0,0.0,0.0,Finland,0.0
 2025090008,2026-02-13,8485962,M. Sukel,Slovakia Slovakia,1,0,0,0,0,0,725,0,0,1,0.0,0.0,759.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8485962,M. Sukel,Slovakia Slovakia,0,0,0,0,0,0,629,0,0,0,0.5,0.0,742.0,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8485962,M. Sukel,Slovakia Slovakia,0,0,0,0,0,0,742,0,0,0,0.3333333333333333,0.0,704.3333333333334,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8485962,M. Sukel,Slovakia Slovakia,0,0,0,0,0,0,788,0,0,0,0.25,0.0,713.75,0.0,0.0,USA,1.5
 2025090001,2026-02-11,8485963,S. Takac,Slovakia Slovakia,0,0,0,0,0,0,356,0,0,0,0.0,0.0,0.0,0.0,0.0,Finland,0.0
 2025090008,2026-02-13,8485963,S. Takac,Slovakia Slovakia,0,0,0,0,0,0,336,0,0,0,0.0,0.0,356.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8485963,S. Takac,Slovakia Slovakia,0,0,0,0,0,0,402,0,0,0,0.0,0.0,346.0,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8485963,S. Takac,Slovakia Slovakia,0,0,0,0,0,0,334,0,0,0,0.0,0.0,364.6666666666667,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8485963,S. Takac,Slovakia Slovakia,0,0,0,0,0,0,215,0,0,0,0.0,0.0,357.0,0.0,0.0,USA,1.5
 2025090003,2026-02-12,8485965,A. Glauser,Switzerland Switzerland,0,0,0,0,0,0,1049,0,0,0,0.0,0.0,0.0,0.0,0.0,France,0.0
 2025090010,2026-02-13,8485965,A. Glauser,Switzerland Switzerland,0,0,0,0,0,0,331,0,0,0,0.0,0.0,1049.0,0.0,0.0,Canada,0.0
 2025090020,2026-02-17,8485965,A. Glauser,Switzerland Switzerland,0,0,0,0,0,0,657,0,0,0,0.0,0.0,690.0,0.0,0.0,Italy,6.333333333333333
@@ -129070,3 +129149,4 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025090008,2026-02-13,8485992,L. Cingel,Slovakia Slovakia,0,1,0,0,0,0,335,0,0,0,0.0,0.0,486.0,0.0,0.0,Italy,5.0
 2025090011,2026-02-14,8485992,L. Cingel,Slovakia Slovakia,0,0,0,0,0,0,983,0,0,0,0.0,0.0,410.5,0.0,0.0,Sweden,3.0
 2025090023,2026-02-18,8485992,L. Cingel,Slovakia Slovakia,0,0,0,0,0,2,375,0,0,0,0.0,0.0,601.3333333333334,0.0,0.0,Germany,2.75
+2025090028,2026-02-20,8485992,L. Cingel,Slovakia Slovakia,0,0,0,0,0,0,702,0,0,0,0.0,0.0,544.75,0.0,0.0,USA,1.5
