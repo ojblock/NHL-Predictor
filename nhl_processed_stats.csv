@@ -146761,3 +146761,111 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020005,2026-09-29,8478396,N. Hanifin,Vegas Golden Knights,1,0,0,0,2,0,1131,0,0,1
 2026020005,2026-09-29,8477447,S. Theodore,Vegas Golden Knights,0,2,0,0,1,0,1282,0,0,0
 2026020005,2026-09-29,8478450,P. Wotherspoon,Vegas Golden Knights,0,0,0,1,0,2,1208,0,0,0
+2026020006,2026-09-30,8480842,F. Hallander,Pittsburgh Penguins,1,2,0,1,0,0,655,0,0,1
+2026020006,2026-09-30,8481582,N. Robertson,Pittsburgh Penguins,2,0,0,0,1,2,902,0,0,1
+2026020006,2026-09-30,8478438,T. Novak,Pittsburgh Penguins,0,1,0,0,1,0,964,0,0,0
+2026020006,2026-09-30,8480980,C. Dewar,Pittsburgh Penguins,0,0,0,4,1,2,891,0,0,0
+2026020006,2026-09-30,8482148,H. Lapierre,Pittsburgh Penguins,1,1,0,4,0,0,782,0,0,1
+2026020006,2026-09-30,8481725,E. Soderblom,Pittsburgh Penguins,0,0,0,2,0,0,759,0,0,0
+2026020006,2026-09-30,8482758,V. Koivunen,Pittsburgh Penguins,1,0,0,0,0,0,830,0,0,1
+2026020006,2026-09-30,8481481,B. Lizotte,Pittsburgh Penguins,0,0,0,0,1,0,793,0,0,0
+2026020006,2026-09-30,8482475,E. Chinakhov,Pittsburgh Penguins,1,0,0,1,0,0,1018,0,0,1
+2026020006,2026-09-30,8476483,R. Rakell,Pittsburgh Penguins,0,1,0,3,0,0,1112,0,0,0
+2026020006,2026-09-30,8471215,E. Malkin,Pittsburgh Penguins,1,0,0,0,0,0,947,0,0,1
+2026020006,2026-09-30,8471675,S. Crosby,Pittsburgh Penguins,0,1,0,2,0,0,1059,0,0,0
+2026020006,2026-09-30,8481527,K. Korczak,Pittsburgh Penguins,0,2,0,1,2,0,1111,0,0,0
+2026020006,2026-09-30,8479398,S. Girard,Pittsburgh Penguins,0,2,0,1,0,0,1262,0,0,0
+2026020006,2026-09-30,8477845,T. van Riemsdyk,Pittsburgh Penguins,0,0,0,1,4,0,1242,0,0,0
+2026020006,2026-09-30,8471724,K. Letang,Pittsburgh Penguins,0,1,0,2,0,0,1124,0,0,0
+2026020006,2026-09-30,8474578,E. Karlsson,Pittsburgh Penguins,0,1,0,0,1,0,1199,0,0,0
+2026020006,2026-09-30,8483398,D. Carlile,Pittsburgh Penguins,0,1,0,1,0,4,990,0,0,0
+2026020006,2026-09-30,8478439,T. Konecny,Philadelphia Flyers,0,0,0,3,0,2,887,0,0,0
+2026020006,2026-09-30,8476461,S. Couturier,Philadelphia Flyers,0,0,0,1,0,0,904,0,0,0
+2026020006,2026-09-30,8483731,A. Bump,Philadelphia Flyers,0,0,0,2,0,0,879,0,0,0
+2026020006,2026-09-30,8477989,C. Dvorak,Philadelphia Flyers,0,0,0,2,1,0,898,0,0,0
+2026020006,2026-09-30,8480220,N. Cates,Philadelphia Flyers,0,0,0,0,0,0,857,0,0,0
+2026020006,2026-09-30,8484387,M. Michkov,Philadelphia Flyers,0,0,0,0,0,0,947,0,0,0
+2026020006,2026-09-30,8481533,T. Zegras,Philadelphia Flyers,0,0,0,0,0,0,985,0,0,0
+2026020006,2026-09-30,8478569,N. Acciari,Philadelphia Flyers,0,0,0,3,1,0,920,0,0,0
+2026020006,2026-09-30,8482159,T. Foerster,Philadelphia Flyers,0,0,0,1,0,0,1028,0,0,0
+2026020006,2026-09-30,8480015,O. Tippett,Philadelphia Flyers,0,0,0,6,0,0,851,0,0,0
+2026020006,2026-09-30,8479336,C. Grundstrom,Philadelphia Flyers,0,0,0,4,1,0,721,0,0,0
+2026020006,2026-09-30,8485406,P. Martone,Philadelphia Flyers,0,0,0,0,0,2,845,0,0,0
+2026020006,2026-09-30,8477948,T. Sanheim,Philadelphia Flyers,0,0,0,0,0,0,1215,0,0,0
+2026020006,2026-09-30,8481546,C. York,Philadelphia Flyers,0,0,0,0,1,0,1268,0,0,0
+2026020006,2026-09-30,8482142,J. Drysdale,Philadelphia Flyers,0,0,0,1,1,2,1041,0,0,0
+2026020006,2026-09-30,8476372,N. Seeler,Philadelphia Flyers,0,0,0,2,1,2,1194,0,0,0
+2026020006,2026-09-30,8481122,S. Benoit,Philadelphia Flyers,0,0,0,2,0,2,1109,0,0,0
+2026020006,2026-09-30,8477499,R. Ristolainen,Philadelphia Flyers,0,0,0,1,2,0,1060,0,0,0
+2026020008,2026-09-30,8475170,B. Schenn,New York Islanders,0,0,0,3,0,2,867,0,0,0
+2026020008,2026-09-30,8477407,A. Duclair,New York Islanders,0,0,0,0,1,0,737,0,0,0
+2026020008,2026-09-30,8477500,B. Horvat,New York Islanders,0,1,0,1,0,0,1351,0,0,0
+2026020008,2026-09-30,8475151,K. Palmieri,New York Islanders,0,0,0,1,1,0,1115,0,0,0
+2026020008,2026-09-30,8485388,V. Eklund,New York Islanders,0,0,0,1,0,2,718,0,0,0
+2026020008,2026-09-30,8476419,J. Pageau,New York Islanders,0,0,0,2,0,0,830,0,0,0
+2026020008,2026-09-30,8482476,E. Heineman,New York Islanders,1,0,0,3,0,0,806,0,0,1
+2026020008,2026-09-30,8475231,C. Cizikas,New York Islanders,0,0,0,2,0,0,569,0,0,0
+2026020008,2026-09-30,8481711,M. Maccelli,New York Islanders,0,0,0,1,0,2,1059,0,0,0
+2026020008,2026-09-30,8484221,C. Ritchie,New York Islanders,0,0,0,2,1,0,963,0,0,0
+2026020008,2026-09-30,8476292,O. Palat,New York Islanders,0,0,0,1,0,0,606,0,0,0
+2026020008,2026-09-30,8481601,S. Holmstrom,New York Islanders,0,0,0,0,0,0,1217,0,0,0
+2026020008,2026-09-30,8476917,A. Pelech,New York Islanders,0,0,0,1,1,0,1191,0,0,0
+2026020008,2026-09-30,8477506,R. Pulock,New York Islanders,0,0,0,1,2,0,987,0,0,0
+2026020008,2026-09-30,8479378,L. Stanley,New York Islanders,0,0,0,3,1,0,906,0,0,0
+2026020008,2026-09-30,8481014,A. Romanov,New York Islanders,0,0,0,2,2,0,1029,0,0,0
+2026020008,2026-09-30,8485366,M. Schaefer,New York Islanders,0,0,0,0,1,2,1665,0,0,0
+2026020008,2026-09-30,8477950,T. DeAngelo,New York Islanders,0,0,0,0,1,0,1034,0,0,0
+2026020008,2026-09-30,8476925,C. Sissons,Toronto Maple Leafs,1,0,0,2,2,0,682,0,0,1
+2026020008,2026-09-30,8477426,N. Paul,Toronto Maple Leafs,0,1,0,1,0,2,943,0,0,0
+2026020008,2026-09-30,8479520,B. Duhaime,Toronto Maple Leafs,0,0,0,1,3,0,879,0,0,0
+2026020008,2026-09-30,8480870,B. Groulx,Toronto Maple Leafs,0,0,0,3,0,0,589,0,0,0
+2026020008,2026-09-30,8479318,A. Matthews,Toronto Maple Leafs,0,0,0,1,1,0,1204,0,0,0
+2026020008,2026-09-30,8484158,E. Cowan,Toronto Maple Leafs,1,1,0,2,0,0,803,0,0,1
+2026020008,2026-09-30,8476927,T. Blueger,Toronto Maple Leafs,0,0,0,2,1,0,752,0,0,0
+2026020008,2026-09-30,8480893,K. Marchenko,Toronto Maple Leafs,0,0,0,4,0,2,1096,0,0,0
+2026020008,2026-09-30,8477939,W. Nylander,Toronto Maple Leafs,0,0,0,0,1,0,1049,0,0,0
+2026020008,2026-09-30,8475166,J. Tavares,Toronto Maple Leafs,0,0,0,0,1,2,1018,0,0,0
+2026020008,2026-09-30,8486067,G. McKenna,Toronto Maple Leafs,0,0,0,0,0,0,932,0,0,0
+2026020008,2026-09-30,8478458,J. Roslovic,Toronto Maple Leafs,0,1,0,1,1,0,893,0,0,0
+2026020008,2026-09-30,8475690,C. Tanev,Toronto Maple Leafs,0,0,0,0,3,0,1239,0,0,0
+2026020008,2026-09-30,8476931,J. McCabe,Toronto Maple Leafs,0,0,0,0,5,2,1219,0,0,0
+2026020008,2026-09-30,8479442,T. Stecher,Toronto Maple Leafs,0,0,0,1,0,0,965,0,0,0
+2026020008,2026-09-30,8478178,D. Raddysh,Toronto Maple Leafs,0,0,0,0,1,0,1236,0,0,0
+2026020008,2026-09-30,8476853,M. Rielly,Toronto Maple Leafs,0,1,0,0,1,0,1189,0,0,0
+2026020008,2026-09-30,8475171,O. Ekman-Larsson,Toronto Maple Leafs,0,0,0,1,1,0,930,0,0,0
+2026020007,2026-09-30,8477960,A. Kempe,Los Angeles Kings,0,0,0,2,0,2,1163,0,0,0
+2026020007,2026-09-30,8478550,A. Panarin,Los Angeles Kings,1,0,0,0,0,0,1216,0,0,1
+2026020007,2026-09-30,8479675,T. Moore,Los Angeles Kings,1,0,0,1,1,0,896,0,0,1
+2026020007,2026-09-30,8482155,A. Laferriere,Los Angeles Kings,0,2,0,5,1,0,931,0,0,0
+2026020007,2026-09-30,8481532,A. Turcotte,Los Angeles Kings,0,1,0,2,0,2,935,0,0,0
+2026020007,2026-09-30,8476872,S. Laughton,Los Angeles Kings,0,0,0,1,1,0,907,0,0,0
+2026020007,2026-09-30,8475692,M. Zuccarello,Los Angeles Kings,0,0,0,0,0,0,1079,0,0,0
+2026020007,2026-09-30,8476469,J. Armia,Los Angeles Kings,1,0,0,0,1,0,775,0,0,1
+2026020007,2026-09-30,8481732,A. Lee,Los Angeles Kings,0,0,0,1,0,2,476,0,0,0
+2026020007,2026-09-30,8482124,Q. Byfield,Los Angeles Kings,0,0,0,0,2,0,1139,0,0,0
+2026020007,2026-09-30,8475287,E. Haula,Los Angeles Kings,0,1,0,0,0,0,926,0,0,0
+2026020007,2026-09-30,8482726,S. Helenius,Los Angeles Kings,0,0,0,3,0,0,419,0,0,0
+2026020007,2026-09-30,8475208,B. Dumoulin,Los Angeles Kings,1,0,0,0,2,0,990,0,0,1
+2026020007,2026-09-30,8476879,C. Ceci,Los Angeles Kings,0,1,0,0,1,0,1164,0,0,0
+2026020007,2026-09-30,8476441,J. Edmundson,Los Angeles Kings,0,0,0,1,0,2,934,0,0,0
+2026020007,2026-09-30,8474563,D. Doughty,Los Angeles Kings,0,1,0,0,2,2,1361,0,0,0
+2026020007,2026-09-30,8479998,M. Anderson,Los Angeles Kings,0,1,0,1,2,0,1161,0,0,0
+2026020007,2026-09-30,8482730,B. Clarke,Los Angeles Kings,0,0,0,0,2,5,1137,0,0,0
+2026020007,2026-09-30,8482768,F. Svechkov,Colorado Avalanche,0,0,0,1,1,0,928,0,0,0
+2026020007,2026-09-30,8478462,N. Roy,Colorado Avalanche,1,0,0,2,1,0,732,0,0,1
+2026020007,2026-09-30,8475754,B. Nelson,Colorado Avalanche,1,2,0,0,0,0,1154,0,0,1
+2026020007,2026-09-30,8486171,T. Hughes,Colorado Avalanche,0,0,0,2,0,2,815,0,0,0
+2026020007,2026-09-30,8480448,P. Kelly,Colorado Avalanche,1,1,0,3,0,0,773,0,0,1
+2026020007,2026-09-30,8477492,N. MacKinnon,Colorado Avalanche,2,0,0,2,0,5,1064,0,0,1
+2026020007,2026-09-30,8477476,A. Lehkonen,Colorado Avalanche,2,0,0,2,2,0,1167,0,0,1
+2026020007,2026-09-30,8475768,J. Schwartz,Colorado Avalanche,0,2,0,2,0,2,769,0,0,0
+2026020007,2026-09-30,8480039,M. Necas,Colorado Avalanche,0,1,0,1,0,0,1151,0,0,0
+2026020007,2026-09-30,8475172,N. Kadri,Colorado Avalanche,0,2,0,1,0,0,1077,0,0,0
+2026020007,2026-09-30,8476455,G. Landeskog,Colorado Avalanche,1,0,0,0,1,0,1072,0,0,1
+2026020007,2026-09-30,8478038,D. Toews,Colorado Avalanche,0,2,0,1,0,2,1204,0,0,0
+2026020007,2026-09-30,8480069,C. Makar,Colorado Avalanche,0,2,0,0,3,0,1094,0,0,0
+2026020007,2026-09-30,8476967,B. Kulak,Colorado Avalanche,0,0,0,0,1,0,1184,0,0,0
+2026020007,2026-09-30,8476312,J. Manson,Colorado Avalanche,0,1,0,1,1,0,871,0,0,0
+2026020007,2026-09-30,8478454,N. Juulsen,Colorado Avalanche,0,0,0,0,1,2,675,0,0,0
+2026020007,2026-09-30,8484258,S. Malinski,Colorado Avalanche,0,0,0,0,3,0,867,0,0,0
+2026020007,2026-09-30,8470613,B. Burns,Colorado Avalanche,0,1,0,1,1,0,923,0,0,0
