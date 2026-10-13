@@ -3925,6 +3925,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8473512,C. Giroux,Ottawa Senators,0,0,0,0,0,0,928,0,0,0,0.1,0.0,1044.7,0.0,1.0,Detroit Red Wings,4.1
 2026020059,2026-10-08,8473512,C. Giroux,Ottawa Senators,0,1,0,3,1,0,1183,0,0,0,0.0,0.0,1046.3,0.0,1.0,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8473512,C. Giroux,Ottawa Senators,0,0,0,2,0,0,1122,0,0,0,0.0,0.0,1080.8,0.0,1.3,Nashville Predators,2.6
+2026020088,2026-10-12,8473512,C. Giroux,Ottawa Senators,0,1,0,1,0,0,1126,0,0,0,0.0,0.0,1109.2,0.0,1.5,New Jersey Devils,3.4
 2023020004,2023-10-11,8473533,J. Staal,Carolina Hurricanes,1,1,0,2,1,0,1036,0,0,1,0.0,0.0,0.0,0.0,0.0,Ottawa Senators,0.0
 2023020032,2023-10-14,8473533,J. Staal,Carolina Hurricanes,0,0,0,3,0,0,1018,0,0,0,1.0,0.0,1036.0,0.0,2.0,Los Angeles Kings,5.0
 2023020034,2023-10-15,8473533,J. Staal,Carolina Hurricanes,0,0,0,0,0,0,875,0,0,0,0.5,0.0,1027.0,0.0,2.5,Anaheim Ducks,4.0
@@ -7054,6 +7055,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8474189,L. Eller,Florida Panthers,0,1,0,1,1,0,897,0,0,0,0.0,0.0,649.8,0.0,0.8,San Jose Sharks,3.4
 2026020052,2026-10-06,8474189,L. Eller,Florida Panthers,0,1,0,0,2,0,776,0,0,0,0.0,0.0,672.3,0.0,0.8,Los Angeles Kings,3.6
 2026020073,2026-10-10,8474189,L. Eller,Florida Panthers,0,0,0,0,0,0,1086,0,0,0,0.0,0.0,670.1,0.0,0.7,Minnesota Wild,3.4
+2026020087,2026-10-12,8474189,L. Eller,Florida Panthers,0,0,0,1,0,0,756,0,0,0,0.0,0.0,741.9,0.0,0.7,Buffalo Sabres,3.9
 2023020008,2023-10-11,8474563,D. Doughty,Los Angeles Kings,0,0,0,3,1,0,1578,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,0.0
 2023020032,2023-10-14,8474563,D. Doughty,Los Angeles Kings,1,0,0,1,0,0,1699,0,0,1,0.0,0.0,1578.0,0.0,3.0,Carolina Hurricanes,3.0
 2023020045,2023-10-17,8474563,D. Doughty,Los Angeles Kings,0,0,0,3,2,2,1562,0,0,0,0.5,0.0,1638.5,0.0,2.0,Winnipeg Jets,4.5
@@ -7841,6 +7843,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020031,2026-10-03,8474567,Z. Bogosian,Minnesota Wild,0,0,0,0,0,0,954,0,0,0,0.0,0.0,775.9,0.0,1.0,Boston Bruins,2.5
 2026020049,2026-10-06,8474567,Z. Bogosian,Minnesota Wild,0,0,0,0,1,0,852,0,0,0,0.0,0.0,793.2,0.0,0.8,Buffalo Sabres,3.7
 2026020060,2026-10-08,8474567,Z. Bogosian,Minnesota Wild,0,0,0,0,1,2,1169,0,0,0,0.0,0.0,812.0,0.0,0.8,Tampa Bay Lightning,2.2
+2026020089,2026-10-12,8474567,Z. Bogosian,Minnesota Wild,0,0,0,0,0,0,941,0,0,0,0.0,0.0,862.0,0.0,0.8,Vegas Golden Knights,3.2
 2023020001,2023-10-10,8474568,L. Schenn,Nashville Predators,0,0,0,5,1,0,911,0,0,0,0.0,0.0,0.0,0.0,0.0,Tampa Bay Lightning,0.0
 2023020319,2023-11-26,8474568,L. Schenn,Nashville Predators,0,0,0,1,0,0,725,0,0,0,0.0,0.0,911.0,0.0,5.0,Winnipeg Jets,2.5
 2023020331,2023-11-28,8474568,L. Schenn,Nashville Predators,0,0,0,4,2,0,638,0,0,0,0.0,0.0,818.0,0.0,3.0,Pittsburgh Penguins,2.1
@@ -10424,6 +10427,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8474716,J. Spurgeon,Minnesota Wild,0,1,0,0,0,0,1309,0,0,0,0.1,0.0,1208.6,0.0,1.1,Buffalo Sabres,3.7
 2026020060,2026-10-08,8474716,J. Spurgeon,Minnesota Wild,0,1,0,2,5,0,1494,0,0,0,0.1,0.0,1179.5,0.0,1.0,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8474716,J. Spurgeon,Minnesota Wild,0,1,0,2,1,0,1480,0,0,0,0.1,0.0,1200.0,0.0,1.1,Florida Panthers,3.2
+2026020089,2026-10-12,8474716,J. Spurgeon,Minnesota Wild,0,0,0,0,3,0,1412,0,0,0,0.1,0.0,1234.6,0.0,1.3,Vegas Golden Knights,3.2
 2023020002,2023-10-10,8474870,T. Johnson,Chicago Blackhawks,0,0,0,0,1,0,983,0,0,0,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8474870,T. Johnson,Chicago Blackhawks,0,0,0,0,0,0,1095,0,0,0,0.0,0.0,983.0,0.0,0.0,Boston Bruins,0.0
 2023020024,2023-10-14,8474870,T. Johnson,Chicago Blackhawks,2,0,0,2,1,0,853,0,0,1,0.0,0.0,1039.0,0.0,0.0,Montréal Canadiens,5.0
@@ -13180,6 +13184,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8475179,D. Kulikov,Florida Panthers,0,1,0,1,1,0,1048,0,0,0,0.0,0.0,1068.0,0.0,1.1,San Jose Sharks,3.4
 2026020052,2026-10-06,8475179,D. Kulikov,Florida Panthers,0,0,0,2,1,4,1103,0,0,0,0.0,0.0,1075.9,0.0,1.1,Los Angeles Kings,3.6
 2026020073,2026-10-10,8475179,D. Kulikov,Florida Panthers,0,0,0,1,0,2,862,0,0,0,0.0,0.0,1070.0,0.0,1.2,Minnesota Wild,3.4
+2026020087,2026-10-12,8475179,D. Kulikov,Florida Panthers,0,0,0,4,0,2,872,0,0,0,0.0,0.0,1033.1,0.0,1.3,Buffalo Sabres,3.9
 2023020013,2023-10-12,8475181,N. Leddy,St. Louis Blues,0,0,0,0,1,0,1461,0,0,0,0.0,0.0,0.0,0.0,0.0,Dallas Stars,0.0
 2023020028,2023-10-14,8475181,N. Leddy,St. Louis Blues,0,0,0,0,3,0,1336,0,0,0,0.0,0.0,1461.0,0.0,0.0,Seattle Kraken,3.5
 2023020057,2023-10-19,8475181,N. Leddy,St. Louis Blues,0,0,0,1,3,0,1187,0,0,0,0.0,0.0,1398.5,0.0,0.0,Arizona Coyotes,2.0
@@ -13821,6 +13826,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8475188,B. McNabb,Vegas Golden Knights,0,0,0,2,1,0,1177,0,0,0,0.0,0.0,1250.9,0.0,0.9,Seattle Kraken,3.4
 2026020065,2026-10-08,8475188,B. McNabb,Vegas Golden Knights,0,0,0,2,0,0,1090,0,0,0,0.0,0.0,1226.1,0.0,0.9,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8475188,B. McNabb,Vegas Golden Knights,0,0,0,2,2,2,1190,0,0,0,0.0,0.0,1191.5,0.0,1.0,Los Angeles Kings,3.8
+2026020089,2026-10-12,8475188,B. McNabb,Vegas Golden Knights,0,0,0,3,1,0,1057,0,0,0,0.0,0.0,1183.2,0.0,1.2,Minnesota Wild,3.3
 2023020002,2023-10-10,8475191,R. Smith,Pittsburgh Penguins,0,0,0,1,1,0,1017,0,0,0,0.0,0.0,0.0,0.0,0.0,Chicago Blackhawks,0.0
 2023020018,2023-10-13,8475191,R. Smith,Pittsburgh Penguins,1,0,0,1,0,0,903,0,0,1,0.0,0.0,1017.0,0.0,1.0,Washington Capitals,0.0
 2023020025,2023-10-14,8475191,R. Smith,Pittsburgh Penguins,1,1,0,0,0,0,897,0,0,1,0.5,0.0,960.0,0.0,1.0,Calgary Flames,3.0
@@ -17054,6 +17060,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8475343,N. Dowd,Vegas Golden Knights,0,0,0,1,1,2,830,0,0,0,0.0,0.0,746.5,0.0,3.1,Seattle Kraken,3.4
 2026020065,2026-10-08,8475343,N. Dowd,Vegas Golden Knights,0,0,0,2,0,0,675,0,0,0,0.0,0.0,767.5,0.0,3.0,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8475343,N. Dowd,Vegas Golden Knights,0,0,0,1,1,7,626,0,0,0,0.0,0.0,769.3,0.0,3.1,Los Angeles Kings,3.8
+2026020089,2026-10-12,8475343,N. Dowd,Vegas Golden Knights,0,0,0,4,0,0,698,0,0,0,0.0,0.0,752.5,0.0,2.8,Minnesota Wild,3.3
 2023020746,2024-01-25,8475413,J. Dowling,New Jersey Devils,1,0,0,0,1,0,399,0,0,1,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,2.5
 2023020767,2024-01-27,8475413,J. Dowling,New Jersey Devils,0,0,0,1,0,0,864,0,0,0,1.0,0.0,399.0,0.0,0.0,Tampa Bay Lightning,2.6
 2024020159,2024-10-30,8475413,J. Dowling,New Jersey Devils,0,1,0,0,0,0,706,0,0,0,0.5,0.0,631.5,0.0,0.5,Vancouver Canucks,2.9
@@ -17355,6 +17362,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8475455,B. Dillon,New Jersey Devils,0,0,0,2,3,0,793,0,0,0,0.0,0.0,1085.4,0.0,2.3,New York Islanders,3.6
 2026020047,2026-10-06,8475455,B. Dillon,New Jersey Devils,0,0,0,2,0,9,711,0,0,0,0.0,0.0,1059.0,0.0,1.8,Utah Mammoth,3.1
 2026020071,2026-10-10,8475455,B. Dillon,New Jersey Devils,0,0,0,4,0,0,997,0,0,0,0.0,0.0,1017.7,0.0,1.9,Vancouver Canucks,4.3
+2026020088,2026-10-12,8475455,B. Dillon,New Jersey Devils,0,0,0,1,0,2,941,0,0,0,0.0,0.0,1025.9,0.0,2.3,Ottawa Senators,2.3
 2025020018,2025-10-09,8475461,A. Agozzino,Utah Mammoth,0,0,0,2,1,0,415,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,2.8
 2025020032,2025-10-11,8475461,A. Agozzino,Utah Mammoth,0,0,0,2,0,0,321,0,0,0,0.0,0.0,415.0,0.0,2.0,Nashville Predators,4.0
 2023020031,2023-10-14,8475462,R. Gudas,Anaheim Ducks,0,0,0,4,3,0,1117,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,1.0
@@ -17571,6 +17579,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8475462,R. Gudas,Florida Panthers,0,0,0,4,3,0,811,0,0,0,0.1,0.0,717.1,0.0,1.7,San Jose Sharks,3.4
 2026020052,2026-10-06,8475462,R. Gudas,Florida Panthers,0,0,0,2,3,0,728,0,0,0,0.0,0.0,683.1,0.0,2.0,Los Angeles Kings,3.6
 2026020073,2026-10-10,8475462,R. Gudas,Florida Panthers,0,0,0,3,1,0,849,0,0,0,0.0,0.0,679.5,0.0,2.1,Minnesota Wild,3.4
+2026020087,2026-10-12,8475462,R. Gudas,Florida Panthers,0,0,0,0,1,2,747,0,0,0,0.0,0.0,667.0,0.0,2.4,Buffalo Sabres,3.9
 2023020007,2023-10-11,8475690,C. Tanev,Calgary Flames,0,0,0,0,5,0,1226,0,0,0,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,0.0
 2023020025,2023-10-14,8475690,C. Tanev,Calgary Flames,0,0,0,0,2,0,990,0,0,0,0.0,0.0,1226.0,0.0,0.0,Pittsburgh Penguins,2.0
 2023020039,2023-10-16,8475690,C. Tanev,Calgary Flames,0,0,0,0,3,0,1079,0,0,0,0.0,0.0,1108.0,0.0,0.0,Washington Capitals,4.0
@@ -23556,6 +23565,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8475913,M. Stone,Vegas Golden Knights,1,1,0,1,2,5,951,0,0,1,0.5,0.0,1202.6,0.0,3.1,Seattle Kraken,3.4
 2026020065,2026-10-08,8475913,M. Stone,Vegas Golden Knights,1,0,0,3,2,2,1437,0,0,1,0.5,0.0,1203.2,0.0,2.8,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8475913,M. Stone,Vegas Golden Knights,0,2,0,0,0,0,1131,0,0,0,0.5,0.0,1252.7,0.0,2.8,Los Angeles Kings,3.8
+2026020089,2026-10-12,8475913,M. Stone,Vegas Golden Knights,0,0,0,0,0,0,1203,0,0,0,0.5,0.0,1263.9,0.0,2.6,Minnesota Wild,3.3
 2023020789,2024-02-06,8475958,M. Sgarbossa,Washington Capitals,0,0,0,0,0,0,589,0,0,0,0.0,0.0,0.0,0.0,0.0,Montréal Canadiens,3.7
 2023020795,2024-02-08,8475958,M. Sgarbossa,Washington Capitals,0,1,0,1,0,0,559,0,0,0,0.0,0.0,589.0,0.0,0.0,Florida Panthers,2.9
 2023020808,2024-02-10,8475958,M. Sgarbossa,Washington Capitals,0,0,0,2,0,0,671,0,0,0,0.0,0.0,574.0,0.0,0.5,Boston Bruins,2.1
@@ -25786,6 +25796,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8476393,N. Cousins,Ottawa Senators,0,0,0,4,0,2,362,0,0,0,0.0,0.0,679.4,0.0,2.6,Detroit Red Wings,4.1
 2026020059,2026-10-08,8476393,N. Cousins,Ottawa Senators,1,0,0,0,1,0,673,0,0,1,0.0,0.0,628.5,0.0,2.8,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8476393,N. Cousins,Ottawa Senators,0,0,0,1,1,0,598,0,0,0,0.1,0.0,630.3,0.0,2.8,Nashville Predators,2.6
+2026020088,2026-10-12,8476393,N. Cousins,Ottawa Senators,0,0,0,0,1,0,540,0,0,0,0.1,0.0,607.1,0.0,2.8,New Jersey Devils,3.4
 2023020007,2023-10-11,8476399,B. Coleman,Calgary Flames,0,0,0,0,1,0,989,0,0,0,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,0.0
 2023020025,2023-10-14,8476399,B. Coleman,Calgary Flames,0,0,0,1,0,2,828,0,0,0,0.0,0.0,989.0,0.0,0.0,Pittsburgh Penguins,2.0
 2023020039,2023-10-16,8476399,B. Coleman,Calgary Flames,0,0,0,1,0,0,968,0,0,0,0.0,0.0,908.5,0.0,0.5,Washington Capitals,4.0
@@ -26020,6 +26031,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8476399,B. Coleman,Minnesota Wild,0,1,0,4,0,0,1064,0,0,0,0.4,0.0,1058.9,0.0,1.4,Buffalo Sabres,3.7
 2026020060,2026-10-08,8476399,B. Coleman,Minnesota Wild,1,0,0,1,0,0,860,0,0,1,0.4,0.0,1066.9,0.0,1.6,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8476399,B. Coleman,Minnesota Wild,0,0,0,1,1,4,996,0,0,0,0.3,0.0,1044.4,0.0,1.7,Florida Panthers,3.2
+2026020089,2026-10-12,8476399,B. Coleman,Minnesota Wild,0,0,0,2,3,4,1054,0,0,0,0.3,0.0,1030.9,0.0,1.4,Vegas Golden Knights,3.2
 2023020027,2023-10-14,8476419,J. Pageau,New York Islanders,0,0,0,3,1,0,930,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,5.0
 2023020043,2023-10-17,8476419,J. Pageau,New York Islanders,0,0,0,6,0,0,1001,0,0,0,0.0,0.0,930.0,0.0,3.0,Arizona Coyotes,2.5
 2023020064,2023-10-20,8476419,J. Pageau,New York Islanders,0,0,0,0,0,0,990,0,0,0,0.0,0.0,965.5,0.0,4.5,New Jersey Devils,3.3333333333333335
@@ -27379,6 +27391,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8476448,W. Karlsson,Vegas Golden Knights,0,0,0,0,0,0,1124,0,0,0,0.3,0.0,1063.4,0.0,0.4,Seattle Kraken,3.4
 2026020065,2026-10-08,8476448,W. Karlsson,Vegas Golden Knights,0,1,0,0,0,0,1135,0,0,0,0.3,0.0,1069.6,0.0,0.3,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8476448,W. Karlsson,Vegas Golden Knights,0,0,0,0,1,0,1000,0,0,0,0.2,0.0,1078.9,0.0,0.3,Los Angeles Kings,3.8
+2026020089,2026-10-12,8476448,W. Karlsson,Vegas Golden Knights,1,0,0,0,2,0,1031,0,0,1,0.2,0.0,1073.5,0.0,0.3,Minnesota Wild,3.3
 2023020001,2023-10-10,8476453,N. Kucherov,Tampa Bay Lightning,2,0,0,2,0,2,1279,0,0,1,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8476453,N. Kucherov,Tampa Bay Lightning,0,2,0,0,0,0,1410,0,0,0,2.0,0.0,1279.0,0.0,2.0,Detroit Red Wings,4.0
 2023020033,2023-10-15,8476453,N. Kucherov,Tampa Bay Lightning,0,0,0,0,1,0,1242,0,0,0,1.0,0.0,1344.5,0.0,1.0,Ottawa Senators,3.5
@@ -29541,6 +29554,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8476462,D. Hamilton,New Jersey Devils,0,0,0,0,2,0,1337,0,0,0,0.2,0.0,1230.5,0.0,0.9,New York Islanders,3.6
 2026020047,2026-10-06,8476462,D. Hamilton,New Jersey Devils,0,1,0,2,2,0,1364,0,0,0,0.2,0.0,1253.9,0.0,0.7,Utah Mammoth,3.1
 2026020071,2026-10-10,8476462,D. Hamilton,New Jersey Devils,0,0,0,2,0,0,1156,0,0,0,0.1,0.0,1284.5,0.0,0.9,Vancouver Canucks,4.3
+2026020088,2026-10-12,8476462,D. Hamilton,New Jersey Devils,0,0,0,1,3,0,1330,0,0,0,0.1,0.0,1262.7,0.0,0.8,Ottawa Senators,2.3
 2023020014,2023-10-12,8476463,J. Brodin,Minnesota Wild,0,0,0,2,3,0,1258,0,0,0,0.0,0.0,0.0,0.0,0.0,Florida Panthers,0.0
 2023020026,2023-10-14,8476463,J. Brodin,Minnesota Wild,0,1,0,0,2,0,1516,0,0,0,0.0,0.0,1258.0,0.0,2.0,Toronto Maple Leafs,5.0
 2023020041,2023-10-17,8476463,J. Brodin,Minnesota Wild,0,0,0,0,0,0,1226,0,0,0,0.0,0.0,1387.0,0.0,1.0,Montréal Canadiens,3.5
@@ -29729,6 +29743,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8476463,J. Brodin,Minnesota Wild,0,0,0,0,3,2,1158,0,0,0,0.0,0.0,1164.6,0.0,0.2,Buffalo Sabres,3.7
 2026020060,2026-10-08,8476463,J. Brodin,Minnesota Wild,0,0,0,0,2,2,1380,0,0,0,0.0,0.0,1180.9,0.0,0.2,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8476463,J. Brodin,Minnesota Wild,0,0,0,1,1,2,1396,0,0,0,0.0,0.0,1205.9,0.0,0.2,Florida Panthers,3.2
+2026020089,2026-10-12,8476463,J. Brodin,Minnesota Wild,0,0,0,1,2,0,1262,0,0,0,0.0,0.0,1236.7,0.0,0.3,Vegas Golden Knights,3.2
 2023020003,2023-10-10,8476467,J. Oleksiak,Seattle Kraken,0,0,0,5,6,0,1113,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,0.0
 2023020015,2023-10-12,8476467,J. Oleksiak,Seattle Kraken,0,0,0,2,3,2,1156,0,0,0,0.0,0.0,1113.0,0.0,5.0,Nashville Predators,5.0
 2023020028,2023-10-14,8476467,J. Oleksiak,Seattle Kraken,0,0,0,3,2,0,1284,0,0,0,0.0,0.0,1134.5,0.0,3.5,St. Louis Blues,1.0
@@ -34463,6 +34478,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020031,2026-10-03,8476874,O. Maatta,Minnesota Wild,0,0,0,0,0,0,1393,0,0,0,0.0,0.0,1372.2,0.0,0.0,Boston Bruins,2.5
 2026020049,2026-10-06,8476874,O. Maatta,Minnesota Wild,0,0,0,0,2,2,1158,0,0,0,0.0,0.0,1378.3,0.0,0.0,Buffalo Sabres,3.7
 2026020073,2026-10-10,8476874,O. Maatta,Minnesota Wild,0,0,0,0,1,0,1293,0,0,0,0.0,0.0,1375.1,0.0,0.0,Florida Panthers,3.2
+2026020089,2026-10-12,8476874,O. Maatta,Minnesota Wild,0,1,0,0,4,0,1516,0,0,0,0.0,0.0,1384.9,0.0,0.0,Vegas Golden Knights,3.2
 2023020005,2023-10-11,8476875,M. Matheson,Montréal Canadiens,0,1,0,3,5,0,1599,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,0.0
 2023020024,2023-10-14,8476875,M. Matheson,Montréal Canadiens,0,0,0,0,4,2,1474,0,0,0,0.0,0.0,1599.0,0.0,3.0,Chicago Blackhawks,2.5
 2023020041,2023-10-17,8476875,M. Matheson,Montréal Canadiens,0,0,0,0,2,2,1538,0,0,0,0.0,0.0,1536.5,0.0,1.5,Minnesota Wild,3.5
@@ -35700,6 +35716,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8476881,T. Hertl,Vegas Golden Knights,2,2,0,2,1,0,964,0,0,1,0.4,0.0,917.6,0.0,1.9,Seattle Kraken,3.4
 2026020065,2026-10-08,8476881,T. Hertl,Vegas Golden Knights,0,0,0,1,0,0,881,0,0,0,0.5,0.0,933.7,0.0,1.9,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8476881,T. Hertl,Vegas Golden Knights,0,0,0,2,0,0,932,0,0,0,0.5,0.0,930.3,0.0,1.9,Los Angeles Kings,3.8
+2026020089,2026-10-12,8476881,T. Hertl,Vegas Golden Knights,0,1,0,3,0,0,1133,0,0,0,0.4,0.0,932.5,0.0,2.1,Minnesota Wild,3.3
 2023020004,2023-10-11,8476882,T. Teravainen,Carolina Hurricanes,1,0,0,2,0,0,789,0,0,1,0.0,0.0,0.0,0.0,0.0,Ottawa Senators,0.0
 2023020032,2023-10-14,8476882,T. Teravainen,Carolina Hurricanes,1,0,0,1,0,0,1089,0,0,1,1.0,0.0,789.0,0.0,2.0,Los Angeles Kings,5.0
 2023020034,2023-10-15,8476882,T. Teravainen,Carolina Hurricanes,2,0,0,1,0,0,1067,0,0,1,1.0,0.0,939.0,0.0,1.5,Anaheim Ducks,4.0
@@ -44423,6 +44440,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8477409,C. Verhaeghe,Florida Panthers,0,0,0,1,0,0,1034,0,0,0,0.4,0.0,1158.6,0.0,0.6,San Jose Sharks,3.4
 2026020052,2026-10-06,8477409,C. Verhaeghe,Florida Panthers,0,0,0,0,0,0,1090,0,0,0,0.4,0.0,1152.9,0.0,0.7,Los Angeles Kings,3.6
 2026020073,2026-10-10,8477409,C. Verhaeghe,Florida Panthers,0,0,0,1,0,0,1176,0,0,0,0.4,0.0,1134.8,0.0,0.7,Minnesota Wild,3.4
+2026020087,2026-10-12,8477409,C. Verhaeghe,Florida Panthers,0,0,0,0,0,0,1057,0,0,0,0.4,0.0,1133.2,0.0,0.8,Buffalo Sabres,3.9
 2025090003,2026-02-12,8477413,S. Andrighetto,Switzerland Switzerland,0,1,0,0,0,0,905,0,0,0,0.0,0.0,0.0,0.0,0.0,France,0.0
 2025090010,2026-02-13,8477413,S. Andrighetto,Switzerland Switzerland,0,1,0,0,0,0,897,0,0,0,0.0,0.0,905.0,0.0,0.0,Canada,0.0
 2025090015,2026-02-15,8477413,S. Andrighetto,Switzerland Switzerland,0,0,0,0,0,0,883,0,0,0,0.0,0.0,901.0,0.0,0.0,Czechia Czechia,4.0
@@ -45656,6 +45674,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025021288,2026-04-13,8477444,A. Burakovsky,Chicago Blackhawks,0,0,0,0,0,0,797,0,0,0,0.0,0.0,798.8,0.0,0.0,Buffalo Sabres,3.5
 2025021305,2026-04-15,8477444,A. Burakovsky,Chicago Blackhawks,0,1,0,0,0,0,914,0,0,0,0.0,0.0,768.3,0.0,0.0,San Jose Sharks,3.4
 2026020076,2026-10-10,8477444,A. Burakovsky,Ottawa Senators,0,0,0,0,1,2,704,0,0,0,0.0,0.0,778.9,0.0,0.0,Nashville Predators,2.6
+2026020088,2026-10-12,8477444,A. Burakovsky,Ottawa Senators,0,0,0,0,2,0,903,0,0,0,0.0,0.0,773.4,0.0,0.0,New Jersey Devils,3.4
 2023020053,2023-10-19,8477446,M. McCarron,Nashville Predators,0,1,0,2,0,0,576,0,0,0,0.0,0.0,0.0,0.0,0.0,New York Rangers,2.3333333333333335
 2023020074,2023-10-21,8477446,M. McCarron,Nashville Predators,0,0,0,4,1,0,716,0,0,0,0.0,0.0,576.0,0.0,2.0,San Jose Sharks,3.5
 2023020095,2023-10-24,8477446,M. McCarron,Nashville Predators,0,0,0,3,1,0,506,0,0,0,0.0,0.0,646.0,0.0,3.0,Vancouver Canucks,2.6
@@ -45896,6 +45915,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8477446,M. McCarron,Minnesota Wild,0,1,0,2,2,0,916,0,0,0,0.1,0.0,893.9,0.0,2.7,Buffalo Sabres,3.7
 2026020060,2026-10-08,8477446,M. McCarron,Minnesota Wild,0,0,0,1,0,2,650,0,0,0,0.1,0.0,884.6,0.0,2.3,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8477446,M. McCarron,Minnesota Wild,0,0,0,3,2,5,696,0,0,0,0.0,0.0,861.5,0.0,2.4,Florida Panthers,3.2
+2026020089,2026-10-12,8477446,M. McCarron,Minnesota Wild,0,0,0,4,3,0,1018,0,0,0,0.0,0.0,861.0,0.0,2.5,Vegas Golden Knights,3.2
 2023020003,2023-10-10,8477447,S. Theodore,Vegas Golden Knights,0,0,0,2,2,0,1092,0,0,0,0.0,0.0,0.0,0.0,0.0,Seattle Kraken,0.0
 2023020016,2023-10-12,8477447,S. Theodore,Vegas Golden Knights,0,0,0,0,1,0,1396,0,0,0,0.0,0.0,1092.0,0.0,2.0,San Jose Sharks,0.0
 2023020031,2023-10-14,8477447,S. Theodore,Vegas Golden Knights,1,1,0,0,1,0,1498,0,0,1,0.0,0.0,1244.0,0.0,1.0,Anaheim Ducks,0.0
@@ -46113,6 +46133,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8477447,S. Theodore,Vegas Golden Knights,0,0,0,0,1,0,1145,0,0,0,0.3,0.0,1540.3,0.0,0.2,Seattle Kraken,3.4
 2026020065,2026-10-08,8477447,S. Theodore,Vegas Golden Knights,0,0,0,0,3,0,1249,0,0,0,0.3,0.0,1513.6,0.0,0.2,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8477447,S. Theodore,Vegas Golden Knights,0,0,0,0,0,0,1306,0,0,0,0.3,0.0,1497.4,0.0,0.2,Los Angeles Kings,3.8
+2026020089,2026-10-12,8477447,S. Theodore,Vegas Golden Knights,0,0,0,0,1,0,1344,0,0,0,0.2,0.0,1490.0,0.0,0.2,Minnesota Wild,3.3
 2023020002,2023-10-10,8477450,J. Dickinson,Chicago Blackhawks,1,1,0,2,3,0,774,0,0,1,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8477450,J. Dickinson,Chicago Blackhawks,0,0,0,2,1,17,638,0,0,0,1.0,0.0,774.0,0.0,2.0,Boston Bruins,0.0
 2023020024,2023-10-14,8477450,J. Dickinson,Chicago Blackhawks,0,0,0,3,1,2,892,0,0,0,0.5,0.0,706.0,0.0,2.0,Montréal Canadiens,5.0
@@ -46561,6 +46582,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8477451,R. Hartman,Minnesota Wild,0,0,0,1,0,0,820,0,0,0,0.2,0.0,1065.1,0.0,1.3,Buffalo Sabres,3.7
 2026020060,2026-10-08,8477451,R. Hartman,Minnesota Wild,0,0,0,1,0,0,675,0,0,0,0.2,0.0,1010.9,0.0,0.9,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8477451,R. Hartman,Minnesota Wild,0,0,0,1,0,0,823,0,0,0,0.2,0.0,987.5,0.0,0.9,Florida Panthers,3.2
+2026020089,2026-10-12,8477451,R. Hartman,Minnesota Wild,0,0,0,2,0,0,919,0,0,0,0.2,0.0,958.6,0.0,1.0,Vegas Golden Knights,3.2
 2023020029,2023-10-14,8477454,A. Erne,Edmonton Oilers,0,0,0,4,0,0,373,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8477454,A. Erne,Edmonton Oilers,0,0,0,3,0,5,786,0,0,0,0.0,0.0,373.0,0.0,4.0,Nashville Predators,2.6666666666666665
 2023020054,2023-10-19,8477454,A. Erne,Edmonton Oilers,0,0,0,1,0,0,535,0,0,0,0.0,0.0,579.5,0.0,3.5,Philadelphia Flyers,2.3333333333333335
@@ -47803,6 +47825,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8477488,B. Pesce,New Jersey Devils,0,0,0,1,0,0,1132,0,0,0,0.0,0.0,1183.5,0.0,0.1,New York Islanders,3.6
 2026020047,2026-10-06,8477488,B. Pesce,New Jersey Devils,0,0,0,0,2,0,1257,0,0,0,0.0,0.0,1167.5,0.0,0.2,Utah Mammoth,3.1
 2026020071,2026-10-10,8477488,B. Pesce,New Jersey Devils,0,0,0,0,1,0,1358,0,0,0,0.0,0.0,1180.1,0.0,0.2,Vancouver Canucks,4.3
+2026020088,2026-10-12,8477488,B. Pesce,New Jersey Devils,0,0,0,0,2,0,1260,0,0,0,0.0,0.0,1205.0,0.0,0.1,Ottawa Senators,2.3
 2023020008,2023-10-11,8477492,N. MacKinnon,Colorado Avalanche,1,2,0,2,0,0,1296,0,0,1,0.0,0.0,0.0,0.0,0.0,Los Angeles Kings,0.0
 2023020030,2023-10-14,8477492,N. MacKinnon,Colorado Avalanche,0,0,0,1,2,2,1538,0,0,0,1.0,0.0,1296.0,0.0,2.0,San Jose Sharks,4.0
 2023020046,2023-10-17,8477492,N. MacKinnon,Colorado Avalanche,0,0,0,1,2,2,1136,0,0,0,0.5,0.0,1417.0,0.0,1.5,Seattle Kraken,2.6666666666666665
@@ -48593,6 +48616,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8477495,S. Jones,Florida Panthers,0,0,0,0,1,2,1663,0,0,0,0.1,0.0,1513.9,0.0,0.8,San Jose Sharks,3.4
 2026020052,2026-10-06,8477495,S. Jones,Florida Panthers,1,0,0,2,1,0,1533,0,0,1,0.1,0.0,1541.5,0.0,0.7,Los Angeles Kings,3.6
 2026020073,2026-10-10,8477495,S. Jones,Florida Panthers,0,0,0,0,0,0,1386,0,0,0,0.2,0.0,1563.5,0.0,0.8,Minnesota Wild,3.4
+2026020087,2026-10-12,8477495,S. Jones,Florida Panthers,0,2,0,2,0,0,1435,0,0,0,0.2,0.0,1550.0,0.0,0.7,Buffalo Sabres,3.9
 2023020007,2023-10-11,8477496,E. Lindholm,Calgary Flames,1,2,0,1,0,0,1306,0,0,1,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,0.0
 2023020025,2023-10-14,8477496,E. Lindholm,Calgary Flames,0,1,0,0,0,0,1190,0,0,0,1.0,0.0,1306.0,0.0,1.0,Pittsburgh Penguins,2.0
 2023020039,2023-10-16,8477496,E. Lindholm,Calgary Flames,0,0,0,0,0,0,1250,0,0,0,0.5,0.0,1248.0,0.0,0.5,Washington Capitals,4.0
@@ -51430,6 +51454,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8477511,A. Mantha,New Jersey Devils,0,0,0,1,0,0,908,0,0,0,0.2,0.0,877.5,0.0,1.4,New York Islanders,3.6
 2026020047,2026-10-06,8477511,A. Mantha,New Jersey Devils,0,0,0,0,0,0,748,0,0,0,0.2,0.0,897.8,0.0,1.5,Utah Mammoth,3.1
 2026020071,2026-10-10,8477511,A. Mantha,New Jersey Devils,0,0,0,1,0,2,580,0,0,0,0.2,0.0,876.4,0.0,1.5,Vancouver Canucks,4.3
+2026020088,2026-10-12,8477511,A. Mantha,New Jersey Devils,0,0,0,0,0,5,742,0,0,0,0.1,0.0,854.5,0.0,1.5,Ottawa Senators,2.3
 2023020031,2023-10-14,8477527,R. Johnston,Anaheim Ducks,0,0,0,2,0,2,355,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,1.0
 2023020034,2023-10-15,8477527,R. Johnston,Anaheim Ducks,0,0,0,0,0,0,364,0,0,0,0.0,0.0,355.0,0.0,2.0,Carolina Hurricanes,4.0
 2023020059,2023-10-19,8477527,R. Johnston,Anaheim Ducks,0,0,0,4,0,0,640,0,0,0,0.0,0.0,359.5,0.0,1.0,Dallas Stars,1.5
@@ -52729,6 +52754,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8477903,G. Hathaway,Florida Panthers,0,0,0,3,0,0,363,0,0,0,0.1,0.0,687.6,0.0,3.8,San Jose Sharks,3.4
 2026020052,2026-10-06,8477903,G. Hathaway,Florida Panthers,0,0,0,5,1,5,472,0,0,0,0.1,0.0,661.1,0.0,3.7,Los Angeles Kings,3.6
 2026020073,2026-10-10,8477903,G. Hathaway,Florida Panthers,0,0,0,4,1,10,591,0,0,0,0.1,0.0,632.0,0.0,4.2,Minnesota Wild,3.4
+2026020087,2026-10-12,8477903,G. Hathaway,Florida Panthers,0,0,0,5,1,0,605,0,0,0,0.1,0.0,618.4,0.0,4.0,Buffalo Sabres,3.9
 2023020014,2023-10-12,8477919,F. Gaudreau,Minnesota Wild,0,0,0,0,0,0,936,0,0,0,0.0,0.0,0.0,0.0,0.0,Florida Panthers,0.0
 2023020026,2023-10-14,8477919,F. Gaudreau,Minnesota Wild,0,0,0,1,0,0,591,0,0,0,0.0,0.0,936.0,0.0,0.0,Toronto Maple Leafs,5.0
 2023020041,2023-10-17,8477919,F. Gaudreau,Minnesota Wild,0,0,0,0,0,0,1082,0,0,0,0.0,0.0,763.5,0.0,0.5,Montréal Canadiens,3.5
@@ -53295,6 +53321,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020001,2026-09-29,8477932,A. Ekblad,Florida Panthers,0,0,0,2,0,0,1217,0,0,0,0.1,0.0,1319.7,0.0,0.7,Carolina Hurricanes,2.3
 2026020016,2026-10-01,8477932,A. Ekblad,Florida Panthers,0,1,0,0,0,0,1293,0,0,0,0.1,0.0,1304.2,0.0,0.9,San Jose Sharks,3.4
 2026020073,2026-10-10,8477932,A. Ekblad,Florida Panthers,0,0,0,2,0,0,1279,0,0,0,0.1,0.0,1296.9,0.0,0.8,Minnesota Wild,3.4
+2026020087,2026-10-12,8477932,A. Ekblad,Florida Panthers,0,1,0,3,0,4,1225,0,0,0,0.1,0.0,1283.9,0.0,0.8,Buffalo Sabres,3.9
 2023020014,2023-10-12,8477933,S. Reinhart,Florida Panthers,0,0,0,0,0,0,1375,0,0,0,0.0,0.0,0.0,0.0,0.0,Minnesota Wild,0.0
 2023020020,2023-10-14,8477933,S. Reinhart,Florida Panthers,1,1,0,0,1,0,1246,0,0,1,0.0,0.0,1375.0,0.0,0.0,Winnipeg Jets,5.0
 2023020036,2023-10-16,8477933,S. Reinhart,Florida Panthers,2,0,0,0,3,0,1175,0,0,1,0.5,0.0,1310.5,0.0,0.0,New Jersey Devils,3.0
@@ -53537,6 +53564,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8477933,S. Reinhart,Florida Panthers,0,0,0,4,1,0,1413,0,0,0,0.3,0.0,1054.8,0.0,0.7,San Jose Sharks,3.4
 2026020052,2026-10-06,8477933,S. Reinhart,Florida Panthers,0,0,0,0,0,0,1261,0,0,0,0.2,0.0,1157.7,0.0,1.1,Los Angeles Kings,3.6
 2026020073,2026-10-10,8477933,S. Reinhart,Florida Panthers,0,0,0,2,0,0,1214,0,0,0,0.2,0.0,1242.1,0.0,1.1,Minnesota Wild,3.4
+2026020087,2026-10-12,8477933,S. Reinhart,Florida Panthers,2,0,0,2,0,0,1227,0,0,1,0.2,0.0,1255.4,0.0,1.2,Buffalo Sabres,3.9
 2023020009,2023-10-11,8477934,L. Draisaitl,Edmonton Oilers,1,0,0,1,0,4,1256,0,0,1,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8477934,L. Draisaitl,Edmonton Oilers,1,1,0,1,0,2,1526,0,0,1,1.0,0.0,1256.0,0.0,1.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8477934,L. Draisaitl,Edmonton Oilers,2,2,0,1,0,0,1260,0,0,1,1.0,0.0,1391.0,0.0,1.0,Nashville Predators,2.6666666666666665
@@ -54006,6 +54034,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8477935,S. Bennett,Florida Panthers,0,1,0,3,0,2,1249,0,0,0,0.1,0.0,1117.6,0.0,1.1,San Jose Sharks,3.4
 2026020052,2026-10-06,8477935,S. Bennett,Florida Panthers,0,1,0,1,0,2,1169,0,0,0,0.1,0.0,1139.2,0.0,1.4,Los Angeles Kings,3.6
 2026020073,2026-10-10,8477935,S. Bennett,Florida Panthers,0,0,0,4,1,0,1250,0,0,0,0.1,0.0,1142.2,0.0,1.5,Minnesota Wild,3.4
+2026020087,2026-10-12,8477935,S. Bennett,Florida Panthers,0,0,0,2,0,0,934,0,0,0,0.1,0.0,1154.0,0.0,1.8,Buffalo Sabres,3.9
 2023020023,2023-10-14,8477938,H. Fleury,Tampa Bay Lightning,0,0,0,2,0,0,608,0,0,0,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,4.0
 2023020133,2023-10-30,8477938,H. Fleury,Tampa Bay Lightning,0,1,0,1,0,0,739,0,0,0,0.0,0.0,608.0,0.0,2.0,Seattle Kraken,3.3333333333333335
 2023020334,2023-11-28,8477938,H. Fleury,Tampa Bay Lightning,0,0,0,0,2,0,803,0,0,0,0.0,0.0,673.5,0.0,1.5,Arizona Coyotes,3.6
@@ -57497,6 +57526,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8477964,I. Barbashev,Vegas Golden Knights,0,1,0,2,0,0,930,0,0,0,0.1,0.0,954.6,0.0,4.2,Seattle Kraken,3.4
 2026020065,2026-10-08,8477964,I. Barbashev,Vegas Golden Knights,0,1,0,3,0,0,1114,0,0,0,0.1,0.0,951.9,0.0,3.9,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8477964,I. Barbashev,Vegas Golden Knights,0,0,0,3,0,0,1148,0,0,0,0.1,0.0,969.7,0.0,3.8,Los Angeles Kings,3.8
+2026020089,2026-10-12,8477964,I. Barbashev,Vegas Golden Knights,0,0,0,0,2,0,1037,0,0,0,0.0,0.0,983.6,0.0,3.3,Minnesota Wild,3.3
 2023020002,2023-10-10,8477969,M. Pettersson,Pittsburgh Penguins,0,1,0,1,0,0,1300,0,0,0,0.0,0.0,0.0,0.0,0.0,Chicago Blackhawks,0.0
 2023020018,2023-10-13,8477969,M. Pettersson,Pittsburgh Penguins,0,0,0,1,1,5,1107,0,0,0,0.0,0.0,1300.0,0.0,1.0,Washington Capitals,0.0
 2023020025,2023-10-14,8477969,M. Pettersson,Pittsburgh Penguins,0,0,0,1,6,0,1303,0,0,0,0.0,0.0,1203.5,0.0,1.0,Calgary Flames,3.0
@@ -58936,6 +58966,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8477998,W. Foegele,Ottawa Senators,0,0,0,0,0,0,531,0,0,0,0.1,0.0,786.0,0.0,1.8,Detroit Red Wings,4.1
 2026020059,2026-10-08,8477998,W. Foegele,Ottawa Senators,0,1,0,1,1,0,716,0,0,0,0.1,0.0,771.3,0.0,1.5,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8477998,W. Foegele,Ottawa Senators,0,0,0,2,0,0,557,0,0,0,0.1,0.0,781.9,0.0,1.2,Nashville Predators,2.6
+2026020088,2026-10-12,8477998,W. Foegele,Ottawa Senators,0,0,0,3,0,0,726,0,0,0,0.1,0.0,741.7,0.0,1.3,New Jersey Devils,3.4
 2023020001,2023-10-10,8478010,B. Point,Tampa Bay Lightning,0,3,0,0,1,0,1333,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8478010,B. Point,Tampa Bay Lightning,0,0,0,0,0,2,1312,0,0,0,0.0,0.0,1333.0,0.0,0.0,Detroit Red Wings,4.0
 2023020033,2023-10-15,8478010,B. Point,Tampa Bay Lightning,0,0,0,0,0,0,1174,0,0,0,0.0,0.0,1322.5,0.0,0.0,Ottawa Senators,3.5
@@ -59641,6 +59672,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8478020,M. Amadio,Ottawa Senators,0,0,0,0,0,0,939,0,0,0,0.4,0.0,1029.2,0.0,1.8,Detroit Red Wings,4.1
 2026020059,2026-10-08,8478020,M. Amadio,Ottawa Senators,0,0,0,0,0,0,1048,0,0,0,0.4,0.0,1023.7,0.0,1.6,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8478020,M. Amadio,Ottawa Senators,0,0,0,0,1,2,947,0,0,0,0.4,0.0,1026.1,0.0,1.4,Nashville Predators,2.6
+2026020088,2026-10-12,8478020,M. Amadio,Ottawa Senators,0,1,0,1,2,0,1038,0,0,0,0.3,0.0,1007.6,0.0,1.3,New Jersey Devils,3.4
 2023020122,2023-10-28,8478021,W. Lagesson,Toronto Maple Leafs,0,0,0,2,0,0,656,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,2.7142857142857144
 2023020139,2023-10-31,8478021,W. Lagesson,Toronto Maple Leafs,0,0,0,1,1,0,674,0,0,0,0.0,0.0,656.0,0.0,2.0,Los Angeles Kings,3.5
 2023020145,2023-11-02,8478021,W. Lagesson,Toronto Maple Leafs,0,1,0,2,4,0,888,0,0,0,0.0,0.0,665.0,0.0,1.5,Boston Bruins,1.5555555555555556
@@ -60335,6 +60367,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025021266,2026-04-11,8478043,S. Lafferty,Chicago Blackhawks,0,0,0,1,0,0,573,0,0,0,0.0,0.0,466.6,0.0,1.4,St. Louis Blues,2.0
 2025021305,2026-04-15,8478043,S. Lafferty,Chicago Blackhawks,0,0,0,0,0,0,524,0,0,0,0.0,0.0,469.8,0.0,1.4,San Jose Sharks,3.4
 2026020073,2026-10-10,8478043,S. Lafferty,Florida Panthers,0,0,0,1,0,2,570,0,0,0,0.0,0.0,481.8,0.0,1.2,Minnesota Wild,3.4
+2026020087,2026-10-12,8478043,S. Lafferty,Florida Panthers,0,0,0,2,1,0,894,0,0,0,0.0,0.0,490.3,0.0,1.1,Buffalo Sabres,3.9
 2023020130,2023-10-30,8478046,D. Heinen,Boston Bruins,0,0,0,0,4,0,540,0,0,0,0.0,0.0,0.0,0.0,0.0,Florida Panthers,2.857142857142857
 2023020145,2023-11-02,8478046,D. Heinen,Boston Bruins,0,0,0,0,1,0,614,0,0,0,0.0,0.0,540.0,0.0,0.0,Toronto Maple Leafs,3.111111111111111
 2023020161,2023-11-04,8478046,D. Heinen,Boston Bruins,0,0,0,1,0,0,747,0,0,0,0.0,0.0,577.0,0.0,0.0,Detroit Red Wings,2.9
@@ -61043,6 +61076,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020001,2026-09-29,8478055,G. Forsling,Florida Panthers,1,0,0,3,2,2,1360,0,0,1,0.0,0.0,1370.9,0.0,0.5,Carolina Hurricanes,2.3
 2026020052,2026-10-06,8478055,G. Forsling,Florida Panthers,0,0,0,0,1,0,1282,0,0,0,0.1,0.0,1378.4,0.0,0.7,Los Angeles Kings,3.6
 2026020073,2026-10-10,8478055,G. Forsling,Florida Panthers,0,0,0,0,0,0,1095,0,0,0,0.1,0.0,1384.0,0.0,0.6,Minnesota Wild,3.4
+2026020087,2026-10-12,8478055,G. Forsling,Florida Panthers,0,0,0,0,0,0,1450,0,0,0,0.1,0.0,1346.9,0.0,0.4,Buffalo Sabres,3.9
 2024020767,2025-01-23,8478056,C. Bishop,Calgary Flames,0,0,0,0,0,0,326,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,3.6
 2024020784,2025-01-25,8478056,C. Bishop,Calgary Flames,1,0,0,2,0,0,415,0,0,1,0.0,0.0,326.0,0.0,0.0,Minnesota Wild,3.4
 2024020791,2025-01-26,8478056,C. Bishop,Calgary Flames,0,0,0,2,1,0,481,0,0,0,0.5,0.0,370.5,0.0,1.0,Winnipeg Jets,2.2
@@ -62325,6 +62359,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8478147,B. Imama,Florida Panthers,0,0,0,5,0,0,316,0,0,0,0.1,0.0,395.3,0.0,3.1,San Jose Sharks,3.4
 2026020052,2026-10-06,8478147,B. Imama,Florida Panthers,0,0,0,4,0,0,378,0,0,0,0.1,0.0,402.3,0.0,3.2,Los Angeles Kings,3.6
 2026020073,2026-10-10,8478147,B. Imama,Florida Panthers,0,0,0,2,0,5,451,0,0,0,0.1,0.0,390.0,0.0,3.2,Minnesota Wild,3.4
+2026020087,2026-10-12,8478147,B. Imama,Florida Panthers,0,0,0,1,0,0,536,0,0,0,0.1,0.0,402.6,0.0,3.1,Buffalo Sabres,3.9
 2024010092,2024-10-04,8478173,H. Hodgson,Ottawa Senators,0,0,0,1,1,0,491,0,0,0,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,3.3
 2024021260,2025-04-11,8478173,H. Hodgson,Ottawa Senators,0,0,0,4,0,5,435,0,0,0,0.0,0.0,491.0,0.0,1.0,Montréal Canadiens,2.9
 2024021276,2025-04-13,8478173,H. Hodgson,Ottawa Senators,0,0,0,3,1,0,594,0,0,0,0.0,0.0,463.0,0.0,2.5,Philadelphia Flyers,4.0
@@ -63324,6 +63359,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8478396,N. Hanifin,Vegas Golden Knights,0,0,0,0,1,0,1265,0,0,0,0.1,0.0,1246.6,0.0,0.9,Seattle Kraken,3.4
 2026020065,2026-10-08,8478396,N. Hanifin,Vegas Golden Knights,0,0,0,0,3,0,1308,0,0,0,0.1,0.0,1233.4,0.0,0.6,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8478396,N. Hanifin,Vegas Golden Knights,0,0,0,1,1,0,1213,0,0,0,0.1,0.0,1241.6,0.0,0.4,Los Angeles Kings,3.8
+2026020089,2026-10-12,8478396,N. Hanifin,Vegas Golden Knights,0,0,0,0,3,0,1324,0,0,0,0.1,0.0,1235.4,0.0,0.4,Minnesota Wild,3.3
 2023020007,2023-10-11,8478397,R. Andersson,Calgary Flames,1,0,0,0,2,0,1262,0,0,1,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,0.0
 2023020025,2023-10-14,8478397,R. Andersson,Calgary Flames,0,1,0,0,0,0,1449,0,0,0,1.0,0.0,1262.0,0.0,0.0,Pittsburgh Penguins,2.0
 2023020039,2023-10-16,8478397,R. Andersson,Calgary Flames,0,0,0,1,4,0,1447,0,0,0,0.5,0.0,1355.5,0.0,0.0,Washington Capitals,4.0
@@ -63593,6 +63629,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8478397,R. Andersson,Vegas Golden Knights,0,1,0,0,0,4,1044,0,0,0,0.0,0.0,1304.9,0.0,0.3,Seattle Kraken,3.4
 2026020065,2026-10-08,8478397,R. Andersson,Vegas Golden Knights,0,0,0,1,2,0,1122,0,0,0,0.0,0.0,1282.7,0.0,0.2,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8478397,R. Andersson,Vegas Golden Knights,0,0,0,0,2,2,1138,0,0,0,0.0,0.0,1271.8,0.0,0.3,Los Angeles Kings,3.8
+2026020089,2026-10-12,8478397,R. Andersson,Vegas Golden Knights,1,0,0,1,1,0,1043,0,0,1,0.0,0.0,1245.8,0.0,0.2,Minnesota Wild,3.3
 2023020007,2023-10-11,8478398,K. Connor,Winnipeg Jets,1,0,0,0,0,0,1320,0,0,1,0.0,0.0,0.0,0.0,0.0,Calgary Flames,0.0
 2023020020,2023-10-14,8478398,K. Connor,Winnipeg Jets,2,1,0,0,1,0,1310,0,0,1,1.0,0.0,1320.0,0.0,0.0,Florida Panthers,2.0
 2023020045,2023-10-17,8478398,K. Connor,Winnipeg Jets,0,0,0,0,0,0,1297,0,0,0,1.5,0.0,1315.0,0.0,0.0,Los Angeles Kings,5.0
@@ -64036,6 +64073,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8478399,J. Siegenthaler,New Jersey Devils,0,0,0,1,0,0,1268,0,0,0,0.0,0.0,1162.5,0.0,0.2,New York Islanders,3.6
 2026020047,2026-10-06,8478399,J. Siegenthaler,New Jersey Devils,0,0,0,0,1,0,893,0,0,0,0.0,0.0,1193.2,0.0,0.3,Utah Mammoth,3.1
 2026020071,2026-10-10,8478399,J. Siegenthaler,New Jersey Devils,0,0,0,1,2,0,1177,0,0,0,0.0,0.0,1171.8,0.0,0.3,Vancouver Canucks,4.3
+2026020088,2026-10-12,8478399,J. Siegenthaler,New Jersey Devils,0,0,0,0,1,0,1171,0,0,0,0.0,0.0,1176.0,0.0,0.4,Ottawa Senators,2.3
 2023020657,2024-01-13,8478400,C. White,Pittsburgh Penguins,0,0,0,0,0,0,441,0,0,0,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,2.3
 2023020716,2024-01-20,8478400,C. White,Pittsburgh Penguins,0,0,0,1,1,0,543,0,0,0,0.0,0.0,441.0,0.0,0.0,Vegas Golden Knights,2.5
 2023020727,2024-01-22,8478400,C. White,Pittsburgh Penguins,0,0,0,1,1,0,682,0,0,0,0.0,0.0,492.0,0.0,0.5,Arizona Coyotes,3.1
@@ -64817,6 +64855,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8478403,J. Eichel,Vegas Golden Knights,1,3,0,0,0,0,1100,0,0,1,0.1,0.0,1334.1,0.0,1.2,Seattle Kraken,3.4
 2026020065,2026-10-08,8478403,J. Eichel,Vegas Golden Knights,1,1,0,1,2,0,1598,0,0,1,0.2,0.0,1305.9,0.0,1.1,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8478403,J. Eichel,Vegas Golden Knights,0,0,0,0,1,0,1379,0,0,0,0.3,0.0,1338.5,0.0,1.0,Los Angeles Kings,3.8
+2026020089,2026-10-12,8478403,J. Eichel,Vegas Golden Knights,0,0,0,0,1,0,1284,0,0,0,0.3,0.0,1353.1,0.0,1.0,Minnesota Wild,3.3
 2023020003,2023-10-10,8478407,V. Dunn,Seattle Kraken,0,0,0,0,1,0,1338,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,0.0
 2023020015,2023-10-12,8478407,V. Dunn,Seattle Kraken,0,0,0,1,0,2,1354,0,0,0,0.0,0.0,1338.0,0.0,0.0,Nashville Predators,5.0
 2023020028,2023-10-14,8478407,V. Dunn,Seattle Kraken,0,1,0,1,0,4,1450,0,0,0,0.0,0.0,1346.0,0.0,0.5,St. Louis Blues,1.0
@@ -65513,6 +65552,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8478414,T. Meier,New Jersey Devils,0,0,0,4,0,0,1197,0,0,0,0.2,0.0,1083.2,0.0,1.3,New York Islanders,3.6
 2026020047,2026-10-06,8478414,T. Meier,New Jersey Devils,0,1,0,0,2,4,1094,0,0,0,0.2,0.0,1092.0,0.0,1.6,Utah Mammoth,3.1
 2026020071,2026-10-10,8478414,T. Meier,New Jersey Devils,0,0,0,4,0,0,1013,0,0,0,0.2,0.0,1092.6,0.0,1.6,Vancouver Canucks,4.3
+2026020088,2026-10-12,8478414,T. Meier,New Jersey Devils,0,0,0,1,0,0,878,0,0,0,0.1,0.0,1073.3,0.0,1.5,Ottawa Senators,2.3
 2023020001,2023-10-10,8478416,E. Cernak,Tampa Bay Lightning,0,0,0,7,1,0,1160,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8478416,E. Cernak,Tampa Bay Lightning,0,0,0,2,1,0,993,0,0,0,0.0,0.0,1160.0,0.0,7.0,Detroit Red Wings,4.0
 2023020033,2023-10-15,8478416,E. Cernak,Tampa Bay Lightning,0,0,0,1,0,0,1048,0,0,0,0.0,0.0,1076.5,0.0,4.5,Ottawa Senators,3.5
@@ -70297,6 +70337,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8478468,J. Lauzon,Vegas Golden Knights,0,0,0,7,2,2,960,0,0,0,0.0,0.0,1006.4,0.0,3.4,Seattle Kraken,3.4
 2026020065,2026-10-08,8478468,J. Lauzon,Vegas Golden Knights,0,0,0,5,1,0,959,0,0,0,0.0,0.0,983.2,0.0,3.9,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8478468,J. Lauzon,Vegas Golden Knights,0,0,0,4,1,2,1006,0,0,0,0.0,0.0,996.9,0.0,4.1,Los Angeles Kings,3.8
+2026020089,2026-10-12,8478468,J. Lauzon,Vegas Golden Knights,0,0,0,0,0,5,789,0,0,0,0.0,0.0,1016.3,0.0,4.3,Minnesota Wild,3.3
 2023020004,2023-10-11,8478469,T. Chabot,Ottawa Senators,0,0,0,2,2,0,1531,0,0,0,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,0.0
 2023020019,2023-10-14,8478469,T. Chabot,Ottawa Senators,0,0,0,0,5,0,1519,0,0,0,0.0,0.0,1531.0,0.0,2.0,Philadelphia Flyers,2.0
 2023020033,2023-10-15,8478469,T. Chabot,Ottawa Senators,0,0,0,0,2,0,1486,0,0,0,0.0,0.0,1525.0,0.0,1.0,Tampa Bay Lightning,4.5
@@ -70495,6 +70536,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8478469,T. Chabot,Ottawa Senators,0,0,0,1,3,0,1572,0,0,0,0.1,0.0,1561.0,0.0,0.4,Detroit Red Wings,4.1
 2026020059,2026-10-08,8478469,T. Chabot,Ottawa Senators,0,0,0,0,4,0,1759,0,0,0,0.1,0.0,1546.6,0.0,0.4,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8478469,T. Chabot,Ottawa Senators,0,1,0,1,1,2,1723,0,0,0,0.1,0.0,1660.4,0.0,0.4,Nashville Predators,2.6
+2026020088,2026-10-12,8478469,T. Chabot,Ottawa Senators,0,1,0,2,5,0,1673,0,0,0,0.1,0.0,1705.1,0.0,0.5,New Jersey Devils,3.4
 2023020004,2023-10-11,8478472,M. Joseph,Ottawa Senators,1,1,0,1,2,0,1072,0,0,1,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,0.0
 2023020019,2023-10-14,8478472,M. Joseph,Ottawa Senators,0,0,0,1,1,0,854,0,0,0,1.0,0.0,1072.0,0.0,1.0,Philadelphia Flyers,2.0
 2023020033,2023-10-15,8478472,M. Joseph,Ottawa Senators,1,0,0,2,0,2,1058,0,0,1,0.5,0.0,963.0,0.0,1.0,Tampa Bay Lightning,4.5
@@ -71294,6 +71336,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8478483,M. Marner,Vegas Golden Knights,0,0,0,0,1,0,992,0,0,0,0.3,0.0,1374.9,0.0,1.4,Seattle Kraken,3.4
 2026020065,2026-10-08,8478483,M. Marner,Vegas Golden Knights,0,1,0,1,0,0,1450,0,0,0,0.3,0.0,1330.2,0.0,1.3,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8478483,M. Marner,Vegas Golden Knights,1,1,0,0,2,0,1216,0,0,1,0.3,0.0,1341.0,0.0,1.3,Los Angeles Kings,3.8
+2026020089,2026-10-12,8478483,M. Marner,Vegas Golden Knights,0,1,0,1,1,0,1290,0,0,0,0.4,0.0,1337.2,0.0,1.3,Minnesota Wild,3.3
 2025090009,2026-02-13,8478488,F. Chlapik,Czechia Czechia,1,0,0,0,0,0,297,0,0,1,0.0,0.0,0.0,0.0,0.0,France,4.0
 2025090015,2026-02-15,8478488,F. Chlapik,Czechia Czechia,1,1,0,0,0,0,697,0,0,1,1.0,0.0,297.0,0.0,0.0,Switzerland Switzerland,2.5
 2025090021,2026-02-17,8478488,F. Chlapik,Czechia Czechia,0,0,0,0,0,0,651,0,0,0,1.0,0.0,497.0,0.0,0.0,Denmark Denmark,3.6666666666666665
@@ -71511,6 +71554,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8478493,J. Eriksson Ek,Minnesota Wild,0,0,0,1,1,0,1226,0,0,0,0.4,0.0,1271.0,0.0,1.9,Buffalo Sabres,3.7
 2026020060,2026-10-08,8478493,J. Eriksson Ek,Minnesota Wild,0,0,0,0,0,0,1276,0,0,0,0.3,0.0,1314.7,0.0,1.9,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8478493,J. Eriksson Ek,Minnesota Wild,0,1,0,1,0,6,1092,0,0,0,0.3,0.0,1333.3,0.0,1.8,Florida Panthers,3.2
+2026020089,2026-10-12,8478493,J. Eriksson Ek,Minnesota Wild,1,0,0,3,1,0,1283,0,0,1,0.1,0.0,1328.0,0.0,1.7,Vegas Golden Knights,3.2
 2023020614,2024-01-06,8478495,D. Gurianov,Nashville Predators,0,0,0,1,0,0,867,0,0,0,0.0,0.0,0.0,0.0,0.0,Dallas Stars,3.2
 2023020629,2024-01-09,8478495,D. Gurianov,Nashville Predators,1,0,0,0,0,0,757,0,0,1,0.0,0.0,867.0,0.0,1.0,Anaheim Ducks,2.9
 2023020651,2024-01-12,8478495,D. Gurianov,Nashville Predators,0,1,0,2,0,0,777,0,0,0,0.5,0.0,812.0,0.0,0.5,Dallas Stars,2.7
@@ -72547,6 +72591,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8478508,Y. Trenin,Minnesota Wild,0,0,0,6,1,0,784,0,0,0,0.0,0.0,683.8,0.0,4.4,Buffalo Sabres,3.7
 2026020060,2026-10-08,8478508,Y. Trenin,Minnesota Wild,0,0,0,4,0,0,767,0,0,0,0.0,0.0,744.0,0.0,4.7,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8478508,Y. Trenin,Minnesota Wild,0,0,0,2,1,0,756,0,0,0,0.0,0.0,748.3,0.0,4.4,Florida Panthers,3.2
+2026020089,2026-10-12,8478508,Y. Trenin,Minnesota Wild,0,0,0,5,0,0,754,0,0,0,0.0,0.0,762.1,0.0,4.3,Vegas Golden Knights,3.2
 2023020035,2023-10-16,8478512,A. Czarnik,Detroit Red Wings,0,0,0,0,0,2,576,0,0,0,0.0,0.0,0.0,0.0,0.0,Columbus Blue Jackets,3.5
 2023020050,2023-10-18,8478512,A. Czarnik,Detroit Red Wings,0,1,0,0,0,0,552,0,0,0,0.0,0.0,576.0,0.0,0.0,Pittsburgh Penguins,2.0
 2023020065,2023-10-21,8478512,A. Czarnik,Detroit Red Wings,0,0,0,1,0,0,380,0,0,0,0.0,0.0,564.0,0.0,0.0,Ottawa Senators,2.5
@@ -73064,6 +73109,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8478542,E. Rodrigues,New Jersey Devils,0,0,0,1,0,0,974,0,0,0,0.0,0.0,949.3,0.0,0.4,New York Islanders,3.6
 2026020047,2026-10-06,8478542,E. Rodrigues,New Jersey Devils,0,0,0,2,0,0,950,0,0,0,0.0,0.0,951.0,0.0,0.4,Utah Mammoth,3.1
 2026020071,2026-10-10,8478542,E. Rodrigues,New Jersey Devils,0,0,0,1,1,4,836,0,0,0,0.0,0.0,928.9,0.0,0.6,Vancouver Canucks,4.3
+2026020088,2026-10-12,8478542,E. Rodrigues,New Jersey Devils,0,0,0,2,0,0,940,0,0,0,0.0,0.0,914.4,0.0,0.7,Ottawa Senators,2.3
 2023020010,2023-10-12,8478550,A. Panarin,New York Rangers,1,1,0,0,0,0,944,0,0,1,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,0.0
 2023020022,2023-10-14,8478550,A. Panarin,New York Rangers,0,1,0,1,0,0,1412,0,0,0,1.0,0.0,944.0,0.0,0.0,Columbus Blue Jackets,4.0
 2023020037,2023-10-16,8478550,A. Panarin,New York Rangers,0,1,0,0,0,0,1091,0,0,0,0.5,0.0,1178.0,0.0,0.5,Arizona Coyotes,3.0
@@ -75059,6 +75105,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8478859,N. Mikkola,Florida Panthers,0,0,0,1,0,2,1362,0,0,0,0.2,0.0,1211.1,0.0,1.8,San Jose Sharks,3.4
 2026020052,2026-10-06,8478859,N. Mikkola,Florida Panthers,0,0,0,1,2,0,1090,0,0,0,0.2,0.0,1209.0,0.0,1.9,Los Angeles Kings,3.6
 2026020073,2026-10-10,8478859,N. Mikkola,Florida Panthers,0,0,0,0,0,0,1013,0,0,0,0.2,0.0,1197.6,0.0,2.0,Minnesota Wild,3.4
+2026020087,2026-10-12,8478859,N. Mikkola,Florida Panthers,0,0,0,5,0,0,1188,0,0,0,0.1,0.0,1182.5,0.0,1.9,Buffalo Sabres,3.9
 2025090002,2026-02-11,8478862,M. Bradley,Italy,1,0,0,0,0,0,986,0,0,1,0.0,0.0,0.0,0.0,0.0,Sweden,0.0
 2025090008,2026-02-13,8478862,M. Bradley,Italy,1,0,0,0,0,0,1185,0,0,1,1.0,0.0,986.0,0.0,0.0,Slovakia Slovakia,1.0
 2025090013,2026-02-14,8478862,M. Bradley,Italy,0,0,0,0,0,0,1017,0,0,0,1.0,0.0,1085.5,0.0,0.0,Finland,2.5
@@ -75275,6 +75322,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8478864,K. Kaprizov,Minnesota Wild,0,0,0,0,0,0,1498,0,0,0,0.6,0.0,1344.5,0.0,1.4,Buffalo Sabres,3.7
 2026020060,2026-10-08,8478864,K. Kaprizov,Minnesota Wild,0,1,0,1,1,0,1387,0,0,0,0.6,0.0,1322.8,0.0,1.3,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8478864,K. Kaprizov,Minnesota Wild,3,1,0,0,2,0,1211,0,0,1,0.5,0.0,1352.6,0.0,1.1,Florida Panthers,3.2
+2026020089,2026-10-12,8478864,K. Kaprizov,Minnesota Wild,0,1,0,0,0,0,1180,0,0,0,0.8,0.0,1340.6,0.0,0.7,Vegas Golden Knights,3.2
 2025090005,2026-02-12,8478870,R. Balcers,Latvia Latvia,0,0,0,0,0,0,761,0,0,0,0.0,0.0,0.0,0.0,0.0,USA,0.0
 2025090012,2026-02-14,8478870,R. Balcers,Latvia Latvia,0,1,0,0,0,0,934,0,0,0,0.0,0.0,761.0,0.0,0.0,Germany,1.0
 2025090017,2026-02-15,8478870,R. Balcers,Latvia Latvia,0,0,0,0,0,0,1042,0,0,0,0.0,0.0,847.5,0.0,0.0,Denmark Denmark,4.5
@@ -77894,6 +77942,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8479314,M. Tkachuk,Florida Panthers,1,0,0,2,1,0,1367,0,0,1,0.4,0.0,1114.4,0.0,1.0,San Jose Sharks,3.4
 2026020052,2026-10-06,8479314,M. Tkachuk,Florida Panthers,1,0,0,4,0,0,1285,0,0,1,0.5,0.0,1131.2,0.0,1.1,Los Angeles Kings,3.6
 2026020073,2026-10-10,8479314,M. Tkachuk,Florida Panthers,1,0,0,3,0,2,1113,0,0,1,0.5,0.0,1149.8,0.0,1.4,Minnesota Wild,3.4
+2026020087,2026-10-12,8479314,M. Tkachuk,Florida Panthers,0,1,0,1,0,0,1105,0,0,0,0.4,0.0,1118.8,0.0,1.6,Buffalo Sabres,3.9
 2023020295,2023-11-24,8479315,J. Anderson,Chicago Blackhawks,0,1,0,2,0,0,821,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.7
 2023020317,2023-11-26,8479315,J. Anderson,Chicago Blackhawks,0,0,0,0,1,0,807,0,0,0,0.0,0.0,821.0,0.0,2.0,St. Louis Blues,3.5
 2023020333,2023-11-28,8479315,J. Anderson,Chicago Blackhawks,0,2,0,0,0,0,826,0,0,0,0.0,0.0,814.0,0.0,1.0,Seattle Kraken,3.5
@@ -80686,6 +80735,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8479353,B. Howden,Vegas Golden Knights,0,0,0,0,0,2,951,0,0,0,0.5,0.0,987.7,0.0,3.1,Seattle Kraken,3.4
 2026020065,2026-10-08,8479353,B. Howden,Vegas Golden Knights,1,0,0,2,1,0,918,0,0,1,0.4,0.0,980.5,0.0,2.7,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8479353,B. Howden,Vegas Golden Knights,0,0,0,1,2,0,925,0,0,0,0.5,0.0,962.4,0.0,2.3,Los Angeles Kings,3.8
+2026020089,2026-10-12,8479353,B. Howden,Vegas Golden Knights,0,1,0,1,0,0,918,0,0,0,0.4,0.0,965.8,0.0,2.1,Minnesota Wild,3.3
 2024020927,2025-02-25,8479356,K. Bellows,Nashville Predators,0,0,0,2,1,0,400,0,0,0,0.0,0.0,0.0,0.0,0.0,Florida Panthers,2.3
 2024020941,2025-02-27,8479356,K. Bellows,Nashville Predators,0,0,0,3,0,0,604,0,0,0,0.0,0.0,400.0,0.0,2.0,Winnipeg Jets,1.9
 2024020949,2025-03-01,8479356,K. Bellows,Nashville Predators,0,0,0,1,0,0,710,0,0,0,0.0,0.0,502.0,0.0,2.5,New York Islanders,3.1
@@ -80961,6 +81011,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8479359,B. Malenstyn,Buffalo Sabres,0,0,0,2,0,0,508,0,0,0,0.0,0.0,579.7,0.0,3.5,Minnesota Wild,3.2
 2026020057,2026-10-08,8479359,B. Malenstyn,Buffalo Sabres,0,0,0,5,0,2,595,0,0,0,0.0,0.0,566.9,0.0,3.2,Dallas Stars,3.2
 2026020074,2026-10-10,8479359,B. Malenstyn,Buffalo Sabres,0,0,0,4,2,0,731,0,0,0,0.0,0.0,562.8,0.0,3.2,Utah Mammoth,3.3
+2026020087,2026-10-12,8479359,B. Malenstyn,Buffalo Sabres,0,0,0,4,2,2,596,0,0,0,0.0,0.0,592.8,0.0,3.6,Florida Panthers,2.7
 2023020143,2023-11-01,8479362,R. Tufte,Colorado Avalanche,0,0,0,1,0,0,688,0,0,0,0.0,0.0,0.0,0.0,0.0,St. Louis Blues,2.7142857142857144
 2023020201,2023-11-09,8479362,R. Tufte,Colorado Avalanche,0,0,0,3,0,0,850,0,0,0,0.0,0.0,688.0,0.0,1.0,Seattle Kraken,3.6
 2023020219,2023-11-11,8479362,R. Tufte,Colorado Avalanche,0,0,0,1,0,2,609,0,0,0,0.0,0.0,769.0,0.0,2.0,St. Louis Blues,3.1
@@ -83833,6 +83884,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8479407,J. Bratt,New Jersey Devils,0,0,0,2,0,0,953,0,0,0,0.3,0.0,1133.6,0.0,0.8,New York Islanders,3.6
 2026020047,2026-10-06,8479407,J. Bratt,New Jersey Devils,0,1,0,1,0,0,1139,0,0,0,0.3,0.0,1114.6,0.0,0.9,Utah Mammoth,3.1
 2026020071,2026-10-10,8479407,J. Bratt,New Jersey Devils,1,1,0,4,0,0,975,0,0,1,0.2,0.0,1119.4,0.0,1.0,Vancouver Canucks,4.3
+2026020088,2026-10-12,8479407,J. Bratt,New Jersey Devils,0,0,0,1,1,0,1033,0,0,0,0.3,0.0,1094.5,0.0,1.2,Ottawa Senators,2.3
 2023020001,2023-10-10,8479410,M. Sergachev,Tampa Bay Lightning,0,1,0,0,2,2,1380,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8479410,M. Sergachev,Tampa Bay Lightning,0,0,0,1,0,0,1290,0,0,0,0.0,0.0,1380.0,0.0,0.0,Detroit Red Wings,4.0
 2023020033,2023-10-15,8479410,M. Sergachev,Tampa Bay Lightning,0,0,0,2,3,2,1397,0,0,0,0.0,0.0,1335.0,0.0,0.5,Ottawa Senators,3.5
@@ -84484,6 +84536,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8479420,T. Thompson,Buffalo Sabres,1,1,0,0,1,0,1223,0,0,1,0.4,0.0,1194.2,0.0,1.5,Minnesota Wild,3.2
 2026020057,2026-10-08,8479420,T. Thompson,Buffalo Sabres,0,0,0,0,0,0,1148,0,0,0,0.5,0.0,1185.1,0.0,1.3,Dallas Stars,3.2
 2026020074,2026-10-10,8479420,T. Thompson,Buffalo Sabres,1,0,0,0,1,2,1196,0,0,1,0.5,0.0,1189.1,0.0,1.2,Utah Mammoth,3.3
+2026020087,2026-10-12,8479420,T. Thompson,Buffalo Sabres,1,1,0,2,1,0,1078,0,0,1,0.6,0.0,1196.9,0.0,0.6,Florida Panthers,2.7
 2023020446,2023-12-13,8479421,J. Moverare,Los Angeles Kings,0,0,0,1,1,0,842,0,0,0,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,1.8
 2023020473,2023-12-16,8479421,J. Moverare,Los Angeles Kings,0,0,0,2,1,0,899,0,0,0,0.0,0.0,842.0,0.0,1.0,Seattle Kraken,2.8
 2023020494,2023-12-19,8479421,J. Moverare,Los Angeles Kings,0,0,0,0,2,0,1020,0,0,0,0.0,0.0,870.5,0.0,1.5,San Jose Sharks,3.4
@@ -86949,6 +87002,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025030413,2026-06-06,8479639,D. Coghlan,Vegas Golden Knights,0,0,0,0,1,0,1058,0,0,0,0.1,0.0,873.6,0.0,0.9,Carolina Hurricanes,2.2
 2025030414,2026-06-09,8479639,D. Coghlan,Vegas Golden Knights,0,0,0,0,0,0,625,0,0,0,0.1,0.0,881.7,0.0,0.9,Carolina Hurricanes,2.7
 2025030415,2026-06-11,8479639,D. Coghlan,Vegas Golden Knights,0,0,0,0,2,0,686,0,0,0,0.1,0.0,849.9,0.0,0.8,Carolina Hurricanes,2.9
+2026020089,2026-10-12,8479639,D. Coghlan,Vegas Golden Knights,0,0,0,1,2,2,728,0,0,0,0.1,0.0,798.0,0.0,0.7,Minnesota Wild,3.3
 2025020457,2025-12-07,8479644,M. Luff,St. Louis Blues,0,0,0,1,2,0,513,0,0,0,0.0,0.0,0.0,0.0,0.0,Montréal Canadiens,3.5
 2025020472,2025-12-09,8479644,M. Luff,St. Louis Blues,0,0,0,2,2,0,464,0,0,0,0.0,0.0,513.0,0.0,1.0,Boston Bruins,2.8
 2025020493,2025-12-12,8479644,M. Luff,St. Louis Blues,1,0,0,3,0,0,543,0,0,1,0.0,0.0,488.5,0.0,1.5,Chicago Blackhawks,3.8
@@ -89820,6 +89874,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8479996,C. Glass,New Jersey Devils,0,0,0,1,1,0,700,0,0,0,0.4,0.0,767.4,0.0,0.4,New York Islanders,3.6
 2026020047,2026-10-06,8479996,C. Glass,New Jersey Devils,0,0,0,0,0,0,743,0,0,0,0.4,0.0,761.5,0.0,0.5,Utah Mammoth,3.1
 2026020071,2026-10-10,8479996,C. Glass,New Jersey Devils,0,0,0,2,0,0,846,0,0,0,0.3,0.0,758.5,0.0,0.5,Vancouver Canucks,4.3
+2026020088,2026-10-12,8479996,C. Glass,New Jersey Devils,0,0,0,1,0,0,832,0,0,0,0.3,0.0,766.8,0.0,0.7,Ottawa Senators,2.3
 2023020008,2023-10-11,8479998,M. Anderson,Los Angeles Kings,0,0,0,2,1,0,1234,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,0.0
 2023020032,2023-10-14,8479998,M. Anderson,Los Angeles Kings,0,1,0,2,1,2,963,0,0,0,0.0,0.0,1234.0,0.0,2.0,Carolina Hurricanes,3.0
 2023020045,2023-10-17,8479998,M. Anderson,Los Angeles Kings,0,1,0,5,3,0,1141,0,0,0,0.0,0.0,1098.5,0.0,2.0,Winnipeg Jets,4.5
@@ -90698,6 +90753,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8480002,N. Hischier,New Jersey Devils,0,0,0,0,0,0,1159,0,0,0,0.2,0.0,1223.5,0.0,0.6,New York Islanders,3.6
 2026020047,2026-10-06,8480002,N. Hischier,New Jersey Devils,0,0,0,0,2,0,1388,0,0,0,0.2,0.0,1221.6,0.0,0.5,Utah Mammoth,3.1
 2026020071,2026-10-10,8480002,N. Hischier,New Jersey Devils,2,1,0,1,0,0,1139,0,0,1,0.2,0.0,1233.6,0.0,0.5,Vancouver Canucks,4.3
+2026020088,2026-10-12,8480002,N. Hischier,New Jersey Devils,0,0,0,0,0,0,1088,0,0,0,0.4,0.0,1204.8,0.0,0.5,Ottawa Senators,2.3
 2023020100,2023-10-26,8480003,J. Boqvist,Boston Bruins,0,0,0,1,0,0,362,0,0,0,0.0,0.0,0.0,0.0,0.0,Anaheim Ducks,2.8333333333333335
 2023020457,2023-12-15,8480003,J. Boqvist,Boston Bruins,0,0,0,0,0,2,287,0,0,0,0.0,0.0,362.0,0.0,1.0,New York Islanders,3.1
 2023020607,2024-01-06,8480003,J. Boqvist,Boston Bruins,0,0,0,0,0,2,682,0,0,0,0.0,0.0,324.5,0.0,0.5,Tampa Bay Lightning,3.0
@@ -90899,6 +90955,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025021303,2026-04-15,8480003,J. Boqvist,Florida Panthers,0,0,0,0,1,0,895,0,0,0,0.1,0.0,909.0,0.0,1.5,Detroit Red Wings,3.8
 2026020047,2026-10-06,8480003,J. Boqvist,New Jersey Devils,1,0,0,1,0,0,589,0,0,1,0.1,0.0,909.5,0.0,1.3,Utah Mammoth,3.1
 2026020071,2026-10-10,8480003,J. Boqvist,New Jersey Devils,1,0,0,1,0,0,749,0,0,1,0.2,0.0,867.3,0.0,1.2,Vancouver Canucks,4.3
+2026020088,2026-10-12,8480003,J. Boqvist,New Jersey Devils,0,0,0,1,0,0,643,0,0,0,0.3,0.0,853.1,0.0,1.2,Ottawa Senators,2.3
 2023020016,2023-10-12,8480007,J. Rondbjerg,Vegas Golden Knights,0,1,0,0,0,0,669,0,0,0,0.0,0.0,0.0,0.0,0.0,San Jose Sharks,0.0
 2023020031,2023-10-14,8480007,J. Rondbjerg,Vegas Golden Knights,1,0,0,0,0,0,692,0,0,1,0.0,0.0,669.0,0.0,0.0,Anaheim Ducks,0.0
 2023020155,2023-11-02,8480007,J. Rondbjerg,Vegas Golden Knights,0,0,0,0,0,0,620,0,0,0,0.5,0.0,680.5,0.0,0.0,Winnipeg Jets,3.3333333333333335
@@ -94477,6 +94534,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8480064,J. Norris,Buffalo Sabres,0,0,0,0,0,0,1004,0,0,0,0.1,0.0,1010.5,0.0,2.3,Minnesota Wild,3.2
 2026020057,2026-10-08,8480064,J. Norris,Buffalo Sabres,0,0,0,1,0,0,859,0,0,0,0.0,0.0,1010.4,0.0,1.8,Dallas Stars,3.2
 2026020074,2026-10-10,8480064,J. Norris,Buffalo Sabres,0,0,0,1,2,0,993,0,0,0,0.0,0.0,993.5,0.0,1.6,Utah Mammoth,3.3
+2026020087,2026-10-12,8480064,J. Norris,Buffalo Sabres,0,0,0,0,1,4,684,0,0,0,0.0,0.0,986.9,0.0,1.3,Florida Panthers,2.7
 2023020011,2023-10-12,8480068,R. Poehling,Philadelphia Flyers,0,0,0,0,0,0,740,0,0,0,0.0,0.0,0.0,0.0,0.0,Columbus Blue Jackets,0.0
 2023020019,2023-10-14,8480068,R. Poehling,Philadelphia Flyers,0,0,0,1,0,0,788,0,0,0,0.0,0.0,740.0,0.0,0.0,Ottawa Senators,5.0
 2023020042,2023-10-17,8480068,R. Poehling,Philadelphia Flyers,0,0,0,1,0,0,613,0,0,0,0.0,0.0,764.0,0.0,0.5,Vancouver Canucks,2.0
@@ -96545,6 +96603,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8480185,E. Luostarinen,Florida Panthers,2,0,0,0,1,0,988,0,0,1,0.2,0.0,953.9,0.0,1.1,San Jose Sharks,3.4
 2026020052,2026-10-06,8480185,E. Luostarinen,Florida Panthers,0,0,0,3,2,4,943,0,0,0,0.4,0.0,957.6,0.0,1.1,Los Angeles Kings,3.6
 2026020073,2026-10-10,8480185,E. Luostarinen,Florida Panthers,0,0,0,1,1,0,904,0,0,0,0.4,0.0,956.2,0.0,1.3,Minnesota Wild,3.4
+2026020087,2026-10-12,8480185,E. Luostarinen,Florida Panthers,0,0,0,4,1,2,997,0,0,0,0.4,0.0,948.5,0.0,1.2,Buffalo Sabres,3.9
 2023020016,2023-10-12,8480188,F. Zetterlund,San Jose Sharks,0,0,0,2,1,0,721,0,0,0,0.0,0.0,0.0,0.0,0.0,Vegas Golden Knights,1.0
 2023020030,2023-10-14,8480188,F. Zetterlund,San Jose Sharks,0,0,0,5,0,0,789,0,0,0,0.0,0.0,721.0,0.0,2.0,Colorado Avalanche,2.0
 2023020047,2023-10-17,8480188,F. Zetterlund,San Jose Sharks,1,1,0,0,1,0,778,0,0,1,0.0,0.0,755.0,0.0,3.5,Carolina Hurricanes,4.666666666666667
@@ -96803,6 +96862,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8480188,F. Zetterlund,Ottawa Senators,0,1,0,4,1,0,900,0,0,0,0.3,0.0,748.1,0.0,2.5,Detroit Red Wings,4.1
 2026020059,2026-10-08,8480188,F. Zetterlund,Ottawa Senators,0,0,0,4,0,0,793,0,0,0,0.1,0.0,767.3,0.0,2.8,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8480188,F. Zetterlund,Ottawa Senators,0,0,0,3,1,0,510,0,0,0,0.1,0.0,789.4,0.0,2.9,Nashville Predators,2.6
+2026020088,2026-10-12,8480188,F. Zetterlund,Ottawa Senators,0,0,0,3,1,0,686,0,0,0,0.0,0.0,740.0,0.0,2.9,New Jersey Devils,3.4
 2023020005,2023-10-11,8480192,J. Kovacevic,Montréal Canadiens,0,0,0,1,1,0,1203,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,0.0
 2023020024,2023-10-14,8480192,J. Kovacevic,Montréal Canadiens,0,0,0,1,0,0,1060,0,0,0,0.0,0.0,1203.0,0.0,1.0,Chicago Blackhawks,2.5
 2023020041,2023-10-17,8480192,J. Kovacevic,Montréal Canadiens,0,0,0,0,4,0,1155,0,0,0,0.0,0.0,1131.5,0.0,1.0,Minnesota Wild,3.5
@@ -97441,6 +97501,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8480208,D. Batherson,Ottawa Senators,1,1,0,5,0,4,1027,0,0,1,0.6,0.0,1102.5,0.0,2.7,Detroit Red Wings,4.1
 2026020059,2026-10-08,8480208,D. Batherson,Ottawa Senators,0,0,0,0,0,2,967,0,0,0,0.6,0.0,1122.6,0.0,3.1,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8480208,D. Batherson,Ottawa Senators,1,0,0,2,0,0,1185,0,0,1,0.6,0.0,1112.9,0.0,2.8,Nashville Predators,2.6
+2026020088,2026-10-12,8480208,D. Batherson,Ottawa Senators,0,0,0,3,1,0,1053,0,0,0,0.7,0.0,1130.1,0.0,3.0,New Jersey Devils,3.4
 2023020030,2023-10-14,8480216,J. Peterson,San Jose Sharks,0,0,0,2,2,0,875,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,2.0
 2023020047,2023-10-17,8480216,J. Peterson,San Jose Sharks,0,0,0,0,3,0,775,0,0,0,0.0,0.0,875.0,0.0,2.0,Carolina Hurricanes,4.666666666666667
 2023020074,2023-10-21,8480216,J. Peterson,San Jose Sharks,0,0,0,0,0,0,794,0,0,0,0.0,0.0,825.0,0.0,1.0,Nashville Predators,3.0
@@ -101546,6 +101607,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8480800,Q. Hughes,Minnesota Wild,0,1,0,0,1,0,1770,0,0,0,0.5,0.0,1760.6,0.0,0.1,Buffalo Sabres,3.7
 2026020060,2026-10-08,8480800,Q. Hughes,Minnesota Wild,1,1,0,0,0,0,1956,0,0,1,0.5,0.0,1713.5,0.0,0.1,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8480800,Q. Hughes,Minnesota Wild,0,1,0,1,0,0,1535,0,0,0,0.6,0.0,1747.8,0.0,0.1,Florida Panthers,3.2
+2026020089,2026-10-12,8480800,Q. Hughes,Minnesota Wild,0,2,0,0,1,0,1356,0,0,0,0.4,0.0,1727.8,0.0,0.2,Vegas Golden Knights,3.2
 2023020004,2023-10-11,8480801,B. Tkachuk,Ottawa Senators,0,0,0,4,1,4,1147,0,0,0,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,0.0
 2023020019,2023-10-14,8480801,B. Tkachuk,Ottawa Senators,2,0,0,1,0,2,1097,0,0,1,0.0,0.0,1147.0,0.0,4.0,Philadelphia Flyers,2.0
 2023020033,2023-10-15,8480801,B. Tkachuk,Ottawa Senators,2,1,0,1,1,0,1116,0,0,1,1.0,0.0,1122.0,0.0,2.5,Tampa Bay Lightning,4.5
@@ -101778,6 +101840,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8480801,B. Tkachuk,Florida Panthers,0,0,0,5,1,5,1177,0,0,0,0.2,0.0,1076.9,0.0,3.5,San Jose Sharks,3.4
 2026020052,2026-10-06,8480801,B. Tkachuk,Florida Panthers,0,0,0,4,0,0,1032,0,0,0,0.2,0.0,1092.7,0.0,3.9,Los Angeles Kings,3.6
 2026020073,2026-10-10,8480801,B. Tkachuk,Florida Panthers,0,0,0,2,0,2,1054,0,0,0,0.0,0.0,1102.4,0.0,3.8,Minnesota Wild,3.4
+2026020087,2026-10-12,8480801,B. Tkachuk,Florida Panthers,0,1,0,7,0,0,992,0,0,0,0.0,0.0,1107.6,0.0,3.7,Buffalo Sabres,3.9
 2023020009,2023-10-11,8480802,R. McLeod,Edmonton Oilers,0,0,0,1,0,0,870,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8480802,R. McLeod,Edmonton Oilers,0,0,0,0,1,0,803,0,0,0,0.0,0.0,870.0,0.0,1.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8480802,R. McLeod,Edmonton Oilers,0,0,0,0,0,0,813,0,0,0,0.0,0.0,836.5,0.0,0.5,Nashville Predators,2.6666666666666665
@@ -102037,6 +102100,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8480802,R. McLeod,Buffalo Sabres,0,0,0,0,1,2,855,0,0,0,0.1,0.0,927.5,0.0,0.2,Minnesota Wild,3.2
 2026020057,2026-10-08,8480802,R. McLeod,Buffalo Sabres,0,0,0,0,0,0,1017,0,0,0,0.1,0.0,925.2,0.0,0.2,Dallas Stars,3.2
 2026020074,2026-10-10,8480802,R. McLeod,Buffalo Sabres,0,0,0,1,0,0,927,0,0,0,0.0,0.0,939.6,0.0,0.2,Utah Mammoth,3.3
+2026020087,2026-10-12,8480802,R. McLeod,Buffalo Sabres,1,0,0,0,1,0,964,0,0,1,0.0,0.0,928.6,0.0,0.3,Florida Panthers,2.7
 2023020009,2023-10-11,8480803,E. Bouchard,Edmonton Oilers,0,1,0,0,2,2,1481,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8480803,E. Bouchard,Edmonton Oilers,0,1,0,0,2,0,1492,0,0,0,0.0,0.0,1481.0,0.0,0.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8480803,E. Bouchard,Edmonton Oilers,0,2,0,0,1,0,1078,0,0,0,0.0,0.0,1486.5,0.0,0.0,Nashville Predators,2.6666666666666665
@@ -102687,6 +102751,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8480807,M. Samuelsson,Buffalo Sabres,0,0,0,1,1,0,1361,0,0,0,0.3,0.0,1381.7,0.0,2.9,Minnesota Wild,3.2
 2026020057,2026-10-08,8480807,M. Samuelsson,Buffalo Sabres,0,0,0,0,0,0,1059,0,0,0,0.2,0.0,1382.2,0.0,2.8,Dallas Stars,3.2
 2026020074,2026-10-10,8480807,M. Samuelsson,Buffalo Sabres,0,0,0,1,0,0,1089,0,0,0,0.2,0.0,1358.6,0.0,2.6,Utah Mammoth,3.3
+2026020087,2026-10-12,8480807,M. Samuelsson,Buffalo Sabres,0,0,0,1,1,0,1619,0,0,0,0.2,0.0,1348.8,0.0,1.7,Florida Panthers,2.7
 2023020012,2023-10-12,8480813,J. Veleno,Detroit Red Wings,0,0,0,1,0,0,622,0,0,0,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,0.0
 2023020023,2023-10-14,8480813,J. Veleno,Detroit Red Wings,0,0,0,1,1,0,1055,0,0,0,0.0,0.0,622.0,0.0,1.0,Tampa Bay Lightning,3.0
 2023020035,2023-10-16,8480813,J. Veleno,Detroit Red Wings,0,1,0,0,0,0,921,0,0,0,0.0,0.0,838.5,0.0,1.0,Columbus Blue Jackets,3.5
@@ -104506,6 +104571,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8480839,R. Dahlin,Buffalo Sabres,0,1,0,1,4,2,1755,0,0,0,0.4,0.0,1449.8,0.0,1.2,Minnesota Wild,3.2
 2026020057,2026-10-08,8480839,R. Dahlin,Buffalo Sabres,0,0,0,1,4,0,1584,0,0,0,0.4,0.0,1482.5,0.0,1.2,Dallas Stars,3.2
 2026020074,2026-10-10,8480839,R. Dahlin,Buffalo Sabres,0,1,0,0,5,0,1542,0,0,0,0.4,0.0,1514.5,0.0,1.3,Utah Mammoth,3.3
+2026020087,2026-10-12,8480839,R. Dahlin,Buffalo Sabres,1,0,0,0,1,0,546,0,0,1,0.4,0.0,1535.0,0.0,1.2,Florida Panthers,2.7
 2024020017,2024-10-10,8480840,O. Back,Dallas Stars,0,0,0,0,0,0,544,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,3.5
 2024020032,2024-10-12,8480840,O. Bäck,Dallas Stars,0,0,0,0,0,0,670,0,0,0,0.0,0.0,544.0,0.0,0.0,New York Islanders,2.1
 2024020039,2024-10-13,8480840,O. Bäck,Dallas Stars,0,0,0,1,0,0,527,0,0,0,0.0,0.0,607.0,0.0,0.0,Seattle Kraken,3.0
@@ -107954,6 +108020,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8480990,D. Chisholm,New Jersey Devils,0,0,0,0,0,0,760,0,0,0,0.1,0.0,740.6,0.0,0.4,New York Islanders,3.6
 2026020047,2026-10-06,8480990,D. Chisholm,New Jersey Devils,0,1,0,0,2,0,906,0,0,0,0.1,0.0,745.5,0.0,0.4,Utah Mammoth,3.1
 2026020071,2026-10-10,8480990,D. Chisholm,New Jersey Devils,0,0,0,1,1,0,887,0,0,0,0.1,0.0,758.8,0.0,0.3,Vancouver Canucks,4.3
+2026020088,2026-10-12,8480990,D. Chisholm,New Jersey Devils,0,0,0,1,0,0,862,0,0,0,0.0,0.0,791.3,0.0,0.4,Ottawa Senators,2.3
 2023020070,2023-10-21,8480995,P. Holmberg,Toronto Maple Leafs,0,0,0,1,0,0,412,0,0,0,0.0,0.0,0.0,0.0,0.0,Tampa Bay Lightning,4.0
 2023020083,2023-10-24,8480995,P. Holmberg,Toronto Maple Leafs,0,0,0,0,0,2,721,0,0,0,0.0,0.0,412.0,0.0,1.0,Washington Capitals,3.75
 2023020108,2023-10-26,8480995,P. Holmberg,Toronto Maple Leafs,0,0,0,0,3,0,535,0,0,0,0.0,0.0,566.5,0.0,0.5,Dallas Stars,2.0
@@ -111589,6 +111656,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025030235,2026-05-13,8481477,N. Sturm,Minnesota Wild,0,2,0,2,1,0,774,0,0,0,0.1,0.0,635.6,0.0,1.8,Colorado Avalanche,2.1
 2026020060,2026-10-08,8481477,N. Sturm,Minnesota Wild,0,0,0,2,1,0,656,0,0,0,0.1,0.0,651.0,0.0,2.0,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8481477,N. Sturm,Minnesota Wild,0,0,0,3,0,0,771,0,0,0,0.1,0.0,649.3,0.0,1.9,Florida Panthers,3.2
+2026020089,2026-10-12,8481477,N. Sturm,Minnesota Wild,0,0,0,0,0,0,200,0,0,0,0.1,0.0,642.8,0.0,2.2,Vegas Golden Knights,3.2
 2024010100,2024-10-05,8481479,B. Rafferty,Detroit Red Wings,0,0,0,3,0,0,927,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.6
 2023020008,2023-10-11,8481481,B. Lizotte,Los Angeles Kings,0,0,0,0,0,0,462,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,0.0
 2023020032,2023-10-14,8481481,B. Lizotte,Los Angeles Kings,0,1,0,0,0,0,589,0,0,0,0.0,0.0,462.0,0.0,0.0,Carolina Hurricanes,3.0
@@ -112252,6 +112320,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8481522,P. Krebs,Buffalo Sabres,0,1,0,0,0,2,921,0,0,0,0.0,0.0,822.9,0.0,1.8,Minnesota Wild,3.2
 2026020057,2026-10-08,8481522,P. Krebs,Buffalo Sabres,0,0,0,3,0,0,976,0,0,0,0.0,0.0,813.2,0.0,1.7,Dallas Stars,3.2
 2026020074,2026-10-10,8481522,P. Krebs,Buffalo Sabres,0,0,0,1,1,5,769,0,0,0,0.0,0.0,826.6,0.0,1.6,Utah Mammoth,3.3
+2026020087,2026-10-12,8481522,P. Krebs,Buffalo Sabres,0,2,0,2,1,0,908,0,0,0,0.0,0.0,829.0,0.0,1.3,Florida Panthers,2.7
 2023020005,2023-10-11,8481523,K. Dach,Montréal Canadiens,0,2,0,3,0,0,1282,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,0.0
 2023020024,2023-10-14,8481523,K. Dach,Montréal Canadiens,0,0,0,0,0,0,280,0,0,0,0.0,0.0,1282.0,0.0,3.0,Chicago Blackhawks,2.5
 2024020006,2024-10-09,8481523,K. Dach,Montréal Canadiens,0,1,0,3,1,0,959,0,0,0,0.0,0.0,781.0,0.0,1.5,Toronto Maple Leafs,3.8
@@ -113115,6 +113184,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8481528,D. Cozens,Ottawa Senators,0,0,0,4,1,0,1289,0,0,0,0.3,0.0,1099.8,0.0,3.7,Detroit Red Wings,4.1
 2026020059,2026-10-08,8481528,D. Cozens,Ottawa Senators,0,0,0,4,1,2,1067,0,0,0,0.3,0.0,1133.6,0.0,4.0,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8481528,D. Cozens,Ottawa Senators,0,1,0,1,0,0,1216,0,0,0,0.3,0.0,1142.0,0.0,4.1,Nashville Predators,2.6
+2026020088,2026-10-12,8481528,D. Cozens,Ottawa Senators,0,1,0,1,1,0,1060,0,0,0,0.3,0.0,1158.4,0.0,4.1,New Jersey Devils,3.4
 2023020773,2024-01-28,8481532,A. Turcotte,Los Angeles Kings,0,0,0,0,0,0,468,0,0,0,0.0,0.0,0.0,0.0,0.0,St. Louis Blues,3.0
 2023020779,2024-01-31,8481532,A. Turcotte,Los Angeles Kings,1,1,0,1,1,0,602,0,0,1,0.0,0.0,468.0,0.0,0.0,Nashville Predators,3.1
 2023020816,2024-02-10,8481532,A. Turcotte,Los Angeles Kings,0,0,0,0,0,0,212,0,0,0,0.5,0.0,535.0,0.0,0.5,Edmonton Oilers,1.6
@@ -113474,6 +113544,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025020960,2026-03-03,8481534,R. Lavoie,Vegas Golden Knights,0,0,0,1,0,0,514,0,0,0,0.0,0.0,577.0,0.0,1.8,Buffalo Sabres,2.6
 2026020065,2026-10-08,8481534,R. Lavoie,Vegas Golden Knights,0,0,0,4,0,0,494,0,0,0,0.0,0.0,595.8,0.0,1.7,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8481534,R. Lavoie,Vegas Golden Knights,0,0,0,0,0,0,562,0,0,0,0.0,0.0,594.4,0.0,1.8,Los Angeles Kings,3.8
+2026020089,2026-10-12,8481534,R. Lavoie,Vegas Golden Knights,0,1,0,1,0,0,653,0,0,0,0.0,0.0,593.3,0.0,1.6,Minnesota Wild,3.3
 2023020009,2023-10-11,8481535,N. Hoglander,Vancouver Canucks,0,1,0,1,1,0,774,0,0,0,0.0,0.0,0.0,0.0,0.0,Edmonton Oilers,0.0
 2023020029,2023-10-14,8481535,N. Hoglander,Vancouver Canucks,1,1,0,3,1,0,494,0,0,1,0.0,0.0,774.0,0.0,1.0,Edmonton Oilers,8.0
 2023020042,2023-10-17,8481535,N. Hoglander,Vancouver Canucks,0,0,0,0,0,0,555,0,0,0,0.5,0.0,634.0,0.0,2.0,Philadelphia Flyers,3.5
@@ -114771,6 +114842,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8481553,B. Brink,Minnesota Wild,0,0,0,1,1,0,814,0,0,0,0.0,0.0,909.3,0.0,1.6,Buffalo Sabres,3.7
 2026020060,2026-10-08,8481553,B. Brink,Minnesota Wild,0,1,0,1,1,0,721,0,0,0,0.0,0.0,915.8,0.0,1.7,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8481553,B. Brink,Minnesota Wild,0,0,0,0,1,0,651,0,0,0,0.0,0.0,911.5,0.0,1.7,Florida Panthers,3.2
+2026020089,2026-10-12,8481553,B. Brink,Minnesota Wild,0,1,0,1,1,0,620,0,0,0,0.0,0.0,868.0,0.0,1.4,Vegas Golden Knights,3.2
 2023020010,2023-10-12,8481554,K. Kakko,New York Rangers,0,0,0,0,0,0,874,0,0,0,0.0,0.0,0.0,0.0,0.0,Buffalo Sabres,0.0
 2023020022,2023-10-14,8481554,K. Kakko,New York Rangers,0,0,0,0,0,0,879,0,0,0,0.0,0.0,874.0,0.0,0.0,Columbus Blue Jackets,4.0
 2023020037,2023-10-16,8481554,K. Kakko,New York Rangers,0,1,0,1,1,0,951,0,0,0,0.0,0.0,876.5,0.0,0.0,Arizona Coyotes,3.0
@@ -115415,6 +115487,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8481557,M. Boldy,Minnesota Wild,0,0,0,0,3,0,1404,0,0,0,0.5,0.0,1332.9,0.0,1.6,Buffalo Sabres,3.7
 2026020060,2026-10-08,8481557,M. Boldy,Minnesota Wild,0,0,0,4,4,0,1334,0,0,0,0.4,0.0,1294.1,0.0,1.3,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8481557,M. Boldy,Minnesota Wild,1,1,0,1,0,2,1256,0,0,1,0.3,0.0,1304.8,0.0,1.7,Florida Panthers,3.2
+2026020089,2026-10-12,8481557,M. Boldy,Minnesota Wild,1,0,0,0,0,0,1174,0,0,1,0.2,0.0,1285.6,0.0,1.7,Vegas Golden Knights,3.2
 2024021291,2025-04-15,8481558,J. Farinacci,Boston Bruins,1,0,0,3,0,0,658,0,0,1,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,2.9
 2023020012,2023-10-12,8481559,J. Hughes,New Jersey Devils,2,0,0,0,0,4,1134,0,0,1,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,0.0
 2023020017,2023-10-13,8481559,J. Hughes,New Jersey Devils,0,3,0,0,0,0,1439,0,0,0,2.0,0.0,1134.0,0.0,0.0,Arizona Coyotes,0.0
@@ -115615,6 +115688,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8481559,J. Hughes,New Jersey Devils,0,0,0,0,0,0,1261,0,0,0,0.6,0.0,1369.7,0.0,0.1,New York Islanders,3.6
 2026020047,2026-10-06,8481559,J. Hughes,New Jersey Devils,0,1,0,0,1,0,1292,0,0,0,0.6,0.0,1364.0,0.0,0.1,Utah Mammoth,3.1
 2026020071,2026-10-10,8481559,J. Hughes,New Jersey Devils,0,2,0,0,1,0,988,0,0,0,0.4,0.0,1358.7,0.0,0.1,Vancouver Canucks,4.3
+2026020088,2026-10-12,8481559,J. Hughes,New Jersey Devils,0,1,0,0,1,0,1241,0,0,0,0.3,0.0,1298.9,0.0,0.1,Ottawa Senators,2.3
 2023020045,2023-10-17,8481560,A. Kaliyev,Los Angeles Kings,1,1,0,1,0,0,719,0,0,1,0.0,0.0,0.0,0.0,0.0,Winnipeg Jets,4.5
 2023020056,2023-10-19,8481560,A. Kaliyev,Los Angeles Kings,0,1,0,2,0,2,840,0,0,0,1.0,0.0,719.0,0.0,1.0,Minnesota Wild,3.0
 2023020079,2023-10-21,8481560,A. Kaliyev,Los Angeles Kings,0,0,0,1,0,4,810,0,0,0,0.5,0.0,779.5,0.0,1.5,Boston Bruins,1.3333333333333333
@@ -117547,6 +117621,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8481596,S. Pinto,Ottawa Senators,0,0,0,2,0,4,997,0,0,0,0.1,0.0,1196.8,0.0,2.1,Detroit Red Wings,4.1
 2026020059,2026-10-08,8481596,S. Pinto,Ottawa Senators,0,1,0,1,1,0,1370,0,0,0,0.1,0.0,1205.6,0.0,2.2,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8481596,S. Pinto,Ottawa Senators,0,1,0,1,0,0,1301,0,0,0,0.1,0.0,1223.5,0.0,2.2,Nashville Predators,2.6
+2026020088,2026-10-12,8481596,S. Pinto,Ottawa Senators,1,0,0,0,2,0,1280,0,0,1,0.0,0.0,1224.3,0.0,2.2,New Jersey Devils,3.4
 2023020009,2023-10-11,8481598,P. Broberg,Edmonton Oilers,0,0,0,0,0,0,963,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,0.0
 2023020029,2023-10-14,8481598,P. Broberg,Edmonton Oilers,0,0,0,1,0,0,805,0,0,0,0.0,0.0,963.0,0.0,0.0,Vancouver Canucks,1.0
 2023020044,2023-10-17,8481598,P. Broberg,Edmonton Oilers,0,0,0,0,3,0,899,0,0,0,0.0,0.0,884.0,0.0,0.5,Nashville Predators,2.6666666666666665
@@ -118716,6 +118791,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8481606,J. Spence,Ottawa Senators,0,0,0,1,1,0,1349,0,0,0,0.0,0.0,1410.3,0.0,1.0,Detroit Red Wings,4.1
 2026020059,2026-10-08,8481606,J. Spence,Ottawa Senators,0,0,0,2,4,2,1244,0,0,0,0.0,0.0,1428.9,0.0,1.0,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8481606,J. Spence,Ottawa Senators,0,0,0,1,1,0,1470,0,0,0,0.0,0.0,1444.0,0.0,1.0,Nashville Predators,2.6
+2026020088,2026-10-12,8481606,J. Spence,Ottawa Senators,0,1,0,1,3,0,1291,0,0,0,0.0,0.0,1431.4,0.0,1.1,New Jersey Devils,3.4
 2024010092,2024-10-04,8481607,A. Johansson,Detroit Red Wings,0,0,0,1,1,2,791,0,0,0,0.0,0.0,0.0,0.0,0.0,Ottawa Senators,3.0
 2024010100,2024-10-05,8481607,A. Johansson,Detroit Red Wings,0,0,0,0,4,0,1434,0,0,0,0.0,0.0,791.0,0.0,1.0,Toronto Maple Leafs,3.6
 2024020028,2024-10-12,8481607,A. Johansson,Detroit Red Wings,0,0,0,2,1,0,717,0,0,0,0.0,0.0,1112.5,0.0,0.5,Nashville Predators,3.2
@@ -120918,6 +120994,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8481721,A. Gritsyuk,New Jersey Devils,0,0,0,2,0,0,922,0,0,0,0.3,0.0,943.8,0.0,0.9,New York Islanders,3.6
 2026020047,2026-10-06,8481721,A. Gritsyuk,New Jersey Devils,0,0,0,1,0,0,708,0,0,0,0.2,0.0,933.6,0.0,1.1,Utah Mammoth,3.1
 2026020071,2026-10-10,8481721,A. Gritsyuk,New Jersey Devils,0,1,0,0,1,0,777,0,0,0,0.2,0.0,912.3,0.0,1.2,Vancouver Canucks,4.3
+2026020088,2026-10-12,8481721,A. Gritsyuk,New Jersey Devils,1,0,0,1,0,0,836,0,0,1,0.2,0.0,910.9,0.0,1.1,Ottawa Senators,2.3
 2024010100,2024-10-05,8481725,E. Soderblom,Detroit Red Wings,0,0,0,1,0,0,789,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.6
 2024020751,2025-01-21,8481725,E. Soderblom,Detroit Red Wings,0,0,0,2,0,0,834,0,0,0,0.0,0.0,789.0,0.0,1.0,Philadelphia Flyers,2.4
 2024020762,2025-01-23,8481725,E. Soderblom,Detroit Red Wings,0,0,0,1,0,0,483,0,0,0,0.0,0.0,811.5,0.0,1.5,Montréal Canadiens,2.9
@@ -121626,6 +121703,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8481806,L. Crevier,Buffalo Sabres,0,0,0,3,3,0,859,0,0,0,0.2,0.0,1135.0,0.0,1.2,Minnesota Wild,3.2
 2026020057,2026-10-08,8481806,L. Crevier,Buffalo Sabres,0,0,0,1,1,0,802,0,0,0,0.2,0.0,1097.2,0.0,1.4,Dallas Stars,3.2
 2026020074,2026-10-10,8481806,L. Crevier,Buffalo Sabres,0,0,0,1,2,0,907,0,0,0,0.2,0.0,1051.1,0.0,1.5,Utah Mammoth,3.3
+2026020087,2026-10-12,8481806,L. Crevier,Buffalo Sabres,0,0,0,3,2,0,903,0,0,0,0.2,0.0,1020.9,0.0,1.3,Florida Panthers,2.7
 2023020030,2023-10-14,8481812,N. Knyzhov,San Jose Sharks,0,0,0,4,3,0,1180,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,2.0
 2023020047,2023-10-17,8481812,N. Knyzhov,San Jose Sharks,0,0,0,0,0,2,1013,0,0,0,0.0,0.0,1180.0,0.0,4.0,Carolina Hurricanes,4.666666666666667
 2023020062,2023-10-19,8481812,N. Knyzhov,San Jose Sharks,0,0,0,1,0,0,1305,0,0,0,0.0,0.0,1096.5,0.0,2.0,Boston Bruins,1.5
@@ -124174,6 +124252,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8482092,R. Greig,Ottawa Senators,0,1,0,2,0,6,790,0,0,0,0.1,0.0,1095.1,0.0,2.3,Detroit Red Wings,4.1
 2026020059,2026-10-08,8482092,R. Greig,Ottawa Senators,0,0,0,2,2,0,1130,0,0,0,0.1,0.0,1075.1,0.0,2.1,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8482092,R. Greig,Ottawa Senators,0,0,0,1,0,0,1213,0,0,0,0.1,0.0,1085.9,0.0,2.1,Nashville Predators,2.6
+2026020088,2026-10-12,8482092,R. Greig,Ottawa Senators,0,0,0,0,2,0,982,0,0,0,0.1,0.0,1106.4,0.0,2.0,New Jersey Devils,3.4
 2023020004,2023-10-11,8482093,S. Jarvis,Carolina Hurricanes,0,1,0,8,0,0,1309,0,0,0,0.0,0.0,0.0,0.0,0.0,Ottawa Senators,0.0
 2023020032,2023-10-14,8482093,S. Jarvis,Carolina Hurricanes,0,0,0,0,0,2,1141,0,0,0,0.0,0.0,1309.0,0.0,8.0,Los Angeles Kings,5.0
 2023020034,2023-10-15,8482093,S. Jarvis,Carolina Hurricanes,0,0,0,0,0,0,1087,0,0,0,0.0,0.0,1225.0,0.0,4.0,Anaheim Ducks,4.0
@@ -124482,6 +124561,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8482094,D. Hunt,Minnesota Wild,0,0,0,0,1,0,848,0,0,0,0.0,0.0,843.3,0.0,0.9,Buffalo Sabres,3.7
 2026020060,2026-10-08,8482094,D. Hunt,Minnesota Wild,0,0,0,0,0,0,603,0,0,0,0.0,0.0,858.7,0.0,0.8,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8482094,D. Hunt,Minnesota Wild,0,0,0,1,1,0,708,0,0,0,0.0,0.0,808.9,0.0,0.7,Florida Panthers,3.2
+2026020089,2026-10-12,8482094,D. Hunt,Minnesota Wild,0,0,0,0,0,0,748,0,0,0,0.0,0.0,753.6,0.0,0.8,Vegas Golden Knights,3.2
 2023020123,2023-10-28,8482095,T. Kleven,Ottawa Senators,0,0,0,0,0,0,563,0,0,0,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,2.857142857142857
 2023020149,2023-11-02,8482095,T. Kleven,Ottawa Senators,0,0,0,1,0,0,566,0,0,0,0.0,0.0,563.0,0.0,0.0,Los Angeles Kings,3.2222222222222223
 2023020162,2023-11-04,8482095,T. Kleven,Ottawa Senators,0,0,0,0,1,0,543,0,0,0,0.0,0.0,564.5,0.0,0.5,Tampa Bay Lightning,3.2
@@ -124649,6 +124729,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8482095,T. Kleven,Ottawa Senators,0,0,0,1,5,0,1138,0,0,0,0.0,0.0,1284.9,0.0,2.2,Detroit Red Wings,4.1
 2026020059,2026-10-08,8482095,T. Kleven,Ottawa Senators,0,1,0,2,2,2,1109,0,0,0,0.0,0.0,1251.7,0.0,2.2,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8482095,T. Kleven,Ottawa Senators,0,0,0,2,3,0,1266,0,0,0,0.0,0.0,1193.5,0.0,2.1,Nashville Predators,2.6
+2026020088,2026-10-12,8482095,T. Kleven,Ottawa Senators,1,0,0,4,4,2,1417,0,0,1,0.0,0.0,1158.1,0.0,2.2,New Jersey Devils,3.4
 2023020485,2023-12-19,8482097,J. Quinn,Buffalo Sabres,0,0,0,2,0,0,875,0,0,0,0.0,0.0,0.0,0.0,0.0,Columbus Blue Jackets,4.0
 2023020498,2023-12-21,8482097,J. Quinn,Buffalo Sabres,1,0,0,0,1,4,993,0,0,1,0.0,0.0,875.0,0.0,2.0,Toronto Maple Leafs,2.9
 2023020522,2023-12-23,8482097,J. Quinn,Buffalo Sabres,1,0,0,0,0,0,910,0,0,1,0.5,0.0,934.0,0.0,1.0,New York Rangers,3.4
@@ -124850,6 +124931,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8482097,J. Quinn,Buffalo Sabres,0,0,0,1,1,0,1305,0,0,0,0.4,0.0,1000.8,0.0,0.6,Minnesota Wild,3.2
 2026020057,2026-10-08,8482097,J. Quinn,Buffalo Sabres,0,0,0,3,0,2,1081,0,0,0,0.4,0.0,1048.1,0.0,0.7,Dallas Stars,3.2
 2026020074,2026-10-10,8482097,J. Quinn,Buffalo Sabres,0,0,0,0,0,2,1220,0,0,0,0.4,0.0,1064.3,0.0,1.0,Utah Mammoth,3.3
+2026020087,2026-10-12,8482097,J. Quinn,Buffalo Sabres,0,2,0,0,0,0,1055,0,0,0,0.4,0.0,1099.3,0.0,0.9,Florida Panthers,2.7
 2025020014,2025-10-09,8482100,A. Nikishin,Carolina Hurricanes,0,1,0,3,2,0,934,0,0,0,0.0,0.0,0.0,0.0,0.0,New Jersey Devils,3.2
 2025020030,2025-10-11,8482100,A. Nikishin,Carolina Hurricanes,0,1,0,4,1,0,1008,0,0,0,0.0,0.0,934.0,0.0,3.0,Philadelphia Flyers,3.4
 2025020055,2025-10-14,8482100,A. Nikishin,Carolina Hurricanes,0,1,0,1,1,2,1034,0,0,0,0.0,0.0,971.0,0.0,3.5,San Jose Sharks,4.4
@@ -125780,6 +125862,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8482110,D. Mercer,New Jersey Devils,0,0,0,0,1,0,902,0,0,0,0.5,0.0,1132.5,0.0,0.4,New York Islanders,3.6
 2026020047,2026-10-06,8482110,D. Mercer,New Jersey Devils,0,0,0,0,1,0,664,0,0,0,0.5,0.0,1115.6,0.0,0.4,Utah Mammoth,3.1
 2026020071,2026-10-10,8482110,D. Mercer,New Jersey Devils,0,0,0,0,0,0,851,0,0,0,0.3,0.0,1062.0,0.0,0.3,Vancouver Canucks,4.3
+2026020088,2026-10-12,8482110,D. Mercer,New Jersey Devils,0,0,0,0,0,0,825,0,0,0,0.2,0.0,1016.4,0.0,0.3,Ottawa Senators,2.3
 2023020069,2023-10-21,8482111,J. Barron,Montréal Canadiens,0,0,0,0,1,0,691,0,0,0,0.0,0.0,0.0,0.0,0.0,Washington Capitals,4.0
 2023020082,2023-10-23,8482111,J. Barron,Montréal Canadiens,1,0,0,0,2,2,949,0,0,1,0.0,0.0,691.0,0.0,0.0,Buffalo Sabres,3.0
 2023020087,2023-10-24,8482111,J. Barron,Montréal Canadiens,1,0,0,4,2,2,1282,0,0,1,0.5,0.0,820.0,0.0,0.0,New Jersey Devils,3.5
@@ -126179,6 +126262,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8482113,A. Lundell,Florida Panthers,0,1,0,3,0,0,1243,0,0,0,0.2,0.0,1117.9,0.0,1.1,San Jose Sharks,3.4
 2026020052,2026-10-06,8482113,A. Lundell,Florida Panthers,0,0,0,1,1,0,1120,0,0,0,0.2,0.0,1141.9,0.0,1.2,Los Angeles Kings,3.6
 2026020073,2026-10-10,8482113,A. Lundell,Florida Panthers,0,0,0,1,0,2,1162,0,0,0,0.2,0.0,1148.9,0.0,1.0,Minnesota Wild,3.4
+2026020087,2026-10-12,8482113,A. Lundell,Florida Panthers,1,0,0,3,0,0,891,0,0,1,0.1,0.0,1145.5,0.0,1.0,Buffalo Sabres,3.9
 2023020004,2023-10-11,8482116,T. Stützle,Ottawa Senators,1,0,0,2,0,4,1304,0,0,1,0.0,0.0,0.0,0.0,0.0,Carolina Hurricanes,0.0
 2023020019,2023-10-14,8482116,T. Stützle,Ottawa Senators,0,1,0,1,1,2,1237,0,0,0,1.0,0.0,1304.0,0.0,2.0,Philadelphia Flyers,2.0
 2023020033,2023-10-15,8482116,T. Stützle,Ottawa Senators,1,0,0,1,1,2,1322,0,0,1,0.5,0.0,1270.5,0.0,1.5,Tampa Bay Lightning,4.5
@@ -126430,6 +126514,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8482116,T. Stützle,Ottawa Senators,1,1,0,5,0,0,1297,0,0,1,0.4,0.0,1302.7,0.0,1.4,Detroit Red Wings,4.1
 2026020059,2026-10-08,8482116,T. Stützle,Ottawa Senators,0,0,0,2,0,0,1214,0,0,0,0.4,0.0,1330.8,0.0,1.8,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8482116,T. Stützle,Ottawa Senators,1,1,0,1,1,0,1566,0,0,1,0.3,0.0,1341.1,0.0,2.0,Nashville Predators,2.6
+2026020088,2026-10-12,8482116,T. Stützle,Ottawa Senators,1,1,0,1,2,0,1246,0,0,1,0.4,0.0,1396.8,0.0,2.1,New Jersey Devils,3.4
 2023020002,2023-10-10,8482117,L. Reichel,Chicago Blackhawks,0,0,0,0,0,0,885,0,0,0,0.0,0.0,0.0,0.0,0.0,Pittsburgh Penguins,0.0
 2023020006,2023-10-11,8482117,L. Reichel,Chicago Blackhawks,0,0,0,0,0,0,907,0,0,0,0.0,0.0,885.0,0.0,0.0,Boston Bruins,0.0
 2023020024,2023-10-14,8482117,L. Reichel,Chicago Blackhawks,0,0,0,0,1,0,945,0,0,0,0.0,0.0,896.0,0.0,0.0,Montréal Canadiens,5.0
@@ -128190,6 +128275,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8482146,L. Evangelista,New Jersey Devils,0,0,0,0,1,0,1135,0,0,0,0.2,0.0,912.4,0.0,0.5,New York Islanders,3.6
 2026020047,2026-10-06,8482146,L. Evangelista,New Jersey Devils,2,0,0,0,1,0,1098,0,0,1,0.2,0.0,936.2,0.0,0.5,Utah Mammoth,3.1
 2026020071,2026-10-10,8482146,L. Evangelista,New Jersey Devils,0,0,0,0,0,0,1137,0,0,0,0.4,0.0,981.0,0.0,0.5,Vancouver Canucks,4.3
+2026020088,2026-10-12,8482146,L. Evangelista,New Jersey Devils,0,0,0,0,1,2,703,0,0,0,0.4,0.0,1018.1,0.0,0.5,Ottawa Senators,2.3
 2023020991,2024-03-06,8482147,J. Foudy,Colorado Avalanche,1,0,0,0,0,0,654,0,0,1,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,3.1
 2023021159,2024-03-28,8482147,J. Foudy,Colorado Avalanche,0,0,0,0,0,0,273,0,0,0,1.0,0.0,654.0,0.0,0.0,New York Rangers,2.7
 2023021169,2024-03-30,8482147,J. Foudy,Colorado Avalanche,0,0,0,0,0,0,348,0,0,0,0.5,0.0,463.5,0.0,0.0,Nashville Predators,2.4
@@ -132716,6 +132802,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8482659,J. Doan,Buffalo Sabres,0,0,0,1,1,0,725,0,0,0,0.2,0.0,1048.0,0.0,1.8,Minnesota Wild,3.2
 2026020057,2026-10-08,8482659,J. Doan,Buffalo Sabres,0,0,0,3,0,0,986,0,0,0,0.2,0.0,1025.4,0.0,1.6,Dallas Stars,3.2
 2026020074,2026-10-10,8482659,J. Doan,Buffalo Sabres,0,0,0,4,1,2,856,0,0,0,0.1,0.0,1019.4,0.0,1.7,Utah Mammoth,3.3
+2026020087,2026-10-12,8482659,J. Doan,Buffalo Sabres,1,0,0,0,2,0,975,0,0,1,0.1,0.0,1006.2,0.0,1.9,Florida Panthers,2.7
 2023020022,2023-10-14,8482660,K. Johnson,Columbus Blue Jackets,0,1,0,0,1,0,747,0,0,0,0.0,0.0,0.0,0.0,0.0,New York Rangers,1.0
 2023020035,2023-10-16,8482660,K. Johnson,Columbus Blue Jackets,0,0,0,1,1,0,864,0,0,0,0.0,0.0,747.0,0.0,0.0,Detroit Red Wings,4.0
 2023020063,2023-10-20,8482660,K. Johnson,Columbus Blue Jackets,0,0,0,0,0,0,672,0,0,0,0.0,0.0,805.5,0.0,0.5,Calgary Flames,3.25
@@ -133698,6 +133785,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8482671,O. Power,Buffalo Sabres,1,1,0,0,0,0,1744,0,0,1,0.0,0.0,1364.6,0.0,0.7,Minnesota Wild,3.2
 2026020057,2026-10-08,8482671,O. Power,Buffalo Sabres,0,0,0,0,0,0,1523,0,0,0,0.1,0.0,1410.6,0.0,0.7,Dallas Stars,3.2
 2026020074,2026-10-10,8482671,O. Power,Buffalo Sabres,0,0,0,0,2,2,1506,0,0,0,0.1,0.0,1450.8,0.0,0.7,Utah Mammoth,3.3
+2026020087,2026-10-12,8482671,O. Power,Buffalo Sabres,0,2,0,0,0,0,1591,0,0,0,0.1,0.0,1479.6,0.0,0.5,Florida Panthers,2.7
 2025020590,2025-12-27,8482673,X. Bourgault,Ottawa Senators,0,0,0,0,0,0,403,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.0
 2025020841,2026-01-28,8482673,X. Bourgault,Ottawa Senators,0,0,0,3,0,0,312,0,0,0,0.0,0.0,403.0,0.0,0.0,Colorado Avalanche,3.0
 2024010092,2024-10-04,8482674,T. Boucher,Ottawa Senators,0,1,0,5,0,0,1054,0,0,0,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,3.3
@@ -134121,6 +134209,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8482684,L. Hughes,New Jersey Devils,0,0,0,0,0,2,1301,0,0,0,0.1,0.0,1410.2,0.0,0.2,New York Islanders,3.6
 2026020047,2026-10-06,8482684,L. Hughes,New Jersey Devils,0,0,0,0,0,0,1573,0,0,0,0.1,0.0,1411.4,0.0,0.2,Utah Mammoth,3.1
 2026020071,2026-10-10,8482684,L. Hughes,New Jersey Devils,0,1,0,0,0,0,1393,0,0,0,0.1,0.0,1446.6,0.0,0.2,Vancouver Canucks,4.3
+2026020088,2026-10-12,8482684,L. Hughes,New Jersey Devils,0,0,0,0,1,2,1373,0,0,0,0.1,0.0,1445.8,0.0,0.2,Ottawa Senators,2.3
 2024010097,2024-10-04,8482691,A. Raty,Vancouver Canucks,0,0,0,0,0,2,654,0,0,0,0.0,0.0,0.0,0.0,0.0,Edmonton Oilers,3.1
 2024020009,2024-10-09,8482691,A. Raty,Vancouver Canucks,0,1,0,0,0,0,526,0,0,0,0.0,0.0,654.0,0.0,0.0,Calgary Flames,3.6
 2024020022,2024-10-11,8482691,A. Raty,Vancouver Canucks,0,0,0,4,0,0,622,0,0,0,0.0,0.0,590.0,0.0,0.0,Philadelphia Flyers,4.1
@@ -137540,6 +137629,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8482803,O. Zellweger,Buffalo Sabres,0,0,0,0,1,0,892,0,0,0,0.1,0.0,821.9,0.0,0.2,Minnesota Wild,3.2
 2026020057,2026-10-08,8482803,O. Zellweger,Buffalo Sabres,0,0,0,1,0,0,1063,0,0,0,0.1,0.0,820.7,0.0,0.2,Dallas Stars,3.2
 2026020074,2026-10-10,8482803,O. Zellweger,Buffalo Sabres,0,0,0,0,0,2,1110,0,0,0,0.1,0.0,845.4,0.0,0.3,Utah Mammoth,3.3
+2026020087,2026-10-12,8482803,O. Zellweger,Buffalo Sabres,0,1,0,0,0,2,1203,0,0,0,0.1,0.0,886.0,0.0,0.3,Florida Panthers,2.7
 2025020469,2025-12-09,8482804,T. Murchison,Philadelphia Flyers,0,0,0,3,1,0,896,0,0,0,0.0,0.0,0.0,0.0,0.0,San Jose Sharks,3.4
 2025020483,2025-12-11,8482804,T. Murchison,Philadelphia Flyers,0,0,0,1,0,0,821,0,0,0,0.0,0.0,896.0,0.0,3.0,Vegas Golden Knights,2.9
 2025020501,2025-12-13,8482804,T. Murchison,Philadelphia Flyers,0,0,0,1,1,0,984,0,0,0,0.0,0.0,858.5,0.0,2.0,Carolina Hurricanes,2.7
@@ -138277,6 +138367,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025030211,2026-05-06,8482896,T. Kozak,Buffalo Sabres,0,0,0,0,0,0,656,0,0,0,0.0,0.0,674.7,0.0,3.0,Montréal Canadiens,2.5
 2025030212,2026-05-08,8482896,T. Kozak,Buffalo Sabres,0,0,0,0,0,0,602,0,0,0,0.0,0.0,693.2,0.0,2.9,Montréal Canadiens,2.4
 2026020074,2026-10-10,8482896,T. Kozak,Buffalo Sabres,0,0,0,1,0,0,452,0,0,0,0.0,0.0,679.9,0.0,2.6,Utah Mammoth,3.3
+2026020087,2026-10-12,8482896,T. Kozak,Buffalo Sabres,0,0,0,1,0,0,646,0,0,0,0.0,0.0,660.1,0.0,2.4,Florida Panthers,2.7
 2025020121,2025-10-23,8482911,J. Nystrom,Carolina Hurricanes,0,0,0,0,0,0,962,0,0,0,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,2.4
 2025020138,2025-10-25,8482911,J. Nystrom,Carolina Hurricanes,0,0,0,1,1,2,1077,0,0,0,0.0,0.0,962.0,0.0,0.0,Dallas Stars,4.2
 2025020155,2025-10-28,8482911,J. Nystrom,Carolina Hurricanes,0,0,0,1,2,0,919,0,0,0,0.0,0.0,1019.5,0.0,0.5,Vegas Golden Knights,2.5
@@ -140443,6 +140534,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020022,2026-10-03,8483468,J.Kulich,Buffalo Sabres,1,0,0,1,0,0,811,0,0,1,0.3,0.0,920.2,0.0,0.9,Chicago Blackhawks,4.2
 2026020049,2026-10-06,8483468,J.Kulich,Buffalo Sabres,0,1,0,2,1,0,836,0,0,0,0.3,0.0,918.8,0.0,0.8,Minnesota Wild,3.2
 2026020057,2026-10-08,8483468,J.Kulich,Buffalo Sabres,0,0,0,1,0,0,702,0,0,0,0.3,0.0,908.7,0.0,1.0,Dallas Stars,3.2
+2026020087,2026-10-12,8483468,J.Kulich,Buffalo Sabres,0,0,0,1,1,0,832,0,0,0,0.2,0.0,870.9,0.0,1.1,Florida Panthers,2.7
 2023021308,2024-04-18,8483471,B. Lambert,Winnipeg Jets,0,1,0,0,1,0,831,0,0,0,0.0,0.0,0.0,0.0,0.0,Vancouver Canucks,3.0
 2024020403,2024-12-03,8483471,B. Lambert,Winnipeg Jets,0,0,0,1,3,0,907,0,0,0,0.0,0.0,831.0,0.0,0.0,St. Louis Blues,2.7
 2024020410,2024-12-05,8483471,B. Lambert,Winnipeg Jets,0,0,0,1,1,0,541,0,0,0,0.0,0.0,869.0,0.0,0.5,Buffalo Sabres,3.2
@@ -140542,6 +140634,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020071,2026-10-10,8483476,J. Lekkerimäki,Vancouver Canucks,0,0,0,1,1,2,879,0,0,0,0.2,0.0,747.4,0.0,0.5,New Jersey Devils,3.6
 2026020085,2026-10-11,8483476,J. Lekkerimäki,Vancouver Canucks,0,1,0,3,0,0,892,0,0,0,0.2,0.0,795.8,0.0,0.6,New York Rangers,2.2
 2026020073,2026-10-10,8483478,R. Lorenz,Minnesota Wild,0,0,0,2,0,10,432,0,0,0,0.0,0.0,0.0,0.0,0.0,Florida Panthers,3.2
+2026020089,2026-10-12,8483478,R. Lorenz,Minnesota Wild,0,1,0,0,0,5,540,0,0,0,0.0,0.0,432.0,0.0,2.0,Vegas Golden Knights,3.2
 2024021152,2025-03-27,8483481,C. Lund,San Jose Sharks,0,0,0,0,0,0,666,0,0,0,0.0,0.0,0.0,0.0,0.0,Toronto Maple Leafs,3.5
 2024021168,2025-03-29,8483481,C. Lund,San Jose Sharks,1,0,0,1,0,0,724,0,0,1,0.0,0.0,666.0,0.0,0.0,New York Rangers,3.1
 2024021177,2025-03-30,8483481,C. Lund,San Jose Sharks,1,0,0,0,0,2,812,0,0,1,0.5,0.0,695.0,0.0,0.5,Los Angeles Kings,1.7
@@ -141634,6 +141727,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8483500,N. Ostlund,Buffalo Sabres,1,0,0,0,1,0,1239,0,0,1,0.2,0.0,856.3,0.0,0.0,Minnesota Wild,3.2
 2026020057,2026-10-08,8483500,N. Ostlund,Buffalo Sabres,0,0,0,0,0,0,1025,0,0,0,0.3,0.0,885.6,0.0,0.0,Dallas Stars,3.2
 2026020074,2026-10-10,8483500,N. Ostlund,Buffalo Sabres,0,0,0,0,0,0,1148,0,0,0,0.2,0.0,891.5,0.0,0.0,Utah Mammoth,3.3
+2026020087,2026-10-12,8483500,N. Ostlund,Buffalo Sabres,1,0,0,0,0,0,1074,0,0,1,0.2,0.0,928.2,0.0,0.0,Florida Panthers,2.7
 2024020279,2024-11-16,8483503,O. Pickering,Pittsburgh Penguins,0,1,0,0,1,0,820,0,0,0,0.0,0.0,0.0,0.0,0.0,San Jose Sharks,3.0
 2024020295,2024-11-19,8483503,O. Pickering,Pittsburgh Penguins,0,0,0,0,0,0,1059,0,0,0,0.0,0.0,820.0,0.0,0.0,Tampa Bay Lightning,2.5
 2024020316,2024-11-22,8483503,O. Pickering,Pittsburgh Penguins,0,0,0,0,0,0,839,0,0,0,0.0,0.0,939.5,0.0,0.0,Winnipeg Jets,2.4
@@ -142591,6 +142685,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8483525,D. Yurov,Minnesota Wild,1,0,0,1,0,0,861,0,0,1,0.1,0.0,743.2,0.0,1.3,Buffalo Sabres,3.7
 2026020060,2026-10-08,8483525,D. Yurov,Minnesota Wild,0,0,0,4,2,0,683,0,0,0,0.2,0.0,765.1,0.0,1.1,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8483525,D. Yurov,Minnesota Wild,0,0,0,1,0,0,908,0,0,0,0.2,0.0,743.2,0.0,1.2,Florida Panthers,3.2
+2026020089,2026-10-12,8483525,D. Yurov,Minnesota Wild,1,0,0,0,1,4,641,0,0,1,0.2,0.0,767.3,0.0,1.3,Vegas Golden Knights,3.2
 2025020690,2026-01-08,8483526,D. Zhilkin,Winnipeg Jets,0,0,0,0,0,0,415,0,0,0,0.0,0.0,0.0,0.0,0.0,Edmonton Oilers,3.1
 2025020695,2026-01-09,8483526,D. Zhilkin,Winnipeg Jets,0,0,0,1,2,0,627,0,0,0,0.0,0.0,415.0,0.0,0.0,Los Angeles Kings,3.1
 2025020711,2026-01-11,8483526,D. Zhilkin,Winnipeg Jets,0,0,0,0,1,0,473,0,0,0,0.0,0.0,521.0,0.0,0.5,New Jersey Devils,3.3
@@ -142725,6 +142820,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8483553,M. Gatcomb,Vegas Golden Knights,0,0,0,1,1,7,549,0,0,0,0.2,0.0,594.9,0.0,3.0,Seattle Kraken,3.4
 2026020065,2026-10-08,8483553,M. Gatcomb,Vegas Golden Knights,0,0,0,1,0,0,608,0,0,0,0.1,0.0,591.4,0.0,2.8,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8483553,M. Gatcomb,Vegas Golden Knights,0,0,0,0,0,0,653,0,0,0,0.1,0.0,583.3,0.0,2.8,Los Angeles Kings,3.8
+2026020089,2026-10-12,8483553,M. Gatcomb,Vegas Golden Knights,0,0,0,3,1,0,583,0,0,0,0.1,0.0,581.9,0.0,2.5,Minnesota Wild,3.3
 2023020397,2023-12-07,8483565,N. Blankenburg,Columbus Blue Jackets,0,0,0,2,1,0,1020,0,0,0,0.0,0.0,0.0,0.0,0.0,New York Islanders,3.3
 2023020405,2023-12-08,8483565,N. Blankenburg,Columbus Blue Jackets,0,0,0,3,1,0,1142,0,0,0,0.0,0.0,1020.0,0.0,2.0,St. Louis Blues,3.9
 2023020420,2023-12-10,8483565,N. Blankenburg,Columbus Blue Jackets,0,0,0,2,2,0,927,0,0,0,0.0,0.0,1081.0,0.0,2.5,Florida Panthers,2.1
@@ -143283,6 +143379,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8483676,S. Halliday,Ottawa Senators,0,0,0,1,0,0,637,0,0,0,0.2,0.0,558.7,0.0,0.6,Detroit Red Wings,4.1
 2026020059,2026-10-08,8483676,S. Halliday,Ottawa Senators,0,0,0,0,1,0,703,0,0,0,0.2,0.0,581.8,0.0,0.7,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8483676,S. Halliday,Ottawa Senators,0,0,0,1,1,0,477,0,0,0,0.1,0.0,608.9,0.0,0.4,Nashville Predators,2.6
+2026020088,2026-10-12,8483676,S. Halliday,Ottawa Senators,1,0,0,0,3,0,506,0,0,1,0.1,0.0,611.2,0.0,0.5,New Jersey Devils,3.4
 2024010104,2024-10-05,8483677,S. Savoie,Chicago Blackhawks,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,St. Louis Blues,3.2
 2024020786,2025-01-25,8483678,E. Pettersson,Vancouver Canucks,0,0,0,2,1,0,637,0,0,0,0.0,0.0,0.0,0.0,0.0,Washington Capitals,1.5
 2024020796,2025-01-27,8483678,E. Pettersson,Vancouver Canucks,0,0,0,2,0,0,713,0,0,0,0.0,0.0,637.0,0.0,2.0,St. Louis Blues,3.2
@@ -143498,6 +143595,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020029,2026-10-03,8483695,A. Lombardi,New Jersey Devils,0,0,0,0,0,4,493,0,0,0,0.0,0.0,483.0,0.0,0.0,New York Islanders,3.6
 2026020047,2026-10-06,8483695,A. Lombardi,New Jersey Devils,0,0,0,1,0,0,612,0,0,0,0.0,0.0,488.0,0.0,0.0,Utah Mammoth,3.1
 2026020071,2026-10-10,8483695,A. Lombardi,New Jersey Devils,0,1,0,1,0,0,846,0,0,0,0.0,0.0,529.3333333333334,0.0,0.3333333333333333,Vancouver Canucks,4.3
+2026020088,2026-10-12,8483695,A. Lombardi,New Jersey Devils,0,0,0,1,0,2,730,0,0,0,0.0,0.0,608.5,0.0,0.5,Ottawa Senators,2.3
 2025021307,2026-04-16,8483696,C. O'Hara,Nashville Predators,0,1,0,2,0,0,683,0,0,0,0.0,0.0,0.0,0.0,0.0,Anaheim Ducks,3.9
 2025020958,2026-03-02,8483699,A. Booth,Los Angeles Kings,1,0,0,2,1,0,738,0,0,1,0.0,0.0,0.0,0.0,0.0,Colorado Avalanche,3.2
 2025090005,2026-02-12,8483704,D. Locmelis,Latvia Latvia,0,0,0,0,0,0,858,0,0,0,0.0,0.0,0.0,0.0,0.0,USA,0.0
@@ -143781,6 +143879,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020016,2026-10-01,8483771,S. Vilmanis,Florida Panthers,0,0,0,4,0,0,739,0,0,0,0.1,0.0,755.8,0.0,1.4,San Jose Sharks,3.4
 2026020052,2026-10-06,8483771,S. Vilmanis,Florida Panthers,0,0,0,3,0,0,709,0,0,0,0.1,0.0,735.7,0.0,1.8,Los Angeles Kings,3.6
 2026020073,2026-10-10,8483771,S. Vilmanis,Florida Panthers,0,0,0,3,0,0,813,0,0,0,0.1,0.0,697.6,0.0,2.1,Minnesota Wild,3.4
+2026020087,2026-10-12,8483771,S. Vilmanis,Florida Panthers,0,1,0,0,1,0,741,0,0,0,0.1,0.0,689.3,0.0,2.4,Buffalo Sabres,3.9
 2023020009,2023-10-11,8483808,A. Kuzmenko,Vancouver Canucks,0,1,0,0,0,0,983,0,0,0,0.0,0.0,0.0,0.0,0.0,Edmonton Oilers,0.0
 2023020029,2023-10-14,8483808,A. Kuzmenko,Vancouver Canucks,1,0,0,0,0,0,724,0,0,1,0.0,0.0,983.0,0.0,0.0,Edmonton Oilers,8.0
 2023020042,2023-10-17,8483808,A. Kuzmenko,Vancouver Canucks,0,0,0,1,0,0,1046,0,0,0,0.5,0.0,853.5,0.0,0.0,Philadelphia Flyers,3.5
@@ -144045,6 +144144,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8483890,B. Bowman,Vegas Golden Knights,0,0,0,0,0,0,906,0,0,0,0.1,0.0,755.4,0.0,0.0,Seattle Kraken,3.4
 2026020065,2026-10-08,8483890,B. Bowman,Vegas Golden Knights,0,0,0,0,0,0,816,0,0,0,0.1,0.0,753.3,0.0,0.0,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8483890,B. Bowman,Vegas Golden Knights,0,0,0,1,0,0,764,0,0,0,0.1,0.0,731.9,0.0,0.0,Los Angeles Kings,3.8
+2026020089,2026-10-12,8483890,B. Bowman,Vegas Golden Knights,0,0,0,1,0,0,860,0,0,0,0.1,0.0,739.1,0.0,0.1,Minnesota Wild,3.3
 2023020906,2024-02-24,8483920,P. Dube,Washington Capitals,0,0,0,0,0,0,273,0,0,0,0.0,0.0,0.0,0.0,0.0,Florida Panthers,1.5
 2023020923,2024-02-26,8483920,P. Dube,Washington Capitals,0,0,0,2,1,2,745,0,0,0,0.0,0.0,273.0,0.0,0.0,Ottawa Senators,2.8
 2023020927,2024-02-27,8483920,P. Dube,Washington Capitals,0,0,0,0,2,0,661,0,0,0,0.0,0.0,509.0,0.0,1.0,Detroit Red Wings,2.7
@@ -144731,6 +144831,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8484145,Z. Benson,Buffalo Sabres,0,0,0,0,0,2,1241,0,0,0,0.4,0.0,1133.8,0.0,1.5,Minnesota Wild,3.2
 2026020057,2026-10-08,8484145,Z. Benson,Buffalo Sabres,0,0,0,2,0,0,1098,0,0,0,0.3,0.0,1157.2,0.0,1.4,Dallas Stars,3.2
 2026020074,2026-10-10,8484145,Z. Benson,Buffalo Sabres,0,0,0,2,1,0,1194,0,0,0,0.3,0.0,1165.4,0.0,1.4,Utah Mammoth,3.3
+2026020087,2026-10-12,8484145,Z. Benson,Buffalo Sabres,0,1,0,0,1,0,1180,0,0,0,0.2,0.0,1168.3,0.0,1.2,Florida Panthers,2.7
 2025021294,2026-04-14,8484148,O. Bonk,Philadelphia Flyers,1,1,0,2,0,0,988,0,0,1,0.0,0.0,0.0,0.0,0.0,Montréal Canadiens,2.1
 2025030224,2026-05-09,8484148,O. Bonk,Philadelphia Flyers,0,0,0,1,0,0,756,0,0,0,1.0,0.0,988.0,0.0,2.0,Carolina Hurricanes,1.2
 2026020086,2026-10-11,8484148,O. Bonk,Philadelphia Flyers,0,0,0,1,0,4,988,0,0,0,0.5,0.0,872.0,0.0,1.5,Carolina Hurricanes,2.6
@@ -146807,6 +146908,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8484305,Z. Metsa,Buffalo Sabres,0,0,0,1,1,0,644,0,0,0,0.1,0.0,773.1,0.0,0.0,Minnesota Wild,3.2
 2026020057,2026-10-08,8484305,Z. Metsa,Buffalo Sabres,0,0,0,0,1,0,813,0,0,0,0.1,0.0,764.2,0.0,0.1,Dallas Stars,3.2
 2026020074,2026-10-10,8484305,Z. Metsa,Buffalo Sabres,0,0,0,0,2,0,758,0,0,0,0.1,0.0,761.1,0.0,0.1,Utah Mammoth,3.3
+2026020087,2026-10-12,8484305,Z. Metsa,Buffalo Sabres,0,0,0,0,3,0,938,0,0,0,0.1,0.0,740.5,0.0,0.1,Florida Panthers,2.7
 2023020412,2023-12-09,8484314,J. Smejkal,Ottawa Senators,0,0,0,0,0,0,415,0,0,0,0.0,0.0,0.0,0.0,0.0,Detroit Red Wings,2.8
 2023020433,2023-12-12,8484314,J. Smejkal,Ottawa Senators,0,0,0,0,2,0,406,0,0,0,0.0,0.0,415.0,0.0,0.0,Carolina Hurricanes,3.6
 2023020478,2023-12-17,8484314,J. Smejkal,Ottawa Senators,0,0,0,4,1,0,783,0,0,0,0.0,0.0,410.5,0.0,0.0,Vegas Golden Knights,2.7
@@ -146939,6 +147041,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8484321,N. Matinpalo,Ottawa Senators,0,0,0,1,4,2,995,0,0,0,0.0,0.0,1138.1,0.0,0.9,Detroit Red Wings,4.1
 2026020059,2026-10-08,8484321,N. Matinpalo,Ottawa Senators,0,0,0,1,1,0,1032,0,0,0,0.0,0.0,1134.7,0.0,0.6,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8484321,N. Matinpalo,Ottawa Senators,0,0,0,1,2,0,955,0,0,0,0.0,0.0,1173.7,0.0,0.7,Nashville Predators,2.6
+2026020088,2026-10-12,8484321,N. Matinpalo,Ottawa Senators,0,0,0,0,0,0,139,0,0,0,0.0,0.0,1145.7,0.0,0.7,New Jersey Devils,3.4
 2023020001,2023-10-10,8484325,W. Merela,Tampa Bay Lightning,0,0,0,1,1,0,621,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,0.0
 2023020023,2023-10-14,8484325,W. Merela,Tampa Bay Lightning,0,0,0,2,0,0,721,0,0,0,0.0,0.0,621.0,0.0,1.0,Detroit Red Wings,4.0
 2023020033,2023-10-15,8484325,W. Merela,Tampa Bay Lightning,0,0,0,0,0,0,679,0,0,0,0.0,0.0,671.0,0.0,1.5,Ottawa Senators,3.5
@@ -147234,6 +147337,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2025021311,2026-04-16,8484406,T. Mueller,Vancouver Canucks,1,0,0,1,2,0,779,0,0,1,0.0,0.0,623.4285714285714,0.0,0.7142857142857143,Edmonton Oilers,2.3
 2026020059,2026-10-08,8484409,H. Stanley,Ottawa Senators,0,0,0,0,1,0,621,0,0,0,0.0,0.0,0.0,0.0,0.0,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8484409,H. Stanley,Ottawa Senators,0,0,0,0,1,2,538,0,0,0,0.0,0.0,621.0,0.0,0.0,Nashville Predators,2.6
+2026020088,2026-10-12,8484409,H. Stanley,Ottawa Senators,0,0,0,1,0,0,749,0,0,0,0.0,0.0,579.5,0.0,0.0,New Jersey Devils,3.4
 2024010099,2024-10-05,8484428,C. Legault,Carolina Hurricanes,0,0,0,0,1,2,933,0,0,0,0.0,0.0,0.0,0.0,0.0,Nashville Predators,3.8
 2025020097,2025-10-20,8484428,C. Legault,Carolina Hurricanes,0,0,0,1,2,0,750,0,0,0,0.0,0.0,933.0,0.0,0.0,Vegas Golden Knights,2.7
 2025020121,2025-10-23,8484428,C. Legault,Carolina Hurricanes,0,0,0,0,2,4,791,0,0,0,0.0,0.0,841.5,0.0,0.5,Colorado Avalanche,2.4
@@ -147402,6 +147506,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020046,2026-10-06,8484759,C. Yakemchuk,Ottawa Senators,0,1,0,0,0,0,1027,0,0,0,0.125,0.0,1011.125,0.0,0.0,Detroit Red Wings,4.1
 2026020059,2026-10-08,8484759,C. Yakemchuk,Ottawa Senators,1,0,0,1,0,0,885,0,0,1,0.1111111111111111,0.0,1012.8888888888889,0.0,0.0,Philadelphia Flyers,3.3
 2026020076,2026-10-10,8484759,C. Yakemchuk,Ottawa Senators,0,0,0,0,1,0,1192,0,0,0,0.2,0.0,1000.1,0.0,0.1,Nashville Predators,2.6
+2026020088,2026-10-12,8484759,C. Yakemchuk,Ottawa Senators,0,0,0,0,1,2,1345,0,0,0,0.2,0.0,973.4,0.0,0.1,New Jersey Devils,3.4
 2025020021,2025-10-09,8484762,B. Sennecke,Anaheim Ducks,1,0,0,3,1,0,1044,0,0,1,0.0,0.0,0.0,0.0,0.0,Seattle Kraken,2.9
 2025020036,2025-10-11,8484762,B. Sennecke,Anaheim Ducks,1,1,0,2,0,0,1154,0,0,1,1.0,0.0,1044.0,0.0,3.0,San Jose Sharks,4.0
 2025020056,2025-10-14,8484762,B. Sennecke,Anaheim Ducks,0,1,0,1,0,0,1137,0,0,0,1.0,0.0,1099.0,0.0,2.5,Pittsburgh Penguins,2.8
@@ -147694,6 +147799,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020022,2026-10-03,8484797,K. Helenius,Buffalo Sabres,0,0,0,2,0,0,879,0,0,0,0.3,0.0,780.4,0.0,1.2,Chicago Blackhawks,4.2
 2026020049,2026-10-06,8484797,K. Helenius,Buffalo Sabres,0,0,0,0,0,0,781,0,0,0,0.3,0.0,771.1,0.0,1.4,Minnesota Wild,3.2
 2026020057,2026-10-08,8484797,K. Helenius,Buffalo Sabres,0,0,0,0,1,0,818,0,0,0,0.3,0.0,770.5,0.0,1.4,Dallas Stars,3.2
+2026020087,2026-10-12,8484797,K. Helenius,Buffalo Sabres,0,0,0,0,0,0,892,0,0,0,0.3,0.0,792.9,0.0,1.3,Florida Panthers,2.7
 2025020015,2025-10-09,8484798,Z. Buium,Minnesota Wild,0,0,0,1,1,0,1210,0,0,0,0.0,0.0,0.0,0.0,0.0,St. Louis Blues,2.4
 2025020033,2025-10-11,8484798,Z. Buium,Minnesota Wild,1,1,0,0,2,0,1479,0,0,1,0.0,0.0,1210.0,0.0,1.0,Columbus Blue Jackets,2.4
 2025020047,2025-10-13,8484798,Z. Buium,Minnesota Wild,0,1,0,0,0,0,1093,0,0,0,0.5,0.0,1344.5,0.0,0.5,Los Angeles Kings,2.9
@@ -148013,6 +148119,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020051,2026-10-06,8484803,T. Connelly,Vegas Golden Knights,0,1,0,0,0,0,701,0,0,0,0.5,0.0,656.0,0.0,0.5,Seattle Kraken,3.4
 2026020065,2026-10-08,8484803,T. Connelly,Vegas Golden Knights,0,0,0,0,0,0,926,0,0,0,0.3333333333333333,0.0,671.0,0.0,0.3333333333333333,Toronto Maple Leafs,4.2
 2026020083,2026-10-10,8484803,T. Connelly,Vegas Golden Knights,1,1,0,1,0,0,852,0,0,1,0.25,0.0,734.75,0.0,0.25,Los Angeles Kings,3.8
+2026020089,2026-10-12,8484803,T. Connelly,Vegas Golden Knights,0,0,0,0,0,0,1112,0,0,0,0.4,0.0,758.2,0.0,0.4,Minnesota Wild,3.3
 2025020036,2025-10-11,8484806,S. Dickinson,San Jose Sharks,0,0,0,0,0,0,719,0,0,0,0.0,0.0,0.0,0.0,0.0,Anaheim Ducks,3.6
 2025020055,2025-10-14,8484806,S. Dickinson,San Jose Sharks,0,0,0,0,1,4,712,0,0,0,0.0,0.0,719.0,0.0,0.0,Carolina Hurricanes,4.1
 2025020075,2025-10-17,8484806,S. Dickinson,San Jose Sharks,0,0,0,0,0,0,914,0,0,0,0.0,0.0,715.5,0.0,0.0,Utah Mammoth,2.0
@@ -149221,6 +149328,7 @@ Game_ID,Date,Player_ID,Player_Name,Team,Goals,Assists,Shots,Hits,Blocked_Shots,P
 2026020049,2026-10-06,8485702,M. Shabanov,Minnesota Wild,1,0,0,3,1,0,1050,0,0,1,0.1,0.0,753.4,0.0,0.6,Buffalo Sabres,3.7
 2026020060,2026-10-08,8485702,M. Shabanov,Minnesota Wild,0,0,0,0,1,0,996,0,0,0,0.2,0.0,770.1,0.0,0.8,Tampa Bay Lightning,2.2
 2026020073,2026-10-10,8485702,M. Shabanov,Minnesota Wild,0,1,0,0,0,0,807,0,0,0,0.2,0.0,780.6,0.0,0.8,Florida Panthers,3.2
+2026020089,2026-10-12,8485702,M. Shabanov,Minnesota Wild,1,0,0,0,1,0,847,0,0,1,0.2,0.0,813.4,0.0,0.8,Vegas Golden Knights,3.2
 2025090004,2026-02-12,8485915,J. Flek,Czechia Czechia,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Canada,0.0
 2025090009,2026-02-13,8485915,J. Flek,Czechia Czechia,0,0,0,0,0,0,794,0,0,0,0.0,0.0,0.0,0.0,0.0,France,4.0
 2025090015,2026-02-15,8485915,J. Flek,Czechia Czechia,0,0,0,0,0,0,479,0,0,0,0.0,0.0,397.0,0.0,0.0,Switzerland Switzerland,2.5
